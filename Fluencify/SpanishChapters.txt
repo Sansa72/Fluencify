@@ -1,0 +1,264 @@
+
+/
+
+Chapter 1 - Greetings
+
+:
+
+Hola - Hello
+Adiós - Goodbye
+Buenos días - Good morning
+Buenas noches - Good night
+¿Cómo estás? - How are you?
+Estoy bien, gracias - I'm fine, thank you.
+Bienvenido - Welcome
+Hasta luego - See you later
+¿Qué tal? - How's it going?
+Más o menos - So-so
+¿Y tú? - And you?
+
+/
+
+Chapter 2 - Animals and Descriptions
+
+:
+
+Perro grande - Big dog
+Gato pequeño - Small cat
+Caballo rápido - Fast horse
+Vaca lechera - Dairy cow
+Oveja blanca - White sheep
+Ratón pequeño - Little mouse
+Pájaro cantor - Singing bird
+Pez rojo - Red fish
+¿De qué color es tu perro? - What color is your dog?
+Mi perro es negro - My dog is black.
+
+/
+
+Chapter 3 - Places and Directions
+
+:
+
+Casa grande - Big house
+Escuela nueva - New school
+Librería cerca - Bookstore nearby
+Restaurante italiano - Italian restaurant
+Hospital local - Local hospital
+Iglesia antigua - Old church
+Parque bonito - Beautiful park
+Museo interesante - Interesting museum
+¿Dónde está la librería? - Where is the bookstore?
+La librería está al lado del parque - The bookstore is next to the park.
+
+/
+
+Chapter 4 - Emotions and Reactions
+
+:
+
+Feliz por ti - Happy for you
+Triste por la noticia - Sad about the news
+Enojado con la situación - Angry about the situation
+Emocionado por el viaje - Excited for the trip
+Cansado por el trabajo - Tired from work
+Asustado por la oscuridad - Scared of the dark
+Sorprendido por la fiesta - Surprised by the party
+Confundido por las instrucciones - Confused by the instructions
+¿Cómo te sientes hoy? - How do you feel today?
+Me siento emocionado por el concierto - I feel excited about the concert.
+
+/
+
+Chapter 5 - Foods and Preferences
+
+:
+
+Manzana roja - Red apple
+Naranja dulce - Sweet orange
+Plátano maduro - Ripe banana
+Uvas verdes - Green grapes
+Pan fresco - Fresh bread
+Queso curado - Aged cheese
+Leche fría - Cold milk
+Huevo frito - Fried egg
+¿Qué te gusta más, el pan o el queso? - What do you like more, bread or cheese?
+Me gusta más el pan - I like bread more.
+
+/
+
+Chapter 6 - Days, Time, and Routine
+
+:
+
+Lunes por la mañana - Monday morning
+Martes por la tarde - Tuesday afternoon
+Miércoles al mediodía - Wednesday at noon
+Jueves por la noche - Thursday night
+Viernes al amanecer - Friday at dawn
+Sábado al anochecer - Saturday at dusk
+Domingo todo el día - Sunday all day
+Hora de dormir - Time to sleep
+¿A qué hora te levantas? - What time do you get up?
+Me levanto a las siete - I get up at seven.
+
+/
+
+Chapter 7 - Numbers and Quantities
+
+:
+
+Uno o dos - One or two
+Tres veces - Three times
+Cuatro estaciones - Four seasons
+Cinco dedos - Five fingers
+Seis huevos - Six eggs
+Siete días - Seven days
+Ocho rebanadas - Eight slices
+Nueve pisos - Nine floors
+¿Cuántos libros tienes? - How many books do you have?
+Tengo más de cien libros - I have more than a hundred books.
+
+/
+
+Chapter 8 - Colors and Objects
+
+:
+
+Rojo como un tomate - Red like a tomato
+Azul como el cielo - Blue like the sky
+Verde como la hierba - Green like the grass
+Amarillo como el sol - Yellow like the sun
+Naranja como una zanahoria - Orange like a carrot
+Morado como una uva - Purple like a grape
+Rosa como un flamenco - Pink like a flamingo
+Negro como la noche - Black like the night
+¿Cuál es tu color favorito? - What is your favorite color?
+Mi color favorito es el azul - My favorite color is blue.
+
+/
+
+Chapter 9 - Sizes and Measurements
+
+:
+
+Grande como una montaña - Big as a mountain
+Pequeño como un ratón - Small as a mouse
+Largo como un río - Long as a river
+Corto como un camino - Short as a path
+Alto como un edificio - Tall as a building
+Bajo como una mesa - Short (height) as a table
+Ancho como un puente - Wide as a bridge
+Estrecho como un callejón - Narrow as an alley
+¿Cuánto mide la mesa? - How long is the table?
+La mesa mide dos metros - The table measures two meters.
+
+/
+
+Chapter 10 - Weather and Seasons
+
+:
+
+Frío en invierno - Cold in winter
+Caliente en verano - Hot in summer
+Lluvioso en primavera - Rainy in spring
+Soleado en otoño - Sunny in autumn
+Nublado en la mañana - Cloudy in the morning
+Tormenta por la tarde - Storm in the afternoon
+Nieve en la montaña - Snow on the mountain
+Viento en la playa - Wind on the beach
+¿Qué tiempo hace hoy? - What's the weather like today?
+Hoy hace buen tiempo - The weather is good today.
+
+/
+
+Chapter 11 - Family and Relationships
+
+:
+
+Madre cariñosa - Loving mother
+Padre trabajador - Hardworking father
+Hermano mayor - Older brother
+Hermana menor - Younger sister
+Abuelos sabios - Wise grandparents
+Amigos fieles - Faithful friends
+Vecino amable - Kind neighbor
+Compañero de clase - Classmate
+¿Cómo es tu familia? - What is your family like?
+Mi familia es grande y unida - My family is large and close-knit.
+
+/
+
+Chapter 12 - Activities and Hobbies
+
+:
+
+Leer libros - Read books
+Escribir historias - Write stories
+Jugar al fútbol - Play soccer
+Nadar en la piscina - Swim in the pool
+Viajar por el mundo - Travel the world
+Cocinar recetas nuevas - Cook new recipes
+Tocar la guitarra - Play the guitar
+Pintar paisajes - Paint landscapes
+¿Qué te gusta hacer en tu tiempo libre? - What do you like to do in your free time?
+En mi tiempo libre, me gusta leer - In my free time, I like to read.
+
+/
+
+Chapter 13 - Tenses in Spanish
+
+:
+
+Present Tense (El Presente):
+
+Hablar (to speak)
+Yo hablo - I speak
+Tú hablas - You speak (informal)
+Él/Ella/Usted habla - He/She/You speak (formal)
+
+Comer (to eat)
+Yo como - I eat
+Tú comes - You eat (informal)
+Él/Ella/Usted come - He/She/You eat (formal)
+
+Vivir (to live)
+Yo vivo - I live
+Tú vives - You live (informal)
+Él/Ella/Usted vive - He/She/You live (formal)
+
+Past Tense (El Pasado):
+
+Simple Past (El Pretérito Perfecto Simple)
+
+Hablar - to speak
+Yo hablé - I spoke
+Tú hablaste - You spoke (informal)
+Él/Ella/Usted habló - He/She/You spoke (formal)
+
+Comer - to eat
+Yo comí - I ate
+Tú comiste - You ate (informal)
+Él/Ella/Usted comió - He/She/You ate (formal)
+
+Vivir - to live
+Yo viví - I lived
+Tú viviste - You lived (informal)
+Él/Ella/Usted vivió - He/She/You lived (formal)
+
+
+Future Tense (El Futuro)
+Hablar (to speak)
+Yo hablaré - I will speak
+Tú hablarás - You will speak (informal)
+Él/Ella/Usted hablará - He/She/You will speak (formal)
+
+Comer (to eat)
+Yo comeré - I will eat
+Tú comerás - You will eat (informal)
+Él/Ella/Usted comerá - He/She/You will eat (formal)
+
+Vivir (to live)
+Yo viviré - I will live
+Tú vivirás - You will live (informal)
+Él/Ella/Usted vivirá - He/She/You will live (formal)

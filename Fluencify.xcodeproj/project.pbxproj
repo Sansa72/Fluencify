@@ -7,6 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EB23D8422B4A3FFF007B18C6 /* TrophiesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB23D8412B4A3FFF007B18C6 /* TrophiesViewController.swift */; };
+		EB23D8442B4A4046007B18C6 /* HomeScreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB23D8432B4A4046007B18C6 /* HomeScreenViewController.swift */; };
+		EB23D84C2B4B47F8007B18C6 /* LearnViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB23D84B2B4B47F8007B18C6 /* LearnViewController.swift */; };
+		EB240E8B2B83A62D00861BC2 /* ChapterStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB240E8A2B83A62D00861BC2 /* ChapterStructure.swift */; };
+		EB240E8D2B83AB4700861BC2 /* ChaptersTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB240E8C2B83AB4700861BC2 /* ChaptersTableViewCell.swift */; };
+		EB240E8F2B88F8A100861BC2 /* ChaptContentTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB240E8E2B88F8A000861BC2 /* ChaptContentTableViewCell.swift */; };
+		EB240E912B88F94A00861BC2 /* ChaptContentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB240E902B88F94A00861BC2 /* ChaptContentViewController.swift */; };
+		EB5DEB8A2B729FAC006BE283 /* UserPreferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB5DEB892B729FAC006BE283 /* UserPreferences.swift */; };
+		EB5DEB8C2B72BC5B006BE283 /* SpanishChapters.txt in Resources */ = {isa = PBXBuildFile; fileRef = EB5DEB8B2B72BC5B006BE283 /* SpanishChapters.txt */; };
+		EB5DEB8E2B72BE1F006BE283 /* ItalianChapters.txt in Resources */ = {isa = PBXBuildFile; fileRef = EB5DEB8D2B72BE1F006BE283 /* ItalianChapters.txt */; };
+		EB77529B2B3DE9B600FE3C39 /* ChooseDifficulty.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB77529A2B3DE9B600FE3C39 /* ChooseDifficulty.swift */; };
 		EB79A0D32B31EE1D0049547A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB79A0D22B31EE1D0049547A /* AppDelegate.swift */; };
 		EB79A0D52B31EE1D0049547A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB79A0D42B31EE1D0049547A /* SceneDelegate.swift */; };
 		EB79A0D72B31EE1D0049547A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB79A0D62B31EE1D0049547A /* ViewController.swift */; };
@@ -16,6 +27,9 @@
 		EB79A0EA2B31EE200049547A /* FluencifyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB79A0E92B31EE200049547A /* FluencifyTests.swift */; };
 		EB79A0F42B31EE200049547A /* FluencifyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB79A0F32B31EE200049547A /* FluencifyUITests.swift */; };
 		EB79A0F62B31EE200049547A /* FluencifyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB79A0F52B31EE200049547A /* FluencifyUITestsLaunchTests.swift */; };
+		EB79A1092B335F880049547A /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB79A1082B335F880049547A /* TableViewCell.swift */; };
+		EB79A10B2B3370060049547A /* LanguageSetup.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB79A10A2B3370060049547A /* LanguageSetup.swift */; };
+		EBB29DBA2BA8990C00E65901 /* HomeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBB29DB92BA8990C00E65901 /* HomeTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +50,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EB23D8412B4A3FFF007B18C6 /* TrophiesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrophiesViewController.swift; sourceTree = "<group>"; };
+		EB23D8432B4A4046007B18C6 /* HomeScreenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeScreenViewController.swift; sourceTree = "<group>"; };
+		EB23D84B2B4B47F8007B18C6 /* LearnViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearnViewController.swift; sourceTree = "<group>"; };
+		EB240E8A2B83A62D00861BC2 /* ChapterStructure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChapterStructure.swift; sourceTree = "<group>"; };
+		EB240E8C2B83AB4700861BC2 /* ChaptersTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChaptersTableViewCell.swift; sourceTree = "<group>"; };
+		EB240E8E2B88F8A000861BC2 /* ChaptContentTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChaptContentTableViewCell.swift; sourceTree = "<group>"; };
+		EB240E902B88F94A00861BC2 /* ChaptContentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChaptContentViewController.swift; sourceTree = "<group>"; };
+		EB5DEB892B729FAC006BE283 /* UserPreferences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserPreferences.swift; sourceTree = "<group>"; };
+		EB5DEB8B2B72BC5B006BE283 /* SpanishChapters.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = SpanishChapters.txt; sourceTree = "<group>"; };
+		EB5DEB8D2B72BE1F006BE283 /* ItalianChapters.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ItalianChapters.txt; sourceTree = "<group>"; };
+		EB77529A2B3DE9B600FE3C39 /* ChooseDifficulty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChooseDifficulty.swift; sourceTree = "<group>"; };
 		EB79A0CF2B31EE1D0049547A /* Fluencify.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Fluencify.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB79A0D22B31EE1D0049547A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EB79A0D42B31EE1D0049547A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +74,9 @@
 		EB79A0EF2B31EE200049547A /* FluencifyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FluencifyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB79A0F32B31EE200049547A /* FluencifyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FluencifyUITests.swift; sourceTree = "<group>"; };
 		EB79A0F52B31EE200049547A /* FluencifyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FluencifyUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		EB79A1082B335F880049547A /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		EB79A10A2B3370060049547A /* LanguageSetup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LanguageSetup.swift; sourceTree = "<group>"; };
+		EBB29DB92BA8990C00E65901 /* HomeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +131,20 @@
 				EB79A0D42B31EE1D0049547A /* SceneDelegate.swift */,
 				EB79A0D62B31EE1D0049547A /* ViewController.swift */,
 				EB79A0D82B31EE1D0049547A /* Main.storyboard */,
+				EB5DEB892B729FAC006BE283 /* UserPreferences.swift */,
+				EB79A10A2B3370060049547A /* LanguageSetup.swift */,
+				EB77529A2B3DE9B600FE3C39 /* ChooseDifficulty.swift */,
+				EB79A1082B335F880049547A /* TableViewCell.swift */,
+				EB240E8E2B88F8A000861BC2 /* ChaptContentTableViewCell.swift */,
+				EB240E8C2B83AB4700861BC2 /* ChaptersTableViewCell.swift */,
+				EB23D8432B4A4046007B18C6 /* HomeScreenViewController.swift */,
+				EBB29DB92BA8990C00E65901 /* HomeTableViewCell.swift */,
+				EB240E902B88F94A00861BC2 /* ChaptContentViewController.swift */,
+				EB23D8412B4A3FFF007B18C6 /* TrophiesViewController.swift */,
+				EB23D84B2B4B47F8007B18C6 /* LearnViewController.swift */,
+				EB240E8A2B83A62D00861BC2 /* ChapterStructure.swift */,
+				EB5DEB8D2B72BE1F006BE283 /* ItalianChapters.txt */,
+				EB5DEB8B2B72BC5B006BE283 /* SpanishChapters.txt */,
 				EB79A0DB2B31EE1F0049547A /* Assets.xcassets */,
 				EB79A0DD2B31EE1F0049547A /* LaunchScreen.storyboard */,
 				EB79A0E02B31EE1F0049547A /* Info.plist */,
@@ -232,7 +274,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				EB79A0DF2B31EE1F0049547A /* LaunchScreen.storyboard in Resources */,
+				EB5DEB8C2B72BC5B006BE283 /* SpanishChapters.txt in Resources */,
 				EB79A0DC2B31EE1F0049547A /* Assets.xcassets in Resources */,
+				EB5DEB8E2B72BE1F006BE283 /* ItalianChapters.txt in Resources */,
 				EB79A0DA2B31EE1D0049547A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -258,9 +302,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EB79A1092B335F880049547A /* TableViewCell.swift in Sources */,
 				EB79A0D72B31EE1D0049547A /* ViewController.swift in Sources */,
+				EB23D84C2B4B47F8007B18C6 /* LearnViewController.swift in Sources */,
 				EB79A0D32B31EE1D0049547A /* AppDelegate.swift in Sources */,
+				EB77529B2B3DE9B600FE3C39 /* ChooseDifficulty.swift in Sources */,
+				EB5DEB8A2B729FAC006BE283 /* UserPreferences.swift in Sources */,
+				EB23D8442B4A4046007B18C6 /* HomeScreenViewController.swift in Sources */,
+				EB240E8D2B83AB4700861BC2 /* ChaptersTableViewCell.swift in Sources */,
 				EB79A0D52B31EE1D0049547A /* SceneDelegate.swift in Sources */,
+				EB240E8B2B83A62D00861BC2 /* ChapterStructure.swift in Sources */,
+				EB240E912B88F94A00861BC2 /* ChaptContentViewController.swift in Sources */,
+				EB79A10B2B3370060049547A /* LanguageSetup.swift in Sources */,
+				EB23D8422B4A3FFF007B18C6 /* TrophiesViewController.swift in Sources */,
+				EB240E8F2B88F8A100861BC2 /* ChaptContentTableViewCell.swift in Sources */,
+				EBB29DBA2BA8990C00E65901 /* HomeTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

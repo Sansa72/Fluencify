@@ -1,0 +1,262 @@
+/
+
+Chapter 1 - Greetings
+
+:
+
+Ciao - Hello
+Addio - Goodbye
+Buongiorno - Good morning
+Buonanotte - Good night
+Come stai? - How are you?
+Sto bene, grazie - I'm fine, thank you.
+Benvenuto - Welcome
+A dopo - See you later
+Come va? - How's it going?
+Così così - So-so
+E tu? - And you?
+
+/
+
+Chapter 2 - Animals and Descriptions
+
+:
+
+Cane grande - Big dog
+Gatto piccolo - Small cat
+Cavallo veloce - Fast horse
+Mucca da latte - Dairy cow
+Pecora bianca - White sheep
+Topo piccolo - Little mouse
+Uccello canterino - Singing bird
+Pesce rosso - Red fish
+Di che colore è il tuo cane? - What color is your dog?
+Il mio cane è nero - My dog is black.
+
+/
+
+Chapter 3 - Places and Directions
+
+:
+
+Casa grande - Big house
+Scuola nuova - New school
+Libreria vicina - Bookstore nearby
+Ristorante italiano - Italian restaurant
+Ospedale locale - Local hospital
+Chiesa antica - Old church
+Parco bello - Beautiful park
+Museo interessante - Interesting museum
+Dove si trova la libreria? - Where is the bookstore?
+La libreria è accanto al parco - The bookstore is next to the park.
+
+/
+
+Chapter 4 - Emotions and Reactions
+
+:
+
+Felice per te - Happy for you
+Triste per la notizia - Sad about the news
+Arrabbiato per la situazione - Angry about the situation
+Eccitato per il viaggio - Excited for the trip
+Stanco per il lavoro - Tired from work
+Spaventato dal buio - Scared of the dark
+Sorpreso dalla festa - Surprised by the party
+Confuso dalle istruzioni - Confused by the instructions
+Come ti senti oggi? - How do you feel today?
+Mi sento eccitato per il concerto - I feel excited about the concert.
+
+/
+
+Chapter 5 - Foods and Preferences
+
+:
+
+Mela rossa - Red apple
+Arancia dolce - Sweet orange
+Banana matura - Ripe banana
+Uva verde - Green grapes
+Pane fresco - Fresh bread
+Formaggio stagionato - Aged cheese
+Latte freddo - Cold milk
+Uovo fritto - Fried egg
+Cosa preferisci, pane o formaggio? - What do you prefer, bread or cheese?
+Preferisco il pane - I prefer bread.
+
+/
+
+Chapter 6 - Days, Time, and Routine
+
+:
+
+Lunedì mattina - Monday morning
+Martedì pomeriggio - Tuesday afternoon
+Mercoledì a mezzogiorno - Wednesday at noon
+Giovedì sera - Thursday evening
+Venerdì all'alba - Friday at dawn
+Sabato al tramonto - Saturday at dusk
+Domenica tutto il giorno - Sunday all day
+Ora di dormire - Time to sleep
+A che ora ti alzi? - What time do you get up?
+Mi alzo alle sette - I get up at seven.
+
+/
+
+Chapter 7 - Numbers and Quantities
+
+:
+
+Uno o due - One or two
+Tre volte - Three times
+Quattro stagioni - Four seasons
+Cinque dita - Five fingers
+Sei uova - Six eggs
+Sette giorni - Seven days
+Otto fette - Eight slices
+Nove piani - Nine floors
+Quanti libri hai? - How many books do you have?
+Ho più di cento libri - I have more than a hundred books.
+
+/
+
+Chapter 8 - Colors and Objects
+
+:
+
+Rosso come un pomodoro - Red like a tomato
+Blu come il cielo - Blue like the sky
+Verde come l'erba - Green like the grass
+Giallo come il sole - Yellow like the sun
+Arancione come una carota - Orange like a carrot
+Viola come un'uva - Purple like a grape
+Rosa come un fenicottero - Pink like a flamingo
+Nero come la notte - Black like the night
+Qual è il tuo colore preferito? - What is your favorite color?
+Il mio colore preferito è il blu - My favorite color is blue.
+
+/
+
+Chapter 9 - Sizes and Measurements
+
+:
+
+Grande come una montagna - Big as a mountain
+Piccolo come un topo - Small as a mouse
+Lungo come un fiume - Long as a river
+Corto come un sentiero - Short as a path
+Alto come un edificio - Tall as a building
+Basso come un tavolo - Short (height) as a table
+Largo come un ponte - Wide as a bridge
+Stretto come un vicolo - Narrow as an alley
+Quanto è lunga la tavola? - How long is the table?
+La tavola è lunga due metri - The table is two meters long.
+
+/
+
+Chapter 10 - Weather and Seasons
+
+:
+
+Freddo in inverno - Cold in winter
+Caldo in estate - Hot in summer
+Piovoso in primavera - Rainy in spring
+Soleggiato in autunno - Sunny in autumn
+Nuvoloso al mattino - Cloudy in the morning
+Tempesta al pomeriggio - Storm in the afternoon
+Neve sulla montagna - Snow on the mountain
+Vento sulla spiaggia - Wind on the beach
+Che tempo fa oggi? - What's the weather like today?
+Oggi fa bel tempo - The weather is good today.
+
+/
+
+Chapter 11 - Family and Relationships
+
+:
+
+Madre amorevole - Loving mother
+Padre lavoratore - Hardworking father
+Fratello maggiore - Older brother
+Sorella minore - Younger sister
+Nonni saggi - Wise grandparents
+Amici fedeli - Faithful friends
+Vicino gentile - Kind neighbor
+Compagno di classe - Classmate
+Com'è la tua famiglia? - What is your family like?
+La mia famiglia è grande e unita - My family is large and close-knit.
+
+/
+
+Chapter 12 - Activities and Hobbies
+
+:
+
+Leggere libri - Read books
+Scrivere storie - Write stories
+Giocare a calcio - Play soccer
+Nuotare in piscina - Swim in the pool
+Viaggiare per il mondo - Travel the world
+Cucinare ricette nuove - Cook new recipes
+Suonare la chitarra - Play the guitar
+Dipingere paesaggi - Paint landscapes
+Cosa ti piace fare nel tempo libero? - What do you like to do in your free time?
+Nel mio tempo libero, mi piace leggere - In my free time, I like to read.
+
+/
+
+Chapter 13 - Tenses in Italian: Past, Present, and Future
+
+:
+
+Present Tense (Il Presente)
+
+Parlare (to speak)
+Io parlo - I speak
+Tu parli - You speak (informal)
+Lui/Lei/Lei parla - He/She/You speak (formal)
+
+Mangiare (to eat)
+Io mangio - I eat
+Tu mangi - You eat (informal)
+Lui/Lei/Lei mangia - He/She/You eat (formal)
+
+Vivere (to live)
+Io vivo - I live
+Tu vivi - You live (informal)
+Lui/Lei/Lei vive - He/She/You live (formal)
+
+Past Tense (Il Passato)
+
+Simple Past (Il Passato Prossimo)
+Parlare - to speak
+Io ho parlato - I spoke
+Tu hai parlato - You spoke (informal)
+Lui/Lei/Lei ha parlato - He/She/You spoke (formal)
+
+Mangiare - to eat
+Io ho mangiato - I ate
+Tu hai mangiato - You ate (informal)
+Lui/Lei/Lei ha mangiato - He/She/You ate (formal)
+
+Vivere - to live
+Io ho vissuto - I lived
+Tu hai vissuto - You lived (informal)
+Lui/Lei/Lei ha vissuto - He/She/You lived (formal)
+
+Future Tense (Il Futuro)
+
+Parlare (to speak)
+Io parlerò - I will speak
+Tu parlerai - You will speak (informal)
+Lui/Lei/Lei parlerà - He/She/You will speak (formal)
+
+Mangiare (to eat)
+Io mangerò - I will eat
+Tu mangerai - You will eat (informal)
+Lui/Lei/Lei mangerà - He/She/You will eat (formal)
+
+Vivere (to live)
+Io vivrò - I will live
+Tu vivrai - You will live (informal)
+Lui/Lei/Lei vivrà - He/She/You will live (formal)
