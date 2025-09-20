@@ -34,19 +34,6 @@ The app currently supports **Spanish** and **Italian**.
 
 ---
 
-## 📸 Screenshots / Mockups
-
-*(Add simulator screenshots here to showcase the app — onboarding, home screen, quizzes, and boss fights.)*
-
-<p align="center">
-  <img src="screenshots/onboarding.png" width="200" alt="Onboarding">
-  <img src="screenshots/home.png" width="200" alt="Home Screen">
-  <img src="screenshots/learn.png" width="200" alt="Learn Tab">
-  <img src="screenshots/quiz.png" width="200" alt="Quiz/Boss Fight">
-</p>
-
----
-
 ## 🛠 Tech Stack
 
 - **Language:** Swift 5  
