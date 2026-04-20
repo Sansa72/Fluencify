@@ -1,0 +1,210 @@
+{
+    "chapterTitle": "Foods and Preferences",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Red apple' in Italian?",
+            "options": ["Mela rossa", "Arancia dolce", "Banana matura", "Uva verde"],
+            "correctAnswer": "Mela rossa"
+          },
+          {
+            "question": "Choose the Italian word for 'Sweet orange'.",
+            "options": ["Uva verde", "Mela rossa", "Arancia dolce", "Pane fresco"],
+            "correctAnswer": "Arancia dolce"
+          },
+          {
+            "question": "Which translates to 'Ripe banana'?",
+            "options": ["Banana matura", "Formaggio stagionato", "Latte freddo", "Uovo fritto"],
+            "correctAnswer": "Banana matura"
+          },
+          {
+            "question": "How do you express 'Green grapes' in Italian?",
+            "options": ["Uva verde", "Mela rossa", "Banana matura", "Latte freddo"],
+            "correctAnswer": "Uva verde"
+          },
+          {
+            "question": "Select the translation for 'Fresh bread'.",
+            "options": ["Pane fresco", "Formaggio stagionato", "Latte freddo", "Uovo fritto"],
+            "correctAnswer": "Pane fresco"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Aged cheese'?",
+            "options": ["Formaggio stagionato", "Pane fresco", "Latte freddo", "Uovo fritto"],
+            "correctAnswer": "Formaggio stagionato"
+          },
+          {
+            "question": "Find the Italian term for 'Cold milk'.",
+            "options": ["Latte freddo", "Uva verde", "Formaggio stagionato", "Mela rossa"],
+            "correctAnswer": "Latte freddo"
+          },
+          {
+            "question": "How do you say 'Fried egg' in Italian?",
+            "options": ["Uovo fritto", "Pane fresco", "Banana matura", "Latte freddo"],
+            "correctAnswer": "Uovo fritto"
+          },
+          {
+            "question": "Which phrase means 'What do you prefer, bread or cheese?'",
+            "options": ["Cosa preferisci, pane o formaggio?", "Preferisco il pane", "Pane fresco", "Formaggio stagionato"],
+            "correctAnswer": "Cosa preferisci, pane o formaggio?"
+          },
+          {
+            "question": "Select the answer for 'I prefer bread.'",
+            "options": ["Preferisco il pane", "Cosa preferisci, pane o formaggio?", "Uovo fritto", "Latte freddo"],
+            "correctAnswer": "Preferisco il pane"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Mela rossa' to its English counterpart.",
+            "options": ["Red apple", "Sweet orange", "Ripe banana", "Green grapes"],
+            "correctAnswer": "Red apple"
+          },
+          {
+            "question": "Translate 'Arancia dolce' into English.",
+            "options": ["Fresh bread", "Aged cheese", "Sweet orange", "Cold milk"],
+            "correctAnswer": "Sweet orange"
+          },
+          {
+            "question": "What does 'Banana matura' mean?",
+            "options": ["Ripe banana", "Fried egg", "Red apple", "Green grapes"],
+            "correctAnswer": "Ripe banana"
+          },
+          {
+            "question": "How to say 'Green grapes' in Italian?",
+            "options": ["Uva verde", "Arancia dolce", "Mela rossa", "Banana matura"],
+            "correctAnswer": "Uva verde"
+          },
+          {
+            "question": "Find the translation for 'Pane fresco'.",
+            "options": ["Fresh bread", "Aged cheese", "Cold milk", "Fried egg"],
+            "correctAnswer": "Fresh bread"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Formaggio stagionato'.",
+            "options": ["Aged cheese", "Fresh bread", "Ripe banana", "Sweet orange"],
+            "correctAnswer": "Aged cheese"
+          },
+          {
+            "question": "Which one means 'Latte freddo'?",
+            "options": ["Cold milk", "Green grapes", "Fried egg", "Red apple"],
+            "correctAnswer": "Cold milk"
+          },
+          {
+            "question": "Translate 'What do you prefer, bread or cheese?' into Italian.",
+            "options": ["Cosa preferisci, pane o formaggio?", "Preferisco il pane", "Pane fresco", "Formaggio stagionato"],
+            "correctAnswer": "Cosa preferisci, pane o formaggio?"
+          },
+          {
+            "question": "What is the statement for 'I prefer bread' in Italian?",
+            "options": ["Preferisco il pane", "Cosa preferisci, pane o formaggio?", "Uovo fritto", "Latte freddo"],
+            "correctAnswer": "Preferisco il pane"
+          },
+          {
+            "question": "Select the phrase that describes 'Fried egg'.",
+            "options": ["Uovo fritto", "Pane fresco", "Banana matura", "Arancia dolce"],
+            "correctAnswer": "Uovo fritto"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing a preference, how do you say 'I prefer bread'?",
+            "options": ["Preferisco il pane", "Cosa preferisci, pane o formaggio?", "Formaggio stagionato", "Pane fresco"],
+            "correctAnswer": "Preferisco il pane"
+          },
+          {
+            "question": "If asked about your favorite fruit, how would you say 'Red apple' in Italian?",
+            "options": ["Mela rossa", "Uva verde", "Arancia dolce", "Banana matura"],
+            "correctAnswer": "Mela rossa"
+          },
+          {
+            "question": "Choosing between fruits, how is 'Sweet orange' said in Italian?",
+            "options": ["Arancia dolce", "Uva verde", "Mela rossa", "Banana matura"],
+            "correctAnswer": "Arancia dolce"
+          },
+          {
+            "question": "How would you state 'Green grapes' in Italian?",
+            "options": ["Uva verde", "Arancia dolce", "Mela rossa", "Banana matura"],
+            "correctAnswer": "Uva verde"
+          },
+          {
+            "question": "Describing a breakfast item, how do you say 'Fresh bread'?",
+            "options": ["Pane fresco", "Formaggio stagionato", "Latte freddo", "Uovo fritto"],
+            "correctAnswer": "Pane fresco"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Durante una passeggiata al parco bello, un amico ti chiede, 'Cosa preferisci, pane o formaggio?'",
+            "options": ["'Preferisco il pane.'", "'Mi sento eccitato per il concerto.'", "'Sorpreso dalla festa'", "'Felice per te'"],
+            "correctAnswer": "'Preferisco il pane.'"
+          },
+          {
+            "question": "Mentre discutete sul cibo, lui menziona di amare la frutta, 'E tra questi, quale preferisci?'",
+            "options": ["'Mela rossa'", "'Uva verde'", "'Banana matura'", "'Arancia dolce'"],
+            "correctAnswer": "'Mela rossa'"
+          },
+          {
+            "question": "Parlando di bevande, ti chiede se ti piace il latte al mattino. Tu rispondi...",
+            "options": ["'Sì, soprattutto il latte freddo.'", "'No, preferisco il caffè.'", "'Mi piace il pane fresco al mattino.'", "'Il formaggio stagionato è il mio preferito.'"],
+            "correctAnswer": "'Sì, soprattutto il latte freddo.'"
+          },
+          {
+            "question": "Notando un chiosco di cibo, il tuo amico suggerisce, 'Dovremmo prendere un uovo fritto?' Tu esprimi...",
+            "options": ["'Adoro gli uova fritte!'", "'Preferirei una mela rossa.'", "'Il pane fresco mi tenta di più.'", "'Forse un po' di formaggio stagionato?'"],
+            "correctAnswer": "'Adoro gli uova fritte!'"
+          },
+          {
+            "question": "Dopo aver mangiato, ti senti un po' stanco. L'amico nota e chiede, 'Come ti senti?' Tu spieghi...",
+            "options": ["'Stanco per il lavoro, ma ora meglio.'", "'Felice per questa giornata insieme.'", "'Un po' triste per la notizia ricevuta ieri.'", "'Arrabbiato per la situazione al lavoro.'"],
+            "correctAnswer": "'Stanco per il lavoro, ma ora meglio.'"
+          },
+          {
+            "question": "Prima di separarvi, l'amico ti invita a cena, 'Ti piacerebbe venire al ristorante italiano stasera?' Tu rispondi entusiasta...",
+            "options": ["'Sarei felice di venire!'", "'Preferisco rimanere a casa stasera.'", "'Mi piacerebbe, ma sono troppo stanco.'", "'Forse un'altra volta, grazie.'"],
+            "correctAnswer": "'Sarei felice di venire!'"
+          },
+          {
+            "question": "Arrivati al ristorante, osservate il menu. L'amico chiede, 'Cosa prendi?' Tu scegli...",
+            "options": ["'Penso che prenderò la mela rossa come dessert.'", "'L'arancia dolce mi tenta.'", "'Vorrei provare il formaggio stagionato.'", "'Il pane fresco qui è il migliore.'"],
+            "correctAnswer": "'Vorrei provare il formaggio stagionato.'"
+          },
+          {
+            "question": "Mentre aspettate il cibo, l'amico sembra pensieroso. 'Tutto bene?' chiedi. Lui condivide che è un po'...",
+            "options": ["'Triste per la notizia di ieri.'", "'Confuso dalle istruzioni del lavoro.'", "'Spaventato dal buio del parcheggio.'", "'Arrabbiato per la situazione in ufficio.'"],
+            "correctAnswer": "'Triste per la notizia di ieri.'"
+          },
+          {
+            "question": "Per alleggerire l'atmosfera, racconti di una recente avventura che lo rende...",
+            "options": ["'Eccitato per il viaggio che hai fatto.'", "'Sorpreso dalla festa che hai organizzato.'", "'Felice per te e le tue esperienze.'", "'Curioso di sapere più del parco bello.'"],
+            "correctAnswer": "'Eccitato per il viaggio che hai fatto.'"
+          },
+          {
+            "question": "Concludendo la serata, l'amico esprime gratitudine per la compagnia. 'Anch'io sono...', dici, sentendoti...",
+            "options": ["'Felice per questa serata insieme.'", "'Stanco, ma soddisfatto della giornata.'", "'Speranzoso di rifare presto.'", "'Grato per il tempo trascorso insieme.'"],
+            "correctAnswer": "'Grato per il tempo trascorso insieme.'"
+          }
+        ]
+      }
+    ]
+  }

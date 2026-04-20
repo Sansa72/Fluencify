@@ -1,0 +1,211 @@
+{
+    "chapterTitle": "Places and Directions",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Big house' in Italian?",
+            "options": ["Casa grande", "Scuola nuova", "Libreria vicina", "Ristorante italiano"],
+            "correctAnswer": "Casa grande"
+          },
+          {
+            "question": "Choose the Italian word for 'New school'.",
+            "options": ["Scuola nuova", "Ospedale locale", "Chiesa antica", "Parco bello"],
+            "correctAnswer": "Scuola nuova"
+          },
+          {
+            "question": "Which phrase means 'Bookstore nearby'?",
+            "options": ["Libreria vicina", "Museo interessante", "Ristorante italiano", "Casa grande"],
+            "correctAnswer": "Libreria vicina"
+          },
+          {
+            "question": "How do you say 'Italian restaurant' in Italian?",
+            "options": ["Ristorante italiano", "Scuola nuova", "Ospedale locale", "Libreria vicina"],
+            "correctAnswer": "Ristorante italiano"
+          },
+          {
+            "question": "Select the translation for 'Local hospital'.",
+            "options": ["Ospedale locale", "Chiesa antica", "Parco bello", "Museo interessante"],
+            "correctAnswer": "Ospedale locale"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to an 'Old church'?",
+            "options": ["Chiesa antica", "Casa grande", "Scuola nuova", "Ristorante italiano"],
+            "correctAnswer": "Chiesa antica"
+          },
+          {
+            "question": "Find the Italian term for 'Beautiful park'.",
+            "options": ["Parco bello", "Libreria vicina", "Museo interessante", "Ospedale locale"],
+            "correctAnswer": "Parco bello"
+          },
+          {
+            "question": "How do you say 'Interesting museum' in Italian?",
+            "options": ["Museo interessante", "Chiesa antica", "Parco bello", "Libreria vicina"],
+            "correctAnswer": "Museo interessante"
+          },
+          {
+            "question": "Which phrase means 'Where is the bookstore?'",
+            "options": ["Dove si trova la libreria?", "La libreria è accanto al parco", "Ristorante italiano", "Ospedale locale"],
+            "correctAnswer": "Dove si trova la libreria?"
+          },
+          {
+            "question": "Select the answer for 'The bookstore is next to the park.'",
+            "options": ["La libreria è accanto al parco", "Dove si trova la libreria?", "Museo interessante", "Parco bello"],
+            "correctAnswer": "La libreria è accanto al parco"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Casa grande' to its English counterpart.",
+            "options": ["Big house", "New school", "Nearby bookstore", "Italian restaurant"],
+            "correctAnswer": "Big house"
+          },
+          {
+            "question": "Translate 'Scuola nuova' into English.",
+            "options": ["Local hospital", "Old church", "New school", "Beautiful park"],
+            "correctAnswer": "New school"
+          },
+          {
+            "question": "What does 'Libreria vicina' mean?",
+            "options": ["Italian restaurant", "Nearby bookstore", "Interesting museum", "Big house"],
+            "correctAnswer": "Nearby bookstore"
+          },
+          {
+            "question": "How to say 'Local hospital' in Italian?",
+            "options": ["Ospedale locale", "Ristorante italiano", "Chiesa antica", "Parco bello"],
+            "correctAnswer": "Ospedale locale"
+          },
+          {
+            "question": "Find the translation for 'Parco bello'.",
+            "options": ["Beautiful park", "Old church", "Interesting museum", "Italian restaurant"],
+            "correctAnswer": "Beautiful park"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Museo interessante'.",
+            "options": ["Interesting museum", "Beautiful park", "Old church", "Local hospital"],
+            "correctAnswer": "Interesting museum"
+          },
+          {
+            "question": "Which one means 'Chiesa antica'?",
+            "options": ["Old church", "New school", "Big house", "Italian restaurant"],
+            "correctAnswer": "Old church"
+          },
+          {
+            "question": "Translate 'Where is the bookstore?' into Italian.",
+            "options": ["Dove si trova la libreria?", "La libreria è accanto al parco", "Ristorante italiano", "Scuola nuova"],
+            "correctAnswer": "Dove si trova la libreria?"
+          },
+          {
+            "question": "What is the statement for 'The bookstore is next to the park' in Italian?",
+            "options": ["La libreria è accanto al parco", "Dove si trova la libreria?", "Museo interessante", "Parco bello"],
+            "correctAnswer": "La libreria è accanto al parco"
+          },
+          {
+            "question": "Select the phrase that describes an 'Italian restaurant'.",
+            "options": ["Ristorante italiano", "Scuola nuova", "Casa grande", "Ospedale locale"],
+            "correctAnswer": "Ristorante italiano"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "If you are looking for a place to read, how do you ask for a 'Bookstore nearby'?",
+            "options": ["Libreria vicina", "Casa grande", "Scuola nuova", "Ristorante italiano"],
+            "correctAnswer": "Libreria vicina"
+          },
+          {
+            "question": "Identify the phrase for 'Big house' in Italian.",
+            "options": ["Casa grande", "Ospedale locale", "Chiesa antica", "Parco bello"],
+            "correctAnswer": "Casa grande"
+          },
+          {
+            "question": "How would you describe a 'New school' in Italian?",
+            "options": ["Scuola nuova", "Museo interessante", "Ristorante italiano", "Libreria vicina"],
+            "correctAnswer": "Scuola nuova"
+          },
+          {
+            "question": "Choose the translation for 'Local hospital'.",
+            "options": ["Ospedale locale", "Parco bello", "Chiesa antica", "Scuola nuova"],
+            "correctAnswer": "Ospedale locale"
+          },
+          {
+            "question": "Which term is used for a 'Beautiful park'?",
+            "options": ["Parco bello", "Casa grande", "Scuola nuova", "Museo interessante"],
+            "correctAnswer": "Parco bello"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Mentre passeggi per la città, qualcuno ti ferma e chiede, 'Scusa, sai dove si trova la libreria vicina?'",
+            "options": ["'Sì, è accanto al parco bello.'", "'No, ma il ristorante italiano è qui vicino.'", "'La scuola nuova è dall'altra parte.'", "'C'è una casa grande all'angolo.'"],
+            "correctAnswer": "'Sì, è accanto al parco bello.'"
+          },
+          {
+            "question": "Dopo aver dato le indicazioni, chiedi dell'ospedale. 'E l'ospedale locale?'",
+            "options": ["'È vicino alla scuola nuova.'", "'Dietro la chiesa antica.'", "'Accanto al museo interessante.'", "'Non sono della zona.'"],
+            "correctAnswer": "'Dietro la chiesa antica.'"
+          },
+          {
+            "question": "La persona ringrazia e menziona di voler visitare dopo, 'Conosci un buon ristorante italiano qui?'",
+            "options": ["'C'è un ristorante italiano in centro.'", "'Preferisco il parco bello per un pic-nic.'", "'La libreria vicina serve anche caffè.'", "'La casa grande è in realtà un hotel, non un ristorante.'"],
+            "correctAnswer": "'C'è un ristorante italiano in centro.'"
+          },
+          {
+            "question": "Curioso delle origini del tuo interlocutore, chiedi, 'E tu vieni da qui? La tua casa grande?'",
+            "options": ["'Sì, vivo in quella casa grande lì.'", "'No, sto visitando la scuola nuova.'", "'Vengo dal museo interessante.'", "'Abito vicino al parco bello.'"],
+            "correctAnswer": "'No, sto visitando la scuola nuova.'"
+          },
+          {
+            "question": "Prima di separarvi, vuoi suggerire un luogo di relax. 'Dovresti vedere il parco bello, è...'",
+            "options": ["'...accanto alla libreria vicina.'", "'...dietro la chiesa antica.'", "'...vicino al ristorante italiano.'", "'...all'opposto dell'ospedale locale.'"],
+            "correctAnswer": "'...accanto alla libreria vicina.'"
+          },
+          {
+            "question": "Ti chiede anche di animali. 'Sai se nel parco ci sono uccelli canterini?'",
+            "options": ["'Sì, molti uccelli canterini.'", "'Più che altro ci sono pecore bianche.'", "'Si vedono spesso cani grandi.'", "'A volte, gatti piccoli giocano lì.'"],
+            "correctAnswer": "'Sì, molti uccelli canterini.'"
+          },
+          {
+            "question": "La conversazione si sposta sugli hobby. 'E tu, ti piace leggere nella libreria vicina?'",
+            "options": ["'Preferisco mangiare nel ristorante italiano.'", "'Sì, amo i libri.'", "'Mi piace studiare nella scuola nuova.'", "'Il parco bello è il mio posto preferito.'"],
+            "correctAnswer": "'Sì, amo i libri.'"
+          },
+          {
+            "question": "Notando l'ora, decidi di salutarlo. 'È stato un piacere, devo andare. Ciao!'",
+            "options": ["'Arrivederci, grazie per il tuo aiuto!'", "'Buonanotte!'", "'A dopo!'", "'Addio!'"],
+            "correctAnswer": "'Arrivederci, grazie per il tuo aiuto!'"
+          },
+          {
+            "question": "Mentre ti allontani, pensi a cosa farai dopo. 'Forse dovrei visitare quel museo interessante o...'",
+            "options": ["'...andare diretto a casa grande.'", "'...mangiare qualcosa al ristorante italiano.'", "'...fare una passeggiata al parco bello.'", "'...cercare un caffè vicino alla scuola nuova.'"],
+            "correctAnswer": "'...fare una passeggiata al parco bello.'"
+          },
+          {
+            "question": "Riflettendo sulla giornata, ti domandi se domani il tempo sarà bello per '...visitare il parco bello.' Come chiederesti del meteo?",
+            "options": ["'Com'è il tempo?'", "'Pioverà domani?'", "'Il parco sarà aperto?'", "'Ci sono uccelli canterini al parco?'"],
+            "correctAnswer": "'Com'è il tempo?'"
+          }
+        ]
+      }
+
+    ]
+  }

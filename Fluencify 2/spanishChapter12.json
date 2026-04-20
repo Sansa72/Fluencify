@@ -1,0 +1,260 @@
+{
+    "chapterTitle": "Activities and Hobbies",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Read books' in Spanish?",
+            "options": ["Leer libros", "Escribir historias", "Jugar al fútbol", "Nadar en la piscina"],
+            "correctAnswer": "Leer libros"
+          },
+          {
+            "question": "Choose the Spanish phrase for 'Write stories'.",
+            "options": ["Escribir historias", "Viajar por el mundo", "Cocinar recetas nuevas", "Tocar la guitarra"],
+            "correctAnswer": "Escribir historias"
+          },
+          {
+            "question": "Which translates to 'Play soccer'?",
+            "options": ["Jugar al fútbol", "Pintar paisajes", "Leer libros", "Nadar en la piscina"],
+            "correctAnswer": "Jugar al fútbol"
+          },
+          {
+            "question": "How do you express 'Swim in the pool' in Spanish?",
+            "options": ["Nadar en la piscina", "Viajar por el mundo", "Cocinar recetas nuevas", "Tocar la guitarra"],
+            "correctAnswer": "Nadar en la piscina"
+          },
+          {
+            "question": "Select the translation for 'Travel the world'.",
+            "options": ["Viajar por el mundo", "Pintar paisajes", "Jugar al fútbol", "Leer libros"],
+            "correctAnswer": "Viajar por el mundo"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Cook new recipes'?",
+            "options": ["Cocinar recetas nuevas", "Escribir historias", "Nadar en la piscina", "Viajar por el mundo"],
+            "correctAnswer": "Cocinar recetas nuevas"
+          },
+          {
+            "question": "Find the Spanish term for 'Play the guitar'.",
+            "options": ["Tocar la guitarra", "Pintar paisajes", "Leer libros", "Jugar al fútbol"],
+            "correctAnswer": "Tocar la guitarra"
+          },
+          {
+            "question": "How do you say 'Paint landscapes' in Spanish?",
+            "options": ["Pintar paisajes", "Tocar la guitarra", "Cocinar recetas nuevas", "Viajar por el mundo"],
+            "correctAnswer": "Pintar paisajes"
+          },
+          {
+            "question": "Which phrase means 'What do you like to do in your free time?'",
+            "options": ["¿Qué te gusta hacer en tu tiempo libre?", "En mi tiempo libre, me gusta leer", "Viajar por el mundo", "Tocar la guitarra"],
+            "correctAnswer": "¿Qué te gusta hacer en tu tiempo libre?"
+          },
+          {
+            "question": "Select the answer for 'In my free time, I like to read.'",
+            "options": ["En mi tiempo libre, me gusta leer", "¿Qué te gusta hacer en tu tiempo libre?", "Pintar paisajes", "Nadar en la piscina"],
+            "correctAnswer": "En mi tiempo libre, me gusta leer"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Jugar al fútbol' to its English equivalent.",
+            "options": ["Play soccer", "Read books", "Swim in the pool", "Travel the world"],
+            "correctAnswer": "Play soccer"
+          },
+          {
+            "question": "Translate 'Nadar en la piscina' into English.",
+            "options": ["Swim in the pool", "Cook new recipes", "Play the guitar", "Write stories"],
+            "correctAnswer": "Swim in the pool"
+          },
+          {
+            "question": "What does 'Viajar por el mundo' mean?",
+            "options": ["Travel the world", "Paint landscapes", "Play soccer", "Read books"],
+            "correctAnswer": "Travel the world"
+          },
+          {
+            "question": "How to say 'Cook new recipes' in Spanish?",
+            "options": ["Cocinar recetas nuevas", "Pintar paisajes", "Tocar la guitarra", "Leer libros"],
+            "correctAnswer": "Cocinar recetas nuevas"
+          },
+          {
+            "question": "Find the translation for '¿Qué te gusta hacer en tu tiempo libre?'.",
+            "options": ["What do you like to do in your free time?", "In my free time, I like to read", "Play the guitar", "Swim in the pool"],
+            "correctAnswer": "What do you like to do in your free time?"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Tocar la guitarra'.",
+            "options": ["Play the guitar", "Paint landscapes", "Travel the world", "Cook new recipes"],
+            "correctAnswer": "Play the guitar"
+          },
+          {
+            "question": "Which one means 'Pintar paisajes'?",
+            "options": ["Paint landscapes", "Swim in the pool", "Read books", "Play soccer"],
+            "correctAnswer": "Paint landscapes"
+          },
+          {
+            "question": "Translate 'En mi tiempo libre, me gusta leer' into Spanish.",
+            "options": ["In my free time, I like to read", "What do you like to do in your free time?", "Play the guitar", "Travel the world"],
+            "correctAnswer": "In my free time, I like to read"
+          },
+          {
+            "question": "What is the statement for 'Read books' in Spanish?",
+            "options": ["Leer libros", "Escribir historias", "Jugar al fútbol", "Nadar en la piscina"],
+            "correctAnswer": "Leer libros"
+          },
+          {
+            "question": "Select the phrase that describes 'Write stories'.",
+            "options": ["Escribir historias", "Play soccer", "Swim in the pool", "Cook new recipes"],
+            "correctAnswer": "Escribir historias"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing preferences, how do you say 'Play soccer'?",
+            "options": ["Jugar al fútbol", "Cocinar recetas nuevas", "Tocar la guitarra", "Leer libros"],
+            "correctAnswer": "Jugar al fútbol"
+          },
+          {
+            "question": "If discussing hobbies, how would you say 'What do you like to do in your free time?' in Spanish?",
+            "options": ["¿Qué te gusta hacer en tu tiempo libre?", "En mi tiempo libre, me gusta leer", "Viajar por el mundo", "Pintar paisajes"],
+            "correctAnswer": "¿Qué te gusta hacer en tu tiempo libre?"
+          },
+          {
+            "question": "Choosing between activities, how is 'Swim in the pool' said in Spanish?",
+            "options": ["Nadar en la piscina", "Jugar al fútbol", "Leer libros", "Escribir historias"],
+            "correctAnswer": "Nadar en la piscina"
+          },
+          {
+            "question": "How would you state 'In my free time, I like to read' in Spanish?",
+            "options": ["En mi tiempo libre, me gusta leer", "¿Qué te gusta hacer en tu tiempo libre?", "Cocinar recetas nuevas", "Tocar la guitarra"],
+            "correctAnswer": "En mi tiempo libre, me gusta leer"
+          },
+          {
+            "question": "Describing an artistic hobby, how do you say 'Paint landscapes'?",
+            "options": ["Pintar paisajes", "Viajar por el mundo", "Jugar al fútbol", "Leer libros"],
+            "correctAnswer": "Pintar paisajes"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Reflexionando sobre tu pasatiempo de 'leer libros', ¿cómo describirías el impacto de la lectura en tu creatividad y conocimiento?",
+            "options": [
+              "La lectura expande mi mente y alimenta mi creatividad, cada libro es un nuevo viaje. ¿Te gustaría que compartiera mis libros favoritos?",
+              "A veces, me resulta difícil encontrar libros que realmente capten mi interés.",
+              "Prefiero los audiolibros; leer me toma mucho tiempo.",
+              "Me cuesta concentrarme al leer, me distraigo fácilmente."
+            ],
+            "correctAnswer": "La lectura expande mi mente y alimenta mi creatividad, cada libro es un nuevo viaje. ¿Te gustaría que compartiera mis libros favoritos?"
+          },
+          {
+            "question": "'Escribir historias' es tu forma de expresarte. ¿Cómo explicarías la satisfacción que te brinda este pasatiempo?",
+            "options": [
+              "Escribir me permite liberar mi imaginación y compartir mis pensamientos con el mundo. ¿Alguien está interesado en un taller de escritura creativa?",
+              "Me bloqueo fácilmente al intentar escribir algo.",
+              "Siento que mis historias no son lo suficientemente buenas como para compartirlas.",
+              "Escribir requiere mucha disciplina, que no siempre tengo."
+            ],
+            "correctAnswer": "Escribir me permite liberar mi imaginación y compartir mis pensamientos con el mundo. ¿Alguien está interesado en un taller de escritura creativa?"
+          },
+          {
+            "question": "Compartiendo tu amor por 'jugar al fútbol', ¿cómo animarías a otros a experimentar la alegría y el compañerismo del juego?",
+            "options": [
+              "Jugar al fútbol es más que deporte; es aprender a trabajar en equipo y superar juntos los desafíos. ¿Quién se une al próximo partido?",
+              "No soy muy bueno en deportes de equipo; me pongo nervioso.",
+              "Me preocupa no estar físicamente a la altura para jugar al fútbol.",
+              "El fútbol parece divertido, pero nunca he entendido bien las reglas."
+            ],
+            "correctAnswer": "Jugar al fútbol es más que deporte; es aprender a trabajar en equipo y superar juntos los desafíos. ¿Quién se une al próximo partido?"
+          },
+          {
+            "question": "Al hablar de 'nadar en la piscina', ¿cómo describirías los beneficios físicos y mentales de este pasatiempo?",
+            "options": [
+              "Nadar es mi escape, perfecto para la mente y el cuerpo. Estoy pensando en unirme a un club de natación, ¿alguien se anima?",
+              "Me gustaría nadar más a menudo, pero encontrar una piscina decente es complicado.",
+              "Siempre me he sentido un poco intimidado por el agua; prefiero mantenerme en tierra firme.",
+              "Nadar suena genial, pero no me siento muy seguro de mis habilidades en el agua."
+            ],
+            "correctAnswer": "Nadar es mi escape, perfecto para la mente y el cuerpo. Estoy pensando en unirme a un club de natación, ¿alguien se anima?"
+          },
+          {
+            "question": "'Viajar por el mundo' te ha enseñado muchas lecciones. ¿Cómo inspirarías a otros a explorar y descubrir nuevas culturas?",
+            "options": [
+              "Viajar abre tu mente y corazón a nuevas culturas y amigos. Estoy planeando mi próximo viaje, ¿quién quiere unirse a la aventura?",
+              "Me encantaría viajar más, pero siempre me preocupa el presupuesto.",
+              "El viaje suena emocionante, pero planificarlo todo parece una pesadilla logística.",
+              "Soy más de la idea de 'quedarse en casa'; viajar no es lo mío."
+            ],
+            "correctAnswer": "Viajar abre tu mente y corazón a nuevas culturas y amigos. Estoy planeando mi próximo viaje, ¿quién quiere unirse a la aventura?"
+          },
+          {
+            "question": "Al discutir 'cocinar recetas nuevas', ¿cómo compartirías tu pasión por la gastronomía y animarías a otros a experimentar con la cocina?",
+            "options": [
+              "Explorar nuevas recetas me ha llevado a descubrir sabores increíbles. Estoy pensando en organizar una cena. ¿Les gustaría participar?",
+              "Me gusta la idea de cocinar, pero nunca sé por dónde empezar.",
+              "Cocinar puede ser divertido, pero limpiar después no tanto.",
+              "Siempre termino quemando lo que intento cocinar, mejor pedir comida."
+            ],
+            "correctAnswer": "Explorar nuevas recetas me ha llevado a descubrir sabores increíbles. Estoy pensando en organizar una cena. ¿Les gustaría participar?"
+          },
+          {
+            "question": "Reflexionando sobre tu pasatiempo de 'tocar la guitarra', ¿cómo describirías el impacto de la música en tu vida y cómo incentivarías a otros a aprender un instrumento?",
+            "options": [
+              "La música ha sido una fuente de alegría y consuelo. ¿Interesado en clases grupales de música? Podría ser divertido aprender juntos.",
+              "Me encantaría aprender a tocar un instrumento, pero siento que ya es muy tarde para empezar.",
+              "Los instrumentos musicales son demasiado caros para mi presupuesto.",
+              "Intenté aprender música, pero no tengo el oído para ello."
+            ],
+            "correctAnswer": "La música ha sido una fuente de alegría y consuelo. ¿Interesado en clases grupales de música? Podría ser divertido aprender juntos."
+          },
+          {
+            "question": "Hablando sobre 'pintar paisajes', compartes tu proceso creativo. ¿Cómo invitarías a otros a explorar su lado artístico a través de la pintura?",
+            "options": [
+              "Pintar al aire libre es una experiencia liberadora. Estoy organizando una sesión de pintura este fin de semana, ¿te apuntas?",
+              "Me gusta la idea de pintar, pero nunca me ha salido nada bien.",
+              "La pintura siempre me ha parecido complicada; prefiero admirar el arte de otros.",
+              "No tengo espacio en casa para dedicarme a pintar."
+            ],
+            "correctAnswer": "Pintar al aire libre es una experiencia liberadora. Estoy organizando una sesión de pintura este fin de semana, ¿te apuntas?"
+          },
+          {
+            "question": "En una conversación sobre '¿Qué te gusta hacer en tu tiempo libre?', reflexionas sobre tus pasatiempos favoritos. ¿Cómo animas a otros a explorar nuevas aficiones?",
+            "options": [
+              "Descubrir nuevos pasatiempos ha enriquecido mi vida. Me encantaría escuchar sobre los tuyos y quizás probar algo nuevo juntos.",
+              "Realmente no tengo pasatiempos; mi vida es bastante monótona.",
+              "No me siento cómodo compartiendo mis intereses; pueden parecer aburridos.",
+              "Mis pasatiempos son bastante solitarios; no sé cómo serían de interés para otros."
+            ],
+            "correctAnswer": "Descubrir nuevos pasatiempos ha enriquecido mi vida. Me encantaría escuchar sobre los tuyos y quizás probar algo nuevo juntos."
+          },
+          {
+            "question": "Al reflexionar sobre 'En mi tiempo libre, me gusta leer', piensas en cómo los libros te han influenciado. ¿Cómo fomentarías un amor por la lectura en tu círculo social?",
+            "options": [
+              "Los libros han sido mis maestros y amigos. Estoy considerando iniciar un círculo de lectura mensual, ¿te gustaría ser parte?",
+              "La gente ya no parece interesada en la lectura con tantas distracciones digitales.",
+              "Encontrar libros que realmente me interesen es un desafío.",
+              "Preferiría ver una película; es más rápido que leer el libro."
+            ],
+            "correctAnswer": "Los libros han sido mis maestros y amigos. Estoy considerando iniciar un círculo de lectura mensual, ¿te gustaría ser parte?"
+          }
+        ]
+      }
+    ]
+  }

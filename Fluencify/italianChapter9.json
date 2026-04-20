@@ -1,0 +1,236 @@
+{
+    "chapterTitle": "Sizes and Measurements",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Big as a mountain' in Italian?",
+            "options": ["Grande come una montagna", "Piccolo come un topo", "Lungo come un fiume", "Corto come un sentiero"],
+            "correctAnswer": "Grande come una montagna"
+          },
+          {
+            "question": "Choose the Italian phrase for 'Small as a mouse'.",
+            "options": ["Piccolo come un topo", "Alto come un edificio", "Largo come un ponte", "Stretto come un vicolo"],
+            "correctAnswer": "Piccolo come un topo"
+          },
+          {
+            "question": "Which translates to 'Long as a river'?",
+            "options": ["Lungo come un fiume", "Corto come un sentiero", "Basso come un tavolo", "Stretto come un vicolo"],
+            "correctAnswer": "Lungo come un fiume"
+          },
+          {
+            "question": "How do you express 'Short as a path' in Italian?",
+            "options": ["Corto come un sentiero", "Grande come una montagna", "Piccolo come un topo", "Lungo come un fiume"],
+            "correctAnswer": "Corto come un sentiero"
+          },
+          {
+            "question": "Select the translation for 'Tall as a building'.",
+            "options": ["Alto come un edificio", "Largo come un ponte", "Basso come un tavolo", "Stretto come un vicolo"],
+            "correctAnswer": "Alto come un edificio"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Short (height) as a table'?",
+            "options": ["Basso come un tavolo", "Alto come un edificio", "Lungo come un fiume", "Corto come un sentiero"],
+            "correctAnswer": "Basso come un tavolo"
+          },
+          {
+            "question": "Find the Italian term for 'Wide as a bridge'.",
+            "options": ["Largo come un ponte", "Stretto come un vicolo", "Grande come una montagna", "Piccolo come un topo"],
+            "correctAnswer": "Largo come un ponte"
+          },
+          {
+            "question": "How do you say 'Narrow as an alley' in Italian?",
+            "options": ["Stretto come un vicolo", "Basso come un tavolo", "Alto come un edificio", "Lungo come un fiume"],
+            "correctAnswer": "Stretto come un vicolo"
+          },
+          {
+            "question": "Which phrase means 'How long is the table?'",
+            "options": ["Quanto è lunga la tavola?", "La tavola è lunga due metri", "Grande come una montagna", "Lungo come un fiume"],
+            "correctAnswer": "Quanto è lunga la tavola?"
+          },
+          {
+            "question": "Select the answer for 'The table is two meters long.'",
+            "options": ["La tavola è lunga due metri", "Quanto è lunga la tavola?", "Alto come un edificio", "Stretto come un vicolo"],
+            "correctAnswer": "La tavola è lunga due metri"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Grande come una montagna' to its English counterpart.",
+            "options": ["Big as a mountain", "Small as a mouse", "Wide as a bridge", "Short as a path"],
+            "correctAnswer": "Big as a mountain"
+          },
+          {
+            "question": "Translate 'Piccolo come un topo' into English.",
+            "options": ["Narrow as an alley", "Short (height) as a table", "Small as a mouse", "Tall as a building"],
+            "correctAnswer": "Small as a mouse"
+          },
+          {
+            "question": "What does 'Lungo come un fiume' mean?",
+            "options": ["Long as a river", "Wide as a bridge", "Big as a mountain", "Short as a path"],
+            "correctAnswer": "Long as a river"
+          },
+          {
+            "question": "How to say 'Tall as a building' in Italian?",
+            "options": ["Alto come un edificio", "Largo come un ponte", "Basso come un tavolo", "Stretto come un vicolo"],
+            "correctAnswer": "Alto come un edificio"
+          },
+          {
+            "question": "Find the translation for 'Largo come un ponte'.",
+            "options": ["Wide as a bridge", "Narrow as an alley", "Short (height) as a table", "Long as a river"],
+            "correctAnswer": "Wide as a bridge"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Stretto come un vicolo'.",
+            "options": ["Narrow as an alley", "Short as a path", "Tall as a building", "Wide as a bridge"],
+            "correctAnswer": "Narrow as an alley"
+          },
+          {
+            "question": "Which one means 'Basso come un tavolo'?",
+            "options": ["Short (height) as a table", "Long as a river", "Big as a mountain", "Small as a mouse"],
+            "correctAnswer": "Short (height) as a table"
+          },
+          {
+            "question": "Translate 'How long is the table?' into Italian.",
+            "options": ["Quanto è lunga la tavola?", "La tavola è lunga due metri", "Grande come una montagna", "Lungo come un fiume"],
+            "correctAnswer": "Quanto è lunga la tavola?"
+          },
+          {
+            "question": "What is the statement for 'The table is two meters long' in Italian?",
+            "options": ["La tavola è lunga due metri", "Quanto è lunga la tavola?", "Alto come un edificio", "Largo come un ponte"],
+            "correctAnswer": "La tavola è lunga due metri"
+          },
+          {
+            "question": "Select the phrase that describes 'Short as a path'.",
+            "options": ["Corto come un sentiero", "Grande come una montagna", "Piccolo come un topo", "Lungo come un fiume"],
+            "correctAnswer": "Corto come un sentiero"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing a comparison, how do you say 'Big as a mountain'?",
+            "options": ["Grande come una montagna", "Piccolo come un topo", "Lungo come un fiume", "Stretto come un vicolo"],
+            "correctAnswer": "Grande come una montagna"
+          },
+          {
+            "question": "If discussing sizes, how would you say 'Small as a mouse' in Italian?",
+            "options": ["Piccolo come un topo", "Alto come un edificio", "Corto come un sentiero", "Largo come un ponte"],
+            "correctAnswer": "Piccolo come un topo"
+          },
+          {
+            "question": "Choosing between dimensions, how is 'Long as a river' said in Italian?",
+            "options": ["Lungo come un fiume", "Basso come un tavolo", "Stretto come un vicolo", "Corto come un sentiero"],
+            "correctAnswer": "Lungo come un fiume"
+          },
+          {
+            "question": "How would you state 'Tall as a building' in Italian?",
+            "options": ["Alto come un edificio", "Piccolo come un topo", "Grande come una montagna", "Largo come un ponte"],
+            "correctAnswer": "Alto come un edificio"
+          },
+          {
+            "question": "Describing spatial features, how do you say 'Wide as a bridge'?",
+            "options": ["Largo come un ponte", "Stretto come un vicolo", "Basso come un tavolo", "Corto come un sentiero"],
+            "correctAnswer": "Largo come un ponte"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "'Oggi il cielo è blu come il mare. Ti ricorda qualcosa?'",
+            "options": ["'Sì, mi fa pensare alle vacanze estive, quando tutto è grande come una montagna.'", "'Preferisco quando è nero come la notte, più misterioso.'", "'Mi piace di più verde come l'erba, mi dà speranza.'", "'Mi ricorda il gelato giallo come il sole che abbiamo mangiato.'"],
+            "correctAnswer": "'Sì, mi fa pensare alle vacanze estive, quando tutto è grande come una montagna.'"
+          },
+          {
+            "question": "'E come ti senti oggi, con questo cielo così aperto?'",
+            "options": ["'Un po' piccolo come un topo, con così tanto spazio sopra di me.'", "'Felice, quasi come se potessi volare alto come un edificio.'", "'Stanco, vorrei solo che fosse ora di dormire.'", "'Eccitato per le possibilità, come se potessi attraversare un ponte verso qualcosa di nuovo.'"],
+            "correctAnswer": "'Felice, quasi come se potessi volare alto come un edificio.'"
+          },
+          {
+            "question": "'Stasera ho intenzione di cucinare. Quanti metri di pasta pensi che servano per due?'",
+            "options": ["'Forse due, non di più. Non voglio che finisca stretto come un vicolo.'", "'Uno dovrebbe bastare, se è largo come un ponte.'", "'Tre volte tanto, adoro la pasta più di quanto sia lungo come un fiume.'", "'Basta che non sia corto come un sentiero, odio quando manca.'"],
+            "correctAnswer": "'Forse due, non di più. Non voglio che finisca stretto come un vicolo.'"
+          },
+          {
+            "question": "'Domani andremo al parco. Quante bottiglie d'acqua porterai?'",
+            "options": ["'Uno o due, dipende dal caldo.'", "'Tre, se facciamo una lunga camminata, lunga come un fiume.'", "'Sei uova per fare una frittata al ritorno.'", "'Quattro stagioni fa, ne avrei portate solo una.'"],
+            "correctAnswer": "'Tre, se facciamo una lunga camminata, lunga come un fiume.'"
+          },
+          {
+            "question": "'Hai visto il nuovo grattacielo in centro? È alto come un edificio... anzi, è un edificio!'",
+            "options": ["'Sì, ma preferisco qualcosa di basso come un tavolo, più accogliente.'", "'Impressionante, deve essere bello vedere il mondo da lassù, largo come un ponte.'", "'Mi fa sentire piccolo come un topo, a guardarlo da quaggiù.'", "'Preferirei vivere in un posto verde come l'erba, lontano dalla città.'"],
+            "correctAnswer": "'Impressionante, deve essere bello vedere il mondo da lassù, largo come un ponte.'"
+          },
+          {
+            "question": "'Quanto zucchero metti nel caffè?'",
+            "options": ["'Uno o due cucchiaini, non di più, altrimenti è dolce come una carota.'", "'Nessuno, mi piace amaro, nero come la notte.'", "'Tre volte tanto, mi piace dolce come il miele.'", "'Basta che non sia amaro come il cioccolato fondente.'"],
+            "correctAnswer": "'Uno o due cucchiaini, non di più, altrimenti è dolce come una carota.'"
+          },
+          {
+            "question": "'Hai mai pensato di fare un viaggio lungo come un fiume?'",
+            "options": ["'Sì, vorrei attraversare il paese, da una parte all'altra.'", "'No, mi piacciono i viaggi corti come un sentiero, ma intensi.'", "'Mi piacerebbe, ma solo se il viaggio fosse verde come l'erba, pieno di natura.'", "'Preferirei qualcosa di alto come un edificio, come scalare una montagna.'"],
+            "correctAnswer": "'Sì, vorrei attraversare il paese, da una parte all'altra.'"
+          },
+          {
+            "question": "'Quante volte sei stato al mare quest'anno?'",
+            "options": ["'Uno o due, non più. Mi piace, ma è lontano.'", "'Tre volte, e ogni volta era blu come il cielo.'", "'Sei volte, ogni volta era un'avventura.'", "'Nove volte, non riesco a stare lontano dall'acqua.'"],
+            "correctAnswer": "'Tre volte, e ogni volta era blu come il cielo.'"
+          },
+          {
+            "question": "'Quanto è lunga la tua giornata lavorativa?'",
+            "options": ["'Lunga come un fiume, non finisce mai.'", "'Corta come un sentiero, lavoro part-time.'", "'Stretta come un vicolo, molto concentrata.'", "'Larga come un ponte, copre molti aspetti diversi.'"],
+            "correctAnswer": "'Lunga come un fiume, non finisce mai.'"
+          },
+          {
+            "question": "'Quanto tempo trascorri a leggere ogni sera?'",
+            "options": ["'Uno o due capitoli, dipende dal libro.'", "'Tre volte a settimana cerco di leggere.'", "'Quattro stagioni all'anno, cambio genere.'", "'Sette giorni alla settimana, è il mio rituale.'"],
+            "correctAnswer": "'Uno o due capitoli, dipende dal libro.'"
+          },
+          {
+            "question": "'Hai mai pensato a quanto sia grande il mondo?'",
+            "options": ["'Sì, è grande come una montagna, pieno di meraviglie.'", "'A volte mi sento piccolo come un topo, pensandoci.'", "'Sì, ma è anche pieno di angoli stretti come un vicolo.'", "'Per me, è lungo come un fiume, sempre in movimento.'"],
+            "correctAnswer": "'Sì, è grande come una montagna, pieno di meraviglie.'"
+          },
+          {
+            "question": "'Preferisci vivere in una casa grande come una montagna o piccola come un topo?'",
+            "options": ["'Grande come una montagna, amo lo spazio.'", "'Piccola e accogliente, facile da mantenere.'", "'Lunga e stretta, come un vicolo in città.'", "'Alta come un edificio, con una bella vista.'"],
+            "correctAnswer": "'Piccola e accogliente, facile da mantenere.'"
+          },
+          {
+            "question": "'Quante volte abbiamo parlato di viaggiare insieme?'",
+            "options": ["'Uno o due, ma dovremmo farlo davvero.'", "'Tre volte, ma sempre rimandato.'", "'Innumerevoli, sempre un nuovo sogno.'", "'Sette giorni fa ne abbiamo parlato di nuovo.'"],
+            "correctAnswer": "'Innumerevoli, sempre un nuovo sogno.'"
+          },
+          {
+            "question": "'Quanto spazio c'è nel tuo cuore per nuove amicizie?'",
+            "options": ["'È largo come un ponte, sempre aperto.'", "'Stretto come un vicolo, seleziono attentamente.'", "'Profondo come un fiume, ci vuole tempo.'", "'Limitato, ho già molti amici cari.'"],
+            "correctAnswer": "'È largo come un ponte, sempre aperto.'"
+          },
+          {
+            "question": "'Quante storie hai da raccontare delle tue avventure?'",
+            "options": ["'Infinite, ogni giorno è un capitolo.'", "'Pochissime, sono una persona di routine.'", "'Numerose, ma solo le migliori valgono la pena.'", "'Una per ogni amico che ho, e sono molti.'"],
+            "correctAnswer": "'Infinite, ogni giorno è un capitolo.'"
+          }
+        ]
+      }
+
+    ]
+  }

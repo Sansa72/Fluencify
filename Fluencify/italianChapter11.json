@@ -1,0 +1,236 @@
+{
+    "chapterTitle": "Family and Relationships",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Loving mother' in Italian?",
+            "options": ["Madre amorevole", "Padre lavoratore", "Fratello maggiore", "Sorella minore"],
+            "correctAnswer": "Madre amorevole"
+          },
+          {
+            "question": "Choose the Italian phrase for 'Hardworking father'.",
+            "options": ["Padre lavoratore", "Nonni saggi", "Amici fedeli", "Vicino gentile"],
+            "correctAnswer": "Padre lavoratore"
+          },
+          {
+            "question": "Which translates to 'Older brother'?",
+            "options": ["Fratello maggiore", "Sorella minore", "Compagno di classe", "Madre amorevole"],
+            "correctAnswer": "Fratello maggiore"
+          },
+          {
+            "question": "How do you express 'Younger sister' in Italian?",
+            "options": ["Sorella minore", "Nonni saggi", "Amici fedeli", "Padre lavoratore"],
+            "correctAnswer": "Sorella minore"
+          },
+          {
+            "question": "Select the translation for 'Wise grandparents'.",
+            "options": ["Nonni saggi", "Vicino gentile", "Compagno di classe", "Fratello maggiore"],
+            "correctAnswer": "Nonni saggi"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Faithful friends'?",
+            "options": ["Amici fedeli", "Madre amorevole", "Sorella minore", "Nonni saggi"],
+            "correctAnswer": "Amici fedeli"
+          },
+          {
+            "question": "Find the Italian term for 'Kind neighbor'.",
+            "options": ["Vicino gentile", "Padre lavoratore", "Fratello maggiore", "Compagno di classe"],
+            "correctAnswer": "Vicino gentile"
+          },
+          {
+            "question": "How do you say 'Classmate' in Italian?",
+            "options": ["Compagno di classe", "Amici fedeli", "Vicino gentile", "Nonni saggi"],
+            "correctAnswer": "Compagno di classe"
+          },
+          {
+            "question": "Which phrase means 'What is your family like?'",
+            "options": ["Com'è la tua famiglia?", "La mia famiglia è grande e unita", "Madre amorevole", "Fratello maggiore"],
+            "correctAnswer": "Com'è la tua famiglia?"
+          },
+          {
+            "question": "Select the answer for 'My family is large and close-knit.'",
+            "options": ["La mia famiglia è grande e unita", "Com'è la tua famiglia?", "Nonni saggi", "Amici fedeli"],
+            "correctAnswer": "La mia famiglia è grande e unita"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Madre amorevole' to its English counterpart.",
+            "options": ["Loving mother", "Hardworking father", "Faithful friends", "Kind neighbor"],
+            "correctAnswer": "Loving mother"
+          },
+          {
+            "question": "Translate 'Padre lavoratore' into English.",
+            "options": ["Kind neighbor", "Older brother", "Hardworking father", "Wise grandparents"],
+            "correctAnswer": "Hardworking father"
+          },
+          {
+            "question": "What does 'Fratello maggiore' mean?",
+            "options": ["Older brother", "Younger sister", "Classmate", "Loving mother"],
+            "correctAnswer": "Older brother"
+          },
+          {
+            "question": "How to say 'Younger sister' in Italian?",
+            "options": ["Sorella minore", "Nonni saggi", "Vicino gentile", "Amici fedeli"],
+            "correctAnswer": "Sorella minore"
+          },
+          {
+            "question": "Find the translation for 'Nonni saggi'.",
+            "options": ["Wise grandparents", "Faithful friends", "Kind neighbor", "Classmate"],
+            "correctAnswer": "Wise grandparents"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Amici fedeli'.",
+            "options": ["Faithful friends", "Loving mother", "Hardworking father", "Wise grandparents"],
+            "correctAnswer": "Faithful friends"
+          },
+          {
+            "question": "Which one means 'Vicino gentile'?",
+            "options": ["Kind neighbor", "Older brother", "Younger sister", "Classmate"],
+            "correctAnswer": "Kind neighbor"
+          },
+          {
+            "question": "Translate 'What is your family like?' into Italian.",
+            "options": ["Com'è la tua famiglia?", "La mia famiglia è grande e unita", "Madre amorevole", "Padre lavoratore"],
+            "correctAnswer": "Com'è la tua famiglia?"
+          },
+          {
+            "question": "What is the statement for 'My family is large and close-knit' in Italian?",
+            "options": ["La mia famiglia è grande e unita", "Com'è la tua famiglia?", "Amici fedeli", "Nonni saggi"],
+            "correctAnswer": "La mia famiglia è grande e unita"
+          },
+          {
+            "question": "Select the phrase that describes 'Classmate'.",
+            "options": ["Compagno di classe", "Fratello maggiore", "Sorella minore", "Vicino gentile"],
+            "correctAnswer": "Compagno di classe"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing family bonds, how do you say 'Loving mother'?",
+            "options": ["Madre amorevole", "Padre lavoratore", "Amici fedeli", "Nonni saggi"],
+            "correctAnswer": "Madre amorevole"
+          },
+          {
+            "question": "If discussing parental roles, how would you say 'Hardworking father' in Italian?",
+            "options": ["Padre lavoratore", "Fratello maggiore", "Sorella minore", "Vicino gentile"],
+            "correctAnswer": "Padre lavoratore"
+          },
+          {
+            "question": "Choosing between siblings, how is 'Older brother' said in Italian?",
+            "options": ["Fratello maggiore", "Nonni saggi", "Amici fedeli", "Compagno di classe"],
+            "correctAnswer": "Fratello maggiore"
+          },
+          {
+            "question": "How would you state 'Younger sister' in Italian?",
+            "options": ["Sorella minore", "Madre amorevole", "Padre lavoratore", "Vicino gentile"],
+            "correctAnswer": "Sorella minore"
+          },
+          {
+            "question": "Describing family wisdom, how do you say 'Wise grandparents'?",
+            "options": ["Nonni saggi", "Amici fedeli", "Fratello maggiore", "Sorella minore"],
+            "correctAnswer": "Nonni saggi"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Mentre guardate un tramonto, il tuo amico ti chiede, 'Hai mai visto qualcosa di così bello?' Tu rispondi...",
+            "options": ["'Sì, ma solo quando il cielo diventa rosa come un fenicottero.'", "'Raramente, la sua bellezza è grande come una montagna.'", "'Ogni giorno ha il suo momento speciale, piccolo come un topo ma significativo.'", "'Spesso, ma ogni volta è unico, lungo come un fiume in continua evoluzione.'"],
+            "correctAnswer": "'Spesso, ma ogni volta è unico, lungo come un fiume in continua evoluzione.'"
+          },
+          {
+            "question": "Pianificando una cena, chiedi, 'Quanto pane dovremmo comprare?'",
+            "options": ["'Uno o due pezzi, dipende se è grande come una montagna.'", "'Forse tre, non voglio che finisca corto come un sentiero.'", "'Meglio abbondare, largo come un ponte per i nostri ospiti.'", "'Basta un pezzo, piccolo come un topo, ci concentreremo sul resto.'"],
+            "correctAnswer": "'Forse tre, non voglio che finisca corto come un sentiero.'"
+          },
+          {
+            "question": "Durante un momento difficile, il tuo amico esprime preoccupazione. Tu cerchi di confortarlo dicendo...",
+            "options": ["'Il cammino è lungo come un fiume, ma ci sarò per te.'", "'Anche il giorno più nero come la notte finisce per dare spazio alla luce.'", "'La vita ha i suoi alti e bassi, ma ricordati che ogni problema è piccolo come un topo.'", "'Ogni sfida è un'opportunità, grande come una montagna da scalare.'"],
+            "correctAnswer": "'Il cammino è lungo come un fiume, ma ci sarò per te.'"
+          },
+          {
+            "question": "Discutendo su quale film guardare, il tuo amico suggerisce uno che dura quasi tre ore. Tu commenti...",
+            "options": ["'Preferisco qualcosa di corto come un sentiero, questo sembra lungo come un fiume.'", "'Se è avvincente come un libro che non riesci a posare, allora va bene.'", "'Tre ore? Deve essere dettagliato, largo come un ponte nelle sue descrizioni.'", "'Solo se ogni minuto è ricco e profondo come il mare.'"],
+            "correctAnswer": "'Solo se ogni minuto è ricco e profondo come il mare.'"
+          },
+          {
+            "question": "Mentre organizzate un'escursione, discutete su quale sentiero prendere. Tu suggerisci...",
+            "options": ["'Quello lungo come un fiume, per goderci tutto il giorno.'", "'Il breve, corto come un sentiero, abbiamo poco tempo.'", "'Il percorso stretto come un vicolo, sembra più avventuroso.'", "'Quello alto come un edificio, per la vista migliore.'"],
+            "correctAnswer": "'Quello lungo come un fiume, per goderci tutto il giorno.'"
+          },
+          {
+            "question": "Cercando di decidere quanto gelato comprare, il tuo amico chiede, 'Quanti gusti vuoi provare?'",
+            "options": ["'Uno o due, non di più, per assaporare davvero.'", "'Tre, come i colori del tramonto.'", "'Quattro stagioni di gusti, per un viaggio attraverso i sapori.'", "'Tanti quanti ce ne stanno in una coppa grande come una montagna.'"],
+            "correctAnswer": "'Tanti quanti ce ne stanno in una coppa grande come una montagna.'"
+          },
+          {
+            "question": "Durante una conversazione profonda, riflettete su quanto sia importante sognare. Tu condividi...",
+            "options": ["'I sogni sono come stelle, infinite e luminose nel cielo notturno.'", "'Ogni sogno è un passo, lungo come un fiume verso il nostro destino.'", "'Alcuni sogni sono grandi come una montagna, altri piccoli come un momento.'", "'Un sogno può essere stretto come un vicolo, ma apre nuovi mondi.'"],
+            "correctAnswer": "'I sogni sono come stelle, infinite e luminose nel cielo notturno.'"
+          },
+          {
+            "question": "Parlando di cambiamenti nella vita, il tuo amico ti chiede, 'Quanto sei disposto a cambiare?'",
+            "options": ["'Cambio costantemente, come il fiume che modella la valle.'", "'A volte, ma deve essere un cambiamento piccolo come un topo.'", "'Sono pronto per grandi cambiamenti, alti come un edificio.'", "'Finché il cambiamento non è largo come un ponte, per attraversarlo con cautela.'"],
+            "correctAnswer": "'Cambio costantemente, come il fiume che modella la valle.'"
+          },
+          {
+            "question": "Dopo aver finito un progetto insieme, riflettete sul lavoro svolto. Tu noti...",
+            "options": ["'È stato un viaggio lungo come un fiume, ma ne è valsa la pena.'", "'Abbiamo costruito qualcosa di grande come una montagna.'", "'Ogni dettaglio era importante, piccolo come un topo ma essenziale.'", "'Abbiamo attraversato ostacoli stretti come un vicolo, ma siamo arrivati alla fine.'"],
+            "correctAnswer": "'È stato un viaggio lungo come un fiume, ma ne è valsa la pena.'"
+          },
+          {
+            "question": "Scegliendo un regalo per un amico comune, discutete su cosa sarebbe appropriato. Tu suggerisci...",
+            "options": ["'Qualcosa di piccolo come un topo, ma significativo.'", "'Un dono grande come una montagna, per mostrarle quanto ci importa.'", "'Un libro, per un viaggio lungo come un fiume attraverso le pagine.'", "'Un oggetto d'arte, unico e bello come il cielo al tramonto.'"],
+            "correctAnswer": "'Qualcosa di piccolo come un topo, ma significativo.'"
+          },
+          {
+            "question": "Mentre guardate vecchie foto, notate come siete cambiati nel tempo. Tu commenti...",
+            "options": ["'Siamo cresciuti, alti come edifici rispetto a prima.'", "'Alcuni cambiamenti sono stati sottili, stretti come un vicolo.'", "'Ogni anno aggiunge uno strato, largo come un ponte alle nostre vite.'", "'Guarda quanto eravamo giovani, freschi come la mattina.'"],
+            "correctAnswer": "'Guarda quanto eravamo giovani, freschi come la mattina.'"
+          },
+          {
+            "question": "Discutendo sul significato della vita, il tuo amico esprime confusione. Per confortarlo, dici...",
+            "options": ["'La vita è un mistero, profondo come il mare e vasto come il cielo.'", "'È un viaggio con alti e bassi, ma ogni passo è importante.'", "'Come un fiume, la vita scorre, porta con sé esperienze e lezioni.'", "'Non preoccuparti, anche nelle notti più buie, ci sono stelle a guidarci.'"],
+            "correctAnswer": "'La vita è un mistero, profondo come il mare e vasto come il cielo.'"
+          },
+          {
+            "question": "Cercando di decidere quale strada prendere durante una passeggiata, tu proponi...",
+            "options": ["'Andiamo per il sentiero stretto come un vicolo, per scoprire cosa c'è oltre.'", "'Preferisco la via larga come un ponte, è più sicura.'", "'Scegliamo il percorso che sembra lungo come un fiume, avventuroso.'", "'La strada meno percorsa, potrebbe riservarci sorprese.'"],
+            "correctAnswer": "'La strada meno percorsa, potrebbe riservarci sorprese.'"
+          },
+          {
+            "question": "Mentre pianificate le vacanze, discutete se stare in un posto o esplorare. Tu suggerisci...",
+            "options": ["'Esploriamo, ci sono così tante cose da vedere, vaste come il mare.'", "'Rimaniamo in un posto, approfondiamo come un fiume che scava la terra.'", "'Viaggiare leggeri, con solo uno zaino, piccolo come un topo ma essenziale.'", "'Facciamo entrambe le cose, la vita è piena di colori, come un arcobaleno.'"],
+            "correctAnswer": "'Facciamo entrambe le cose, la vita è piena di colori, come un arcobaleno.'"
+          },
+          {
+            "question": "Confrontando le vostre routine mattutine, discutete su quanto tempo impiegate a prepararvi. Tu affermi...",
+            "options": ["'Rapido come il vento, non mi piace perdere tempo.'", "'Prendo il mio tempo, lento come il sorgere del sole.'", "'Efficiente, ogni azione calcolata, come un orologio.'", "'Varia, alcuni giorni sono lunghi, altri volano.'"],
+            "correctAnswer": "'Efficiente, ogni azione calcolata, come un orologio.'"
+          }
+        ]
+      }
+
+    ]
+  }

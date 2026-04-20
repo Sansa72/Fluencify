@@ -1,0 +1,236 @@
+{
+    "chapterTitle": "Tenses in Italian",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'I speak' in Italian present tense?",
+            "options": ["Io parlo", "Io parlerò", "Io ho parlato", "Io parli"],
+            "correctAnswer": "Io parlo"
+          },
+          {
+            "question": "Choose the Italian present tense form for 'You eat' (informal).",
+            "options": ["Tu mangi", "Tu mangerai", "Tu hai mangiato", "Lui mangia"],
+            "correctAnswer": "Tu mangi"
+          },
+          {
+            "question": "Which is the present tense form of 'He lives'?",
+            "options": ["Lui vive", "Lui vivrà", "Lui ha vissuto", "Io vivo"],
+            "correctAnswer": "Lui vive"
+          },
+          {
+            "question": "What is the past tense form of 'I spoke' in Italian?",
+            "options": ["Io ho parlato", "Io parlerò", "Io parlo", "Tu hai parlato"],
+            "correctAnswer": "Io ho parlato"
+          },
+          {
+            "question": "Select the future tense form for 'She will eat'.",
+            "options": ["Lei mangerà", "Lei mangia", "Lei ha mangiato", "Noi mangeremo"],
+            "correctAnswer": "Lei mangerà"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Translate 'You will live' (informal) into Italian future tense.",
+            "options": ["Tu vivrai", "Tu vivi", "Tu hai vissuto", "Lui vivrà"],
+            "correctAnswer": "Tu vivrai"
+          },
+          {
+            "question": "Which is the past tense form of 'You ate' (informal)?",
+            "options": ["Tu hai mangiato", "Tu mangerai", "Tu mangi", "Lei ha mangiato"],
+            "correctAnswer": "Tu hai mangiato"
+          },
+          {
+            "question": "How do you say 'He spoke' in Italian past tense?",
+            "options": ["Lui ha parlato", "Lui parlerà", "Lui parla", "Io ho parlato"],
+            "correctAnswer": "Lui ha parlato"
+          },
+          {
+            "question": "Choose the present tense form for 'We speak' in Italian.",
+            "options": ["Noi parliamo", "Noi parleremo", "Noi abbiamo parlato", "Voi parlate"],
+            "correctAnswer": "Noi parliamo"
+          },
+          {
+            "question": "Select the future tense form for 'I will live'.",
+            "options": ["Io vivrò", "Io vivo", "Io ho vissuto", "Lei vivrà"],
+            "correctAnswer": "Io vivrò"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Io mangio' to its English equivalent.",
+            "options": ["I eat", "I ate", "I will eat", "He eats"],
+            "correctAnswer": "I eat"
+          },
+          {
+            "question": "Translate 'Tu hai vissuto' into English.",
+            "options": ["You have lived", "You live", "You will live", "We have lived"],
+            "correctAnswer": "You have lived"
+          },
+          {
+            "question": "What does 'Noi mangeremo' mean?",
+            "options": ["We will eat", "We eat", "We have eaten", "You eat"],
+            "correctAnswer": "We will eat"
+          },
+          {
+            "question": "How to say 'They speak' in Italian present tense?",
+            "options": ["Loro parlano", "Loro parleranno", "Loro hanno parlato", "Tu parli"],
+            "correctAnswer": "Loro parlano"
+          },
+          {
+            "question": "Find the past tense form for 'She lived'.",
+            "options": ["Lei ha vissuto", "Lei vive", "Lei vivrà", "Voi avete vissuto"],
+            "correctAnswer": "Lei ha vissuto"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Voi parlerete'.",
+            "options": ["You will speak (plural)", "You spoke (plural)", "You speak (plural)", "They will speak"],
+            "correctAnswer": "You will speak (plural)"
+          },
+          {
+            "question": "Which one means 'Lui ha mangiato'?",
+            "options": ["He has eaten", "He eats", "He will eat", "They have eaten"],
+            "correctAnswer": "He has eaten"
+          },
+          {
+            "question": "Translate 'How do you live?' (informal) into Italian present tense.",
+            "options": ["Come vivi?", "Come hai vissuto?", "Come vivrà?", "Come viviamo?"],
+            "correctAnswer": "Come vivi?"
+          },
+          {
+            "question": "What is the statement for 'We ate' in Italian?",
+            "options": ["Noi abbiamo mangiato", "Noi mangiamo", "Noi mangeremo", "Voi avete mangiato"],
+            "correctAnswer": "Noi abbiamo mangiato"
+          },
+          {
+            "question": "Select the phrase that describes 'You will live (informal)'.",
+            "options": ["Tu vivrai", "Tu hai vissuto", "Tu vivi", "Loro vivranno"],
+            "correctAnswer": "Tu vivrai"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing actions, how do you say 'I will speak'?",
+            "options": ["Io parlerò", "Io parlo", "Io ho parlato", "Noi parleremo"],
+            "correctAnswer": "Io parlerò"
+          },
+          {
+            "question": "If discussing past activities, how would you say 'You ate (informal)' in Italian?",
+            "options": ["Tu hai mangiato", "Tu mangi", "Tu mangerai", "Lui ha mangiato"],
+            "correctAnswer": "Tu hai mangiato"
+          },
+          {
+            "question": "Choosing between tenses, how is 'She lived' said in Italian?",
+            "options": ["Lei ha vissuto", "Lei vive", "Lei vivrà", "Noi abbiamo vissuto"],
+            "correctAnswer": "Lei ha vissuto"
+          },
+          {
+            "question": "How would you state 'They will eat' in Italian?",
+            "options": ["Loro mangeranno", "Loro mangiano", "Loro hanno mangiato", "Voi mangerete"],
+            "correctAnswer": "Loro mangeranno"
+          },
+          {
+            "question": "Describing future intentions, how do you say 'We will live'?",
+            "options": ["Noi vivremo", "Noi viviamo", "Noi abbiamo vissuto", "Voi vivrete"],
+            "correctAnswer": "Noi vivremo"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Riflettendo su una giornata impegnativa, un amico ti chiede, 'Come stai?' Tu rispondi...",
+            "options": ["'Così così, ho nuotato in piscina come se non ci fosse un domani.'", "'Sto bene, grazie, oggi ho letto un libro che mi ha aperto il mondo.'", "'Come va? Ho giocato a calcio, sentendomi libero come il vento.'", "'E tu? Oggi ho dipinto paesaggi, perdendomi nei colori come in un sogno.'"],
+            "correctAnswer": "'Sto bene, grazie, oggi ho letto un libro che mi ha aperto il mondo.'"
+          },
+          {
+            "question": "Decidendo come trascorrere il fine settimana, suggerisci...",
+            "options": ["'Potremmo cucinare ricette nuove, esplorando sapori sconosciuti.'", "'Che ne dici di suonare la chitarra insieme, creando melodie nuove?'", "'Dovremmo viaggiare per il mondo, anche solo attraverso un documentario.'", "'Perché non proviamo a scrivere storie, narrando avventure mai vissute?'"],
+            "correctAnswer": "'Potremmo cucinare ricette nuove, esplorando sapori sconosciuti.'"
+          },
+          {
+            "question": "Durante una chiacchierata serale, il tuo amico chiede delle tue attività preferite...",
+            "options": ["'Mi piace leggere, ogni libro è un viaggio nel tempo e nello spazio.'", "'Preferisco dipingere, ogni tela racconta una storia diversa.'", "'Adoro nuotare, l'acqua mi rilassa e mi fa sentire in pace.'", "'La musica è la mia passione, suonare mi collega a emozioni profonde.'"],
+            "correctAnswer": "'Mi piace leggere, ogni libro è un viaggio nel tempo e nello spazio.'"
+          },
+          {
+            "question": "Pianificando una vacanza insieme, considerate...",
+            "options": ["'Dovremmo visitare musei, ogni opera d'arte ha qualcosa da raccontare.'", "'Fare trekking sulle montagne, sfidando i nostri limiti fisici e mentali.'", "'Esplorare città storiche, dove il passato incontra il presente.'", "'Partecipare a un corso di cucina locale, imparare tradizioni culinarie.'"],
+            "correctAnswer": "'Fare trekking sulle montagne, sfidando i nostri limiti fisici e mentali.'"
+          },
+          {
+            "question": "Condividendo ricordi di infanzia, racconti...",
+            "options": ["'Ricordo quando ho imparato a nuotare, mi sentivo come un pesce.'", "'La prima volta che ho suonato uno strumento, una sensazione indimenticabile.'", "'Quando ho segnato il mio primo gol a calcio, l'euforia era palpabile.'", "'Leggere era la mia fuga, ogni storia una nuova avventura.'"],
+            "correctAnswer": "'Leggere era la mia fuga, ogni storia una nuova avventura.'"
+          },
+          {
+            "question": "Quando un amico esprime il desiderio di cambiare hobby...",
+            "options": ["'Hai mai pensato di iniziare a dipingere? Potrebbe aprirti nuovi orizzonti.'", "'Il giardinaggio può essere molto rilassante e gratificante.'", "'Che ne pensi del birdwatching? È un modo per riconnettersi con la natura.'", "'La scrittura creativa potrebbe essere un ottimo sfogo per la tua creatività.'"],
+            "correctAnswer": "'La scrittura creativa potrebbe essere un ottimo sfogo per la tua creatività.'"
+          },
+          {
+            "question": "Discutendo di un nuovo progetto creativo, proponi...",
+            "options": ["'Potremmo scrivere una storia insieme, unendo le nostre idee.'", "'Creare un album di fotografie dei nostri viaggi, raccontando attraverso le immagini.'", "'Iniziare un blog di cucina, condividendo ricette sperimentali.'", "'Organizzare un torneo di calcio amatoriale, per promuovere lo sport e l'amicizia.'"],
+            "correctAnswer": "'Potremmo scrivere una storia insieme, unendo le nostre idee.'"
+          },
+          {
+            "question": "Parlando di come mantenere vivi gli hobby durante periodi impegnativi...",
+            "options": ["'Dedico almeno mezz'ora alla lettura prima di dormire, è il mio momento di pace.'", "'Anche solo pochi minuti di esercizio al giorno possono fare la differenza.'", "'Scrivere un diario, anche brevemente, aiuta a mantenere viva la creatività.'", "'Fare una passeggiata nel verde, anche breve, rigenera mente e corpo.'"],
+            "correctAnswer": "'Dedico almeno mezz'ora alla lettura prima di dormire, è il mio momento di pace.'"
+          },
+          {
+            "question": "Riflettendo sul valore aggiunto degli hobby nella vita...",
+            "options": ["'Mi danno un senso di realizzazione, come completare un puzzle.'", "'Arricchiscono ogni giorno, colorandolo di emozioni e scoperte.'", "'Sono un ponte verso nuove amicizie, unire le persone con interessi comuni.'", "'Mi aiutano a rilassarmi e a staccare dalla routine, come una breve vacanza.'"],
+            "correctAnswer": "'Arricchiscono ogni giorno, colorandolo di emozioni e scoperte.'"
+          },
+          {
+            "question": "Discutendo di come gli hobby influenzano l'autostima...",
+            "options": ["'Vedere i propri progressi, in qualsiasi attività, rafforza la fiducia in se stessi.'", "'Condividere le proprie passioni può renderti più aperto e socievole.'", "'Imparare nuove abilità dimostra che possiamo sempre evolverci e migliorare.'", "'Gli hobby ci insegnano che è importante dedicare tempo a ciò che ci rende felici.'"],
+            "correctAnswer": "'Vedere i propri progressi, in qualsiasi attività, rafforza la fiducia in se stessi.'"
+          },
+          {
+            "question": "Esprimendo il desiderio di esplorare nuovi hobby, dichiari...",
+            "options": ["'Ho sempre voluto provare l'arrampicata, sembra liberatorio.'", "'Sono curioso di iniziare un corso di ceramica, creare con le mani deve essere magico.'", "'Vorrei imparare a suonare uno strumento musicale, forse il pianoforte.'", "'Mi piacerebbe dedicarmi alla fotografia, catturare la bellezza ovunque.'"],
+            "correctAnswer": "'Mi piacerebbe dedicarmi alla fotografia, catturare la bellezza ovunque.'"
+          },
+          {
+            "question": "Considerando un hobby da condividere con un gruppo di amici...",
+            "options": ["'Potremmo formare una squadra di calcio, nulla unisce come lo sport.'", "'Un club del libro, condividere opinioni su ciò che leggiamo.'", "'Organizzare serate di giochi da tavolo, per risate e strategia.'", "'Un gruppo di escursionismo, esplorare insieme nuovi sentieri.'"],
+            "correctAnswer": "'Un club del libro, condividere opinioni su ciò che leggiamo.'"
+          },
+          {
+            "question": "Quando ti viene chiesto come trovare tempo per i tuoi hobby...",
+            "options": ["'Organizzo la mia giornata per includere almeno un'attività che amo.'", "'Sfrutto i fine settimana per dedicarmi pienamente alle mie passioni.'", "'Trovo momenti durante la giornata, anche solo per leggere qualche pagina.'", "'Rinuncio a qualche ora di sonno, se significa fare ciò che rende felice.'"],
+            "correctAnswer": "'Trovo momenti durante la giornata, anche solo per leggere qualche pagina.'"
+          },
+          {
+            "question": "Riflettendo sull'importanza di provare nuovi hobby...",
+            "options": ["'È essenziale per mantenere la mente agile, come imparare nuove lingue.'", "'Aprire la mente a nuove esperienze è come viaggiare senza muoversi.'", "'Ogni nuovo hobby è un'avventura, un tesoro di esperienze inesplorate.'", "'Provarne di nuovi mi ricorda che c'è sempre qualcosa di emozionante da scoprire.'"],
+            "correctAnswer": "'Ogni nuovo hobby è un'avventura, un tesoro di esperienze inesplorate.'"
+          },
+          {
+            "question": "Pianificando attività per un ritiro all'aperto con amici, proponi...",
+            "options": ["'Camminate al mattino, per iniziare la giornata con energia.'", "'Serate di osservazione stellare, per condividere il mistero dell'universo.'", "'Workshop di fotografia naturalistica, per imparare a catturare la bellezza.'", "'Sessioni di yoga all'alba, per riconnetterci con noi stessi e la natura.'"],
+            "correctAnswer": "'Workshop di fotografia naturalistica, per imparare a catturare la bellezza.'"
+          }
+        ]
+      }
+
+    ]
+  }

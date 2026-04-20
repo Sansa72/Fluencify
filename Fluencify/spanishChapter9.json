@@ -1,0 +1,241 @@
+{
+    "chapterTitle": "Sizes and Measurements",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Big as a mountain' in Spanish?",
+            "options": ["Grande como una montaña", "Pequeño como un ratón", "Largo como un río", "Corto como un camino"],
+            "correctAnswer": "Grande como una montaña"
+          },
+          {
+            "question": "Choose the Spanish phrase for 'Small as a mouse'.",
+            "options": ["Pequeño como un ratón", "Alto como un edificio", "Ancho como un puente", "Estrecho como un callejón"],
+            "correctAnswer": "Pequeño como un ratón"
+          },
+          {
+            "question": "Which translates to 'Long as a river'?",
+            "options": ["Largo como un río", "Bajo como una mesa", "Grande como una montaña", "Corto como un camino"],
+            "correctAnswer": "Largo como un río"
+          },
+          {
+            "question": "How do you express 'Short as a path' in Spanish?",
+            "options": ["Corto como un camino", "Pequeño como un ratón", "Largo como un río", "Estrecho como un callejón"],
+            "correctAnswer": "Corto como un camino"
+          },
+          {
+            "question": "Select the translation for 'Tall as a building'.",
+            "options": ["Alto como un edificio", "Ancho como un puente", "Bajo como una mesa", "Pequeño como un ratón"],
+            "correctAnswer": "Alto como un edificio"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Short (height) as a table'?",
+            "options": ["Bajo como una mesa", "Estrecho como un callejón", "Grande como una montaña", "Corto como un camino"],
+            "correctAnswer": "Bajo como una mesa"
+          },
+          {
+            "question": "Find the Spanish term for 'Wide as a bridge'.",
+            "options": ["Ancho como un puente", "Largo como un río", "Alto como un edificio", "Pequeño como un ratón"],
+            "correctAnswer": "Ancho como un puente"
+          },
+          {
+            "question": "How do you say 'Narrow as an alley' in Spanish?",
+            "options": ["Estrecho como un callejón", "Bajo como una mesa", "Corto como un camino", "Grande como una montaña"],
+            "correctAnswer": "Estrecho como un callejón"
+          },
+          {
+            "question": "Which phrase means 'How long is the table?'",
+            "options": ["¿Cuánto mide la mesa?", "La mesa mide dos metros", "Ancho como un puente", "Largo como un río"],
+            "correctAnswer": "¿Cuánto mide la mesa?"
+          },
+          {
+            "question": "Select the answer for 'The table measures two meters.'",
+            "options": ["La mesa mide dos metros", "¿Cuánto mide la mesa?", "Alto como un edificio", "Estrecho como un callejón"],
+            "correctAnswer": "La mesa mide dos metros"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Alto como un edificio' to its English equivalent.",
+            "options": ["Tall as a building", "Short as a path", "Long as a river", "Wide as a bridge"],
+            "correctAnswer": "Tall as a building"
+          },
+          {
+            "question": "Translate 'Bajo como una mesa' into English.",
+            "options": ["Short (height) as a table", "Narrow as an alley", "Big as a mountain", "Small as a mouse"],
+            "correctAnswer": "Short (height) as a table"
+          },
+          {
+            "question": "What does 'Ancho como un puente' mean?",
+            "options": ["Wide as a bridge", "Long as a river", "Tall as a building", "Short as a path"],
+            "correctAnswer": "Wide as a bridge"
+          },
+          {
+            "question": "How to say 'Narrow as an alley' in Spanish?",
+            "options": ["Estrecho como un callejón", "Corto como un camino", "Bajo como una mesa", "Largo como un río"],
+            "correctAnswer": "Estrecho como un callejón"
+          },
+          {
+            "question": "Find the translation for '¿Cuánto mide la mesa?'.",
+            "options": ["How long is the table?", "The table measures two meters", "Wide as a bridge", "Short as a path"],
+            "correctAnswer": "How long is the table?"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Pequeño como un ratón'.",
+            "options": ["Small as a mouse", "Big as a mountain", "Short (height) as a table", "Long as a river"],
+            "correctAnswer": "Small as a mouse"
+          },
+          {
+            "question": "Which one means 'Largo como un río'?",
+            "options": ["Long as a river", "Wide as a bridge", "Tall as a building", "Narrow as an alley"],
+            "correctAnswer": "Long as a river"
+          },
+          {
+            "question": "Translate 'La mesa mide dos metros' into Spanish.",
+            "options": ["The table measures two meters", "How long is the table?", "Short as a path", "Tall as a building"],
+            "correctAnswer": "The table measures two meters"
+          },
+          {
+            "question": "What is the statement for 'Wide as a bridge' in Spanish?",
+            "options": ["Ancho como un puente", "Estrecho como un callejón", "Alto como un edificio", "Pequeño como un ratón"],
+            "correctAnswer": "Ancho como un puente"
+          },
+          {
+            "question": "Select the phrase that describes 'Tall as a building'.",
+            "options": ["Alto como un edificio", "Short as a path", "Narrow as an alley", "Small as a mouse"],
+            "correctAnswer": "Alto como un edificio"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing dimensions, how do you say 'Big as a mountain'?",
+            "options": ["Grande como una montaña", "Pequeño como un ratón", "Ancho como un puente", "Estrecho como un callejón"],
+            "correctAnswer": "Grande como una montaña"
+          },
+          {
+            "question": "If discussing physical properties, how would you say 'How long is the table?' in Spanish?",
+            "options": ["¿Cuánto mide la mesa?", "La mesa mide dos metros", "Corto como un camino", "Ancho como un puente"],
+            "correctAnswer": "¿Cuánto mide la mesa?"
+          },
+          {
+            "question": "Choosing between sizes, how is 'Short (height) as a table' said in Spanish?",
+            "options": ["Bajo como una mesa", "Alto como un edificio", "Largo como un río", "Estrecho como un callejón"],
+            "correctAnswer": "Bajo como una mesa"
+          },
+          {
+            "question": "How would you state 'The table measures two meters' in Spanish?",
+            "options": ["La mesa mide dos metros", "¿Cuánto mide la mesa?", "Pequeño como un ratón", "Grande como una montaña"],
+            "correctAnswer": "La mesa mide dos metros"
+          },
+          {
+            "question": "Describing a comparison, how do you say 'Narrow as an alley'?",
+            "options": ["Estrecho como un callejón", "Ancho como un puente", "Largo como un río", "Corto como un camino"],
+            "correctAnswer": "Estrecho como un callejón"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Durante la excursión, observas una roca 'grande como una montaña'. Te impresiona su tamaño y decides comentarlo. ¿Cómo lo expresas?",
+            "options": ["Mira esa roca, es grande como una montaña.", "Esa roca parece pequeña como un ratón.", "¿Crees que esa roca es larga como un río?", "Parece corta como un camino."],
+            "correctAnswer": "Mira esa roca, es grande como una montaña."
+          },
+          {
+            "question": "Tu amigo responde señalando un animal que corre cerca y comenta que es 'pequeño como un ratón'. Se ríen de la comparación. ¿Cómo continúas la conversación?",
+            "options": ["Sí, es realmente pequeño como un ratón.", "Me pregunto si puede ser grande como una montaña.", "A veces me siento bajo como una mesa.", "¿Crees que es estrecho como un callejón?"],
+            "correctAnswer": "Sí, es realmente pequeño como un ratón."
+          },
+          {
+            "question": "Caminando junto al río, mencionas que el río es 'largo como un río'. Tu amigo bromea sobre la obviedad de la comparación. ¿Qué dices para seguir el juego?",
+            "options": ["Claro, ¿qué más podría ser sino largo como un río?", "Supongo que también es alto como un edificio.", "¿Y si fuera ancho como un puente?", "O tal vez, corto como un camino."],
+            "correctAnswer": "Claro, ¿qué más podría ser sino largo como un río?"
+          },
+          {
+            "question": "Al finalizar la caminata, describen un sendero que era 'corto como un camino'. Planifican otra ruta para la próxima vez. ¿Cómo sugieres la nueva ruta?",
+            "options": ["Deberíamos elegir un camino que sea largo como un río la próxima vez.", "Me gustaría algo tan alto como un edificio.", "Preferiría un camino que sea ancho como un puente.", "Nada de caminos estrechos como un callejón, por favor."],
+            "correctAnswer": "Deberíamos elegir un camino que sea largo como un río la próxima vez."
+          },
+          {
+            "question": "Viendo un edificio en el horizonte, comentas que es 'alto como un edificio'. Tu amigo, intrigado por la redundancia, te pide que describas su altura exacta. ¿Cómo respondes?",
+            "options": ["Es tan alto como un edificio de diez pisos.", "Más bien parece bajo como una mesa.", "Es ancho como un puente, también.", "Tan estrecho como un callejón, diría."],
+            "correctAnswer": "Es tan alto como un edificio de diez pisos."
+          },
+          {
+            "question": "En un café, observan una mesa que parece 'baja como una mesa'. Discuten sobre mobiliario para un proyecto. ¿Cómo preguntas sobre sus preferencias de tamaño para una mesa?",
+            "options": ["¿Prefieres una mesa que sea baja como esta o más alta?", "¿Te gusta más larga como un río?", "¿Qué te parece una mesa ancha como un puente?", "¿O una que sea estrecha como un callejón?"],
+            "correctAnswer": "¿Prefieres una mesa que sea baja como esta o más alta?"
+          },
+          {
+            "question": "Después de ver un puente, tu amigo dice que es 'ancho como un puente'. Consideran cruzarlo en bicicleta. ¿Cómo le aseguras que el puente es seguro?",
+            "options": ["No te preocupes, es definitivamente ancho como un puente.", "Espero que no sea tan largo como un río.", "Al menos no es alto como un edificio.", "Ni estrecho como un callejón, eso seguro."],
+            "correctAnswer": "No te preocupes, es definitivamente ancho como un puente."
+          },
+          {
+            "question": "Cruzando un callejón, tu amigo comenta que es 'estrecho como un callejón'. Ríen por lo obvio del comentario. ¿Qué dices para continuar la broma?",
+            "options": ["¿Te imaginas que fuera ancho como un puente?", "O largo como un río, eso sería algo.", "Al menos no es bajo como una mesa.", "Ni grande como una montaña, afortunadamente."],
+            "correctAnswer": "¿Te imaginas que fuera ancho como un puente?"
+          },
+          {
+            "question": "Al planear decorar un espacio, discuten sobre colores y tamaños. Tu amigo pregunta sobre el tamaño ideal. ¿Cómo preguntas sobre sus preferencias en relación al tamaño del espacio?",
+            "options": ["¿Cuánto mide el espacio? ¿Es largo como un río o más bien corto como un camino?", "¿Te gustaría que fuera alto como un edificio o bajo como una mesa?", "¿Prefieres que sea ancho como un puente o estrecho como un callejón?", "¿Debería ser grande como una montaña o pequeño como un ratón?"],
+            "correctAnswer": "¿Cuánto mide el espacio? ¿Es largo como un río o más bien corto como un camino?"
+          },
+          {
+            "question": "En una tienda, tu amigo ve una escultura 'pequeña como un ratón' y considera comprarla. ¿Cómo expresas tu opinión sobre la escultura?",
+            "options": ["Es encantadora, pequeña como un ratón, perfecta para tu estante.", "¿No prefieres algo grande como una montaña?", "Podría ser más larga, como un río.", "Sería mejor si fuera alta como un edificio."],
+            "correctAnswer": "Es encantadora, pequeña como un ratón, perfecta para tu estante."
+          },
+          {
+            "question": "Al medir una nueva alfombra, descubren que es 'larga como un río'. Tu amigo se preocupa por el ajuste. ¿Cómo tranquilizas a tu amigo sobre la medida de la alfombra?",
+            "options": ["No te preocupes, aunque es larga como un río, cabe perfectamente aquí.", "¿Quieres que sea corta como un camino en cambio?", "Podríamos buscar una que sea ancha como un puente.", "Tal vez una más baja como una mesa sería mejor."],
+            "correctAnswer": "No te preocupes, aunque es larga como un río, cabe perfectamente aquí."
+          },
+          {
+            "question": "Mientras discuten sobre cortinas para un teatro, tu amigo sugiere que deben ser 'altas como un edificio'. ¿Cómo respondes para considerar las dimensiones reales?",
+            "options": ["Es un buen punto, pero asegurémonos de que no sean demasiado altas como un edificio.", "¿Y si en lugar de eso fueran bajas como una mesa?", "Podríamos hacerlas anchas como un puente en su lugar.", "¿Te parece si las hacemos estrechas como un callejón?"],
+            "correctAnswer": "Es un buen punto, pero asegurémonos de que no sean demasiado altas como un edificio."
+          },
+          {
+            "question": "Observando la decoración de un evento, notas que el escenario es 'ancho como un puente'. Tu amigo está impresionado por el espacio. ¿Cómo sugieres usar el espacio adicional?",
+            "options": ["Con todo este espacio, ancho como un puente, podríamos agregar más asientos.", "¿Y si lo hacemos más estrecho como un callejón?", "Podría ser más corto, como un camino.", "Tal vez deberíamos hacerlo más largo, como un río."],
+            "correctAnswer": "Con todo este espacio, ancho como un puente, podríamos agregar más asientos."
+          },
+          {
+            "question": "Al final del día, caminan por un parque y tu amigo comenta que el sendero es 'estrecho como un callejón'. Planean volver con más amigos. ¿Cómo planteas la idea para la próxima visita?",
+            "options": ["La próxima vez, traigamos a más amigos para disfrutar de este sendero, aunque sea estrecho como un callejón.", "Quizás deberíamos buscar un camino más ancho, como un puente.", "O podríamos encontrar un lugar más largo, como un río.", "Preferiría un espacio más abierto, alto como un edificio."],
+            "correctAnswer": "La próxima vez, traigamos a más amigos para disfrutar de este sendero, aunque sea estrecho como un callejón."
+          },
+          {
+            "question": "Antes de separarse, tu amigo te pregunta cuál fue tu parte favorita del día. ¿Cómo respondes destacando el aspecto de los tamaños y medidas?",
+            "options": ["Me encantó cómo cada lugar que visitamos era único, desde lo alto como un edificio hasta lo estrecho como un callejón.", "Disfruté la comida más que el paisaje.", "Creo que caminamos demasiado, fue largo como un río.", "Preferiría que el día hubiera sido más corto, como un camino."],
+            "correctAnswer": "Me encantó cómo cada lugar que visitamos era único, desde lo alto como un edificio hasta lo estrecho como un callejón."
+          },
+          {
+            "question": "Compartiendo un último vistazo al cielo nocturno, notan que las estrellas parecen 'pequeñas como un ratón'. Tu amigo reflexiona sobre la perspectiva. ¿Cómo concluyes la conversación?",
+            "options": ["Es asombroso cómo algo tan pequeño como un ratón puede ser tan significativo.", "Preferiría que las estrellas fueran grandes como una montaña.", "¿Te imaginas si fueran largas como un río?", "A veces, me gustaría que fueran altas como un edificio."],
+            "correctAnswer": "Es asombroso cómo algo tan pequeño como un ratón puede ser tan significativo."
+          }
+        ]
+      }
+
+    ]
+  }

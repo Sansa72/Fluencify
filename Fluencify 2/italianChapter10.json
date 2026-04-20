@@ -1,0 +1,235 @@
+{
+    "chapterTitle": "Weather and Seasons",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Cold in winter' in Italian?",
+            "options": ["Freddo in inverno", "Caldo in estate", "Piovoso in primavera", "Soleggiato in autunno"],
+            "correctAnswer": "Freddo in inverno"
+          },
+          {
+            "question": "Choose the Italian phrase for 'Hot in summer'.",
+            "options": ["Caldo in estate", "Nuvoloso al mattino", "Tempesta al pomeriggio", "Neve sulla montagna"],
+            "correctAnswer": "Caldo in estate"
+          },
+          {
+            "question": "Which translates to 'Rainy in spring'?",
+            "options": ["Piovoso in primavera", "Soleggiato in autunno", "Freddo in inverno", "Vento sulla spiaggia"],
+            "correctAnswer": "Piovoso in primavera"
+          },
+          {
+            "question": "How do you express 'Sunny in autumn' in Italian?",
+            "options": ["Soleggiato in autunno", "Caldo in estate", "Nuvoloso al mattino", "Piovoso in primavera"],
+            "correctAnswer": "Soleggiato in autunno"
+          },
+          {
+            "question": "Select the translation for 'Cloudy in the morning'.",
+            "options": ["Nuvoloso al mattino", "Tempesta al pomeriggio", "Neve sulla montagna", "Vento sulla spiaggia"],
+            "correctAnswer": "Nuvoloso al mattino"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Storm in the afternoon'?",
+            "options": ["Tempesta al pomeriggio", "Neve sulla montagna", "Vento sulla spiaggia", "Freddo in inverno"],
+            "correctAnswer": "Tempesta al pomeriggio"
+          },
+          {
+            "question": "Find the Italian term for 'Snow on the mountain'.",
+            "options": ["Neve sulla montagna", "Nuvoloso al mattino", "Soleggiato in autunno", "Piovoso in primavera"],
+            "correctAnswer": "Neve sulla montagna"
+          },
+          {
+            "question": "How do you say 'Wind on the beach' in Italian?",
+            "options": ["Vento sulla spiaggia", "Caldo in estate", "Tempesta al pomeriggio", "Freddo in inverno"],
+            "correctAnswer": "Vento sulla spiaggia"
+          },
+          {
+            "question": "Which phrase means 'What's the weather like today?'",
+            "options": ["Che tempo fa oggi?", "Oggi fa bel tempo", "Caldo in estate", "Nuvoloso al mattino"],
+            "correctAnswer": "Che tempo fa oggi?"
+          },
+          {
+            "question": "Select the answer for 'The weather is good today.'",
+            "options": ["Oggi fa bel tempo", "Che tempo fa oggi?", "Tempesta al pomeriggio", "Soleggiato in autunno"],
+            "correctAnswer": "Oggi fa bel tempo"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Freddo in inverno' to its English counterpart.",
+            "options": ["Cold in winter", "Hot in summer", "Rainy in spring", "Sunny in autumn"],
+            "correctAnswer": "Cold in winter"
+          },
+          {
+            "question": "Translate 'Caldo in estate' into English.",
+            "options": ["Sunny in autumn", "Hot in summer", "Cloudy in the morning", "Storm in the afternoon"],
+            "correctAnswer": "Hot in summer"
+          },
+          {
+            "question": "What does 'Piovoso in primavera' mean?",
+            "options": ["Rainy in spring", "Snow on the mountain", "Wind on the beach", "Cold in winter"],
+            "correctAnswer": "Rainy in spring"
+          },
+          {
+            "question": "How to say 'Sunny in autumn' in Italian?",
+            "options": ["Soleggiato in autunno", "Caldo in estate", "Nuvoloso al mattino", "Freddo in inverno"],
+            "correctAnswer": "Soleggiato in autunno"
+          },
+          {
+            "question": "Find the translation for 'Nuvoloso al mattino'.",
+            "options": ["Cloudy in the morning", "Storm in the afternoon", "Snow on the mountain", "Wind on the beach"],
+            "correctAnswer": "Cloudy in the morning"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Tempesta al pomeriggio'.",
+            "options": ["Storm in the afternoon", "Snow on the mountain", "Wind on the beach", "Rainy in spring"],
+            "correctAnswer": "Storm in the afternoon"
+          },
+          {
+            "question": "Which one means 'Neve sulla montagna'?",
+            "options": ["Snow on the mountain", "Cloudy in the morning", "Sunny in autumn", "Cold in winter"],
+            "correctAnswer": "Snow on the mountain"
+          },
+          {
+            "question": "Translate 'What's the weather like today?' into Italian.",
+            "options": ["Che tempo fa oggi?", "Oggi fa bel tempo", "Caldo in estate", "Freddo in inverno"],
+            "correctAnswer": "Che tempo fa oggi?"
+          },
+          {
+            "question": "What is the statement for 'The weather is good today' in Italian?",
+            "options": ["Oggi fa bel tempo", "Che tempo fa oggi?", "Piovoso in primavera", "Soleggiato in autunno"],
+            "correctAnswer": "Oggi fa bel tempo"
+          },
+          {
+            "question": "Select the phrase that describes 'Wind on the beach'.",
+            "options": ["Vento sulla spiaggia", "Neve sulla montagna", "Tempesta al pomeriggio", "Nuvoloso al mattino"],
+            "correctAnswer": "Vento sulla spiaggia"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing weather conditions, how do you say 'Cold in winter'?",
+            "options": ["Freddo in inverno", "Caldo in estate", "Piovoso in primavera", "Soleggiato in autunno"],
+            "correctAnswer": "Freddo in inverno"
+          },
+          {
+            "question": "If discussing seasonal weather, how would you say 'Hot in summer' in Italian?",
+            "options": ["Caldo in estate", "Nuvoloso al mattino", "Tempesta al pomeriggio", "Vento sulla spiaggia"],
+            "correctAnswer": "Caldo in estate"
+          },
+          {
+            "question": "Choosing between seasonal characteristics, how is 'Rainy in spring' said in Italian?",
+            "options": ["Piovoso in primavera", "Neve sulla montagna", "Soleggiato in autunno", "Freddo in inverno"],
+            "correctAnswer": "Piovoso in primavera"
+          },
+          {
+            "question": "How would you state 'Sunny in autumn' in Italian?",
+            "options": ["Soleggiato in autunno", "Caldo in estate", "Nuvoloso al mattino", "Tempesta al pomeriggio"],
+            "correctAnswer": "Soleggiato in autunno"
+          },
+          {
+            "question": "Describing a daily weather condition, how do you say 'Cloudy in the morning'?",
+            "options": ["Nuvoloso al mattino", "Vento sulla spiaggia", "Neve sulla montagna", "Tempesta al pomeriggio"],
+            "correctAnswer": "Nuvoloso al mattino"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Dopo una lunga giornata, un amico ti chiede, 'Come stai?' Tu rispondi...",
+            "options": ["'Così così, è stata una giornata lunga come un fiume.'", "'Sto bene, grazie, nonostante tutto.'", "'Come va? Non ho avuto tempo di fermarmi oggi.'", "'E tu? Spero tu sia grande come una montagna.'"],
+            "correctAnswer": "'Sto bene, grazie, nonostante tutto.'"
+          },
+          {
+            "question": "Al momento di salutare dopo aver passato la serata insieme, dici...",
+            "options": ["'Ciao, è stato bello come il cielo blu.'", "'Buonanotte, spero di sognare verde come l'erba.'", "'A dopo, magari domani al parco bello.'", "'Addio, ma solo come il sole al tramonto.'"],
+            "correctAnswer": "'A dopo, magari domani al parco bello.'"
+          },
+          {
+            "question": "Incontrando un vecchio amico al mattino, esclami...",
+            "options": ["'Buongiorno! Sei luminoso come il sole giallo.'", "'Ciao, è una sorpresa piacevole come una mela rossa.'", "'Buonanotte, ah no, è ancora mattino!'", "'Come va? Sei fiorito come la primavera.'"],
+            "correctAnswer": "'Buongiorno! Sei luminoso come il sole giallo.'"
+          },
+          {
+            "question": "Prima di andare a dormire, durante una telefonata con un amico, dici...",
+            "options": ["'Buonanotte, sogni d'oro come le stelle.'", "'Ciao, ci vediamo nei sogni blu come il cielo.'", "'Buongiorno... ahah, scherzo, è ora di dormire.'", "'Addio, fino a domani, sotto un sole brillante.'"],
+            "correctAnswer": "'Buonanotte, sogni d'oro come le stelle.'"
+          },
+          {
+            "question": "Quando un amico ti racconta dei suoi problemi, chiedi delicatamente...",
+            "options": ["'Come stai? Sei pallido come la luna.'", "'Come va? Spero che tu sia forte come una montagna.'", "'E tu? Mi sembri triste come il cielo prima della pioggia.'", "'Sto bene, grazie, e spero anche tu, nonostante le nuvole.'"],
+            "correctAnswer": "'Come stai? Sei pallido come la luna.'"
+          },
+          {
+            "question": "'Hai mai pensato a quanto sia stretto come un vicolo il nostro mondo?'",
+            "options": ["'Sì, ma ogni vicolo conduce a strade aperte, largo come un ponte.'", "'A volte mi sento perso, come in un labirinto senza fine.'", "'Il mondo è vario, dalle vette alte come edifici alle valli profonde.'", "'Ogni persona che incontri è un universo, vasto e misterioso.'"],
+            "correctAnswer": "'Sì, ma ogni vicolo conduce a strade aperte, largo come un ponte.'"
+          },
+          {
+            "question": "Mentre pianificate un viaggio, chiedi, 'Quanto spazio abbiamo per i bagagli?'",
+            "options": ["'Dovremmo limitarci a uno o due zaini, piccolo come un topo.'", "'Possiamo portare molto, il bagagliaio è grande come una montagna.'", "'Solo l'essenziale, voglio viaggiare leggero, come una foglia.'", "'Abbastanza per tutto, ma preferisco lasciare spazio per i ricordi.'"],
+            "correctAnswer": "'Possiamo portare molto, il bagagliaio è grande come una montagna.'"
+          },
+          {
+            "question": "'Quante storie hai da raccontare del nostro ultimo viaggio?'",
+            "options": ["'Infinite, come le stelle nel cielo.'", "'Qualche avventura, ma nulla di che.'", "'Una per ogni giorno passato lontano, ricco di colori.'", "'Più di quanto possa contare, ogni momento era un tesoro.'"],
+            "correctAnswer": "'Infinite, come le stelle nel cielo.'"
+          },
+          {
+            "question": "Parlando di un libro letto recentemente, chiedi, 'Quanto ti è piaciuto, su una scala da uno a dieci?'",
+            "options": ["'Dieci, è stato profondo come il mare.'", "'Sette, interessante ma non indimenticabile.'", "'Cinque, medio, né buono né cattivo.'", "'Uno, non mi ha toccato, superficiale come una pozzanghera.'"],
+            "correctAnswer": "'Dieci, è stato profondo come il mare.'"
+          },
+          {
+            "question": "'Quanto tempo dedichi alla lettura ogni sera?'",
+            "options": ["'Un'ora o due, mi rilassa come una passeggiata nel parco.'", "'Tre pagine, poi crollo dal sonno, stanco come dopo una maratona.'", "'Fino a che non mi pesano gli occhi, affamato di storie.'", "'Dipende dal libro, alcuni sono avvincenti come un film.'"],
+            "correctAnswer": "'Un'ora o due, mi rilassa come una passeggiata nel parco.'"
+          },
+          {
+            "question": "Dopo aver visto un film, discutete se era lungo o corto. Tu commenti...",
+            "options": ["'È volato, breve come un battito di ciglia.'", "'Interminabile, lungo come un secolo.'", "'Perfetto, ogni momento aveva il suo spazio, equilibrato come la natura.'", "'Troppo breve, mi ha lasciato voglia di più, come un antipasto.'"],
+            "correctAnswer": "'Perfetto, ogni momento aveva il suo spazio, equilibrato come la natura.'"
+          },
+          {
+            "question": "'Quante volte hai ricordato quella vacanza al mare?'",
+            "options": ["'Innumerevoli, il ricordo è dolce come il gelato sotto il sole.'", "'Qualche volta, ma ormai è un ricordo sbiadito.'", "'Ogni volta che vedo il mare, blu come il cielo.'", "'Raramente, la vita è un fiume che scorre, sempre verso nuove avventure.'"],
+            "correctAnswer": "'Innumerevoli, il ricordo è dolce come il gelato sotto il sole.'"
+          },
+          {
+            "question": "'Credi che la felicità sia grande come una montagna o piccola come un momento?'",
+            "options": ["'Grande e vasta, ma difficile da scalare.'", "'Piccola, si trova nei dettagli, nei brevi momenti.'", "'Come un fiume, a volte larga e profonda, altre stretta.'", "'Un mix di entrambi, dipende dai giorni e dalle esperienze.'"],
+            "correctAnswer": "'Piccola, si trova nei dettagli, nei brevi momenti.'"
+          },
+          {
+            "question": "'Quanto sei disposto a spingerti per raggiungere i tuoi obiettivi?'",
+            "options": ["'Fino al confine del mondo, vasto come l'oceano.'", "'Moderatamente, mantenendo l'equilibrio, come in un giardino curato.'", "'Con cautela, ogni passo misurato, come un percorso in montagna.'", "'Con tutta me stesso, ardente come il sole d'estate.'"],
+            "correctAnswer": "'Fino al confine del mondo, vasto come l'oceano.'"
+          },
+          {
+            "question": "'Quante esperienze pensi che la vita debba offrire?'",
+            "options": ["'Infinite, come le stelle nel cielo notturno.'", "'Qualche una, ma significativa, profonda come il mare.'", "'Numerose, ma gestibili, come i passi di un cammino.'", "'Poche, ma intense, luminose come il sole al tramonto.'"],
+            "correctAnswer": "'Infinite, come le stelle nel cielo notturno.'"
+          }
+        ]
+      }
+    ]
+  }

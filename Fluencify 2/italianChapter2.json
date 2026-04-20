@@ -1,0 +1,211 @@
+{
+    "chapterTitle": "Animals and Descriptions",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Big dog' in Italian?",
+            "options": ["Cane grande", "Gatto piccolo", "Uccello canterino", "Pesce rosso"],
+            "correctAnswer": "Cane grande"
+          },
+          {
+            "question": "Choose the Italian word for 'Small cat'.",
+            "options": ["Cavallo veloce", "Gatto piccolo", "Mucca da latte", "Pecora bianca"],
+            "correctAnswer": "Gatto piccolo"
+          },
+          {
+            "question": "Which phrase means 'Fast horse'?",
+            "options": ["Topo piccolo", "Cavallo veloce", "Uccello canterino", "Pesce rosso"],
+            "correctAnswer": "Cavallo veloce"
+          },
+          {
+            "question": "How do you say 'Dairy cow' in Italian?",
+            "options": ["Mucca da latte", "Pecora bianca", "Topo piccolo", "Cane grande"],
+            "correctAnswer": "Mucca da latte"
+          },
+          {
+            "question": "Select the translation for 'White sheep'.",
+            "options": ["Pesce rosso", "Gatto piccolo", "Pecora bianca", "Uccello canterino"],
+            "correctAnswer": "Pecora bianca"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which animal is known as 'Little mouse' in Italian?",
+            "options": ["Topo piccolo", "Cane grande", "Uccello canterino", "Gatto piccolo"],
+            "correctAnswer": "Topo piccolo"
+          },
+          {
+            "question": "Find the Italian term for 'Singing bird'.",
+            "options": ["Pecora bianca", "Pesce rosso", "Cavallo veloce", "Uccello canterino"],
+            "correctAnswer": "Uccello canterino"
+          },
+          {
+            "question": "How do you say 'Red fish' in Italian?",
+            "options": ["Pesce rosso", "Mucca da latte", "Topo piccolo", "Cane grande"],
+            "correctAnswer": "Pesce rosso"
+          },
+          {
+            "question": "Which phrase means 'What color is your dog?'",
+            "options": ["Di che colore è il tuo cane?", "Il mio cane è nero", "Cane grande", "Gatto piccolo"],
+            "correctAnswer": "Di che colore è il tuo cane?"
+          },
+          {
+            "question": "Select the answer for 'My dog is black.'",
+            "options": ["Il mio cane è nero", "Pesce rosso", "Uccello canterino", "Topo piccolo"],
+            "correctAnswer": "Il mio cane è nero"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Cane grande' to its English counterpart.",
+            "options": ["Big dog", "Small cat", "Fast horse", "Dairy cow"],
+            "correctAnswer": "Big dog"
+          },
+          {
+            "question": "Translate 'Gatto piccolo' into English.",
+            "options": ["Little mouse", "Singing bird", "Small cat", "Red fish"],
+            "correctAnswer": "Small cat"
+          },
+          {
+            "question": "What does 'Cavallo veloce' mean?",
+            "options": ["White sheep", "Fast horse", "Dairy cow", "Big dog"],
+            "correctAnswer": "Fast horse"
+          },
+          {
+            "question": "How to say 'Dairy cow' in Italian?",
+            "options": ["Pecora bianca", "Mucca da latte", "Topo piccolo", "Pesce rosso"],
+            "correctAnswer": "Mucca da latte"
+          },
+          {
+            "question": "Find the translation for 'Uccello canterino'.",
+            "options": ["Singing bird", "Little mouse", "Red fish", "White sheep"],
+            "correctAnswer": "Singing bird"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Pesce rosso'.",
+            "options": ["Red fish", "Singing bird", "Little mouse", "Big dog"],
+            "correctAnswer": "Red fish"
+          },
+          {
+            "question": "Which one means 'Topo piccolo'?",
+            "options": ["Dairy cow", "Little mouse", "Fast horse", "Small cat"],
+            "correctAnswer": "Little mouse"
+          },
+          {
+            "question": "Translate 'My dog is black' into Italian.",
+            "options": ["Il mio cane è nero", "Di che colore è il tuo cane?", "Pesce rosso", "Cane grande"],
+            "correctAnswer": "Il mio cane è nero"
+          },
+          {
+            "question": "What is the question for asking the color of your dog in Italian?",
+            "options": ["Di che colore è il tuo cane?", "Il mio cane è nero", "Uccello canterino", "Pecora bianca"],
+            "correctAnswer": "Di che colore è il tuo cane?"
+          },
+          {
+            "question": "Select the phrase that describes a 'White sheep'.",
+            "options": ["Pecora bianca", "Mucca da latte", "Gatto piccolo", "Cavallo veloce"],
+            "correctAnswer": "Pecora bianca"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "If your friend asks about your pet, how do you say 'My dog is black'?",
+            "options": ["Il mio cane è nero", "Di che colore è il tuo cane?", "Pecora bianca", "Pesce rosso"],
+            "correctAnswer": "Il mio cane è nero"
+          },
+          {
+            "question": "Identify the phrase for 'Big dog' in Italian.",
+            "options": ["Cane grande", "Topo piccolo", "Uccello canterino", "Pesce rosso"],
+            "correctAnswer": "Cane grande"
+          },
+          {
+            "question": "How would you describe a 'Small cat' in Italian?",
+            "options": ["Gatto piccolo", "Cavallo veloce", "Mucca da latte", "Pecora bianca"],
+            "correctAnswer": "Gatto piccolo"
+          },
+          {
+            "question": "Choose the translation for 'Fast horse'.",
+            "options": ["Cavallo veloce", "Topo piccolo", "Uccello canterino", "Pesce rosso"],
+            "correctAnswer": "Cavallo veloce"
+          },
+          {
+            "question": "Which term is used for a 'Singing bird'?",
+            "options": ["Uccello canterino", "Cane grande", "Gatto piccolo", "Mucca da latte"],
+            "correctAnswer": "Uccello canterino"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Ti trovi in un parco e un passante ti chiede, 'Di che colore è il tuo cane?'",
+            "options": ["'Il mio cane è nero'", "'Cane grande'", "'Gatto piccolo'", "'Pesce rosso'"],
+            "correctAnswer": "'Il mio cane è nero'"
+          },
+          {
+            "question": "Rispondendo alla domanda sul tuo cane, decidi di chiedere del suo animale. 'E il tuo gatto è...?'",
+            "options": ["'Gatto piccolo'", "'Cane grande'", "'Uccello canterino'", "'Topo piccolo'"],
+            "correctAnswer": "'Gatto piccolo'"
+          },
+          {
+            "question": "'Sì, è ancora un cucciolo. Comunque, hai visto quel cavallo nel prato?'",
+            "options": ["'Cavallo veloce'", "'Mucca da latte'", "'Pesce rosso'", "'Pecora bianca'"],
+            "correctAnswer": "'Cavallo veloce'"
+          },
+          {
+            "question": "Dopo aver parlato del cavallo, notate una mucca nei pressi. 'Guarda! Una...'",
+            "options": ["'Mucca da latte'", "'Cane grande'", "'Uccello canterino'", "'Topo piccolo'"],
+            "correctAnswer": "'Mucca da latte'"
+          },
+          {
+            "question": "Mentre continuate a passeggiare, un agnellino vi si avvicina. 'Che carina! Una pecora...'",
+            "options": ["'Pecora bianca'", "'Gatto piccolo'", "'Cane grande'", "'Pesce rosso'"],
+            "correctAnswer": "'Pecora bianca'"
+          },
+          {
+            "question": "Il passante poi indica un piccolo roditore. 'Vedi là? Un...'",
+            "options": ["'Topo piccolo'", "'Uccello canterino'", "'Cavallo veloce'", "'Mucca da latte'"],
+            "correctAnswer": "'Topo piccolo'"
+          },
+          {
+            "question": "Udite il canto di un uccello e vi chiedete di che tipo sia. 'Quello è un...'",
+            "options": ["'Uccello canterino'", "'Pesce rosso'", "'Gatto piccolo'", "'Pecora bianca'"],
+            "correctAnswer": "'Uccello canterino'"
+          },
+          {
+            "question": "Decidete di andare a vedere l'acquario più vicino, dove osservate un...'",
+            "options": ["'Pesce rosso'", "'Cane grande'", "'Topo piccolo'", "'Cavallo veloce'"],
+            "correctAnswer": "'Pesce rosso'"
+          },
+          {
+            "question": "Dopo una giornata al parco, torni a casa. Come saluti il tuo nuovo amico?",
+            "options": ["'A dopo'", "'Buonanotte'", "'Ciao'", "'Addio'"],
+            "correctAnswer": "'Ciao'"
+          },
+          {
+            "question": "Prima di addormentarti, rifletti sulla giornata e ti domandi come sta il piccolo agnellino. Come lo chiedi al passante il giorno dopo?",
+            "options": ["'Come sta la pecora bianca?'", "'Come sta il cane grande?'", "'Come sta il gatto piccolo?'", "'Come sta l'uccello canterino?'"],
+            "correctAnswer": "'Come sta la pecora bianca?'"
+          }
+        ]
+      }
+
+    ]
+  }

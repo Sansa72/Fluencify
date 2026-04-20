@@ -1,0 +1,210 @@
+{
+    "chapterTitle": "Numbers and Quantities",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'One or two' in Italian?",
+            "options": ["Uno o due", "Tre volte", "Quattro stagioni", "Cinque dita"],
+            "correctAnswer": "Uno o due"
+          },
+          {
+            "question": "Choose the Italian phrase for 'Three times'.",
+            "options": ["Tre volte", "Sei uova", "Sette giorni", "Otto fette"],
+            "correctAnswer": "Tre volte"
+          },
+          {
+            "question": "Which translates to 'Four seasons'?",
+            "options": ["Quattro stagioni", "Nove piani", "Uno o due", "Cinque dita"],
+            "correctAnswer": "Quattro stagioni"
+          },
+          {
+            "question": "How do you express 'Five fingers' in Italian?",
+            "options": ["Cinque dita", "Sei uova", "Sette giorni", "Otto fette"],
+            "correctAnswer": "Cinque dita"
+          },
+          {
+            "question": "Select the translation for 'Six eggs'.",
+            "options": ["Sei uova", "Quattro stagioni", "Tre volte", "Uno o due"],
+            "correctAnswer": "Sei uova"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Seven days'?",
+            "options": ["Sette giorni", "Otto fette", "Nove piani", "Cinque dita"],
+            "correctAnswer": "Sette giorni"
+          },
+          {
+            "question": "Find the Italian term for 'Eight slices'.",
+            "options": ["Otto fette", "Sei uova", "Sette giorni", "Quattro stagioni"],
+            "correctAnswer": "Otto fette"
+          },
+          {
+            "question": "How do you say 'Nine floors' in Italian?",
+            "options": ["Nove piani", "Uno o due", "Tre volte", "Cinque dita"],
+            "correctAnswer": "Nove piani"
+          },
+          {
+            "question": "Which phrase means 'How many books do you have?'",
+            "options": ["Quanti libri hai?", "Ho più di cento libri", "Sette giorni", "Otto fette"],
+            "correctAnswer": "Quanti libri hai?"
+          },
+          {
+            "question": "Select the answer for 'I have more than a hundred books.'",
+            "options": ["Ho più di cento libri", "Quanti libri hai?", "Nove piani", "Sei uova"],
+            "correctAnswer": "Ho più di cento libri"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Uno o due' to its English counterpart.",
+            "options": ["One or two", "Three times", "Four seasons", "Five fingers"],
+            "correctAnswer": "One or two"
+          },
+          {
+            "question": "Translate 'Tre volte' into English.",
+            "options": ["Six eggs", "Seven days", "Three times", "Eight slices"],
+            "correctAnswer": "Three times"
+          },
+          {
+            "question": "What does 'Quattro stagioni' mean?",
+            "options": ["Four seasons", "Nine floors", "One or two", "Seven days"],
+            "correctAnswer": "Four seasons"
+          },
+          {
+            "question": "How to say 'Five fingers' in Italian?",
+            "options": ["Cinque dita", "Sei uova", "Sette giorni", "Otto fette"],
+            "correctAnswer": "Cinque dita"
+          },
+          {
+            "question": "Find the translation for 'Sei uova'.",
+            "options": ["Six eggs", "Eight slices", "Three times", "Nine floors"],
+            "correctAnswer": "Six eggs"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Sette giorni'.",
+            "options": ["Seven days", "Eight slices", "One or two", "Six eggs"],
+            "correctAnswer": "Seven days"
+          },
+          {
+            "question": "Which one means 'Otto fette'?",
+            "options": ["Eight slices", "Nine floors", "Three times", "Five fingers"],
+            "correctAnswer": "Eight slices"
+          },
+          {
+            "question": "Translate 'How many books do you have?' into Italian.",
+            "options": ["Quanti libri hai?", "Ho più di cento libri", "Sette giorni", "Quattro stagioni"],
+            "correctAnswer": "Quanti libri hai?"
+          },
+          {
+            "question": "What is the statement for 'I have more than a hundred books' in Italian?",
+            "options": ["Ho più di cento libri", "Quanti libri hai?", "Uno o due", "Tre volte"],
+            "correctAnswer": "Ho più di cento libri"
+          },
+          {
+            "question": "Select the phrase that describes 'Nine floors'.",
+            "options": ["Nove piani", "Sei uova", "Quattro stagioni", "Sette giorni"],
+            "correctAnswer": "Nove piani"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing quantity, how do you say 'One or two'?",
+            "options": ["Uno o due", "Tre volte", "Sette giorni", "Quattro stagioni"],
+            "correctAnswer": "Uno o due"
+          },
+          {
+            "question": "If discussing frequency, how would you say 'Three times' in Italian?",
+            "options": ["Tre volte", "Cinque dita", "Sei uova", "Otto fette"],
+            "correctAnswer": "Tre volte"
+          },
+          {
+            "question": "Choosing between seasons, how is 'Four seasons' said in Italian?",
+            "options": ["Quattro stagioni", "Nove piani", "Uno o due", "Sei uova"],
+            "correctAnswer": "Quattro stagioni"
+          },
+          {
+            "question": "How would you state 'Five fingers' in Italian?",
+            "options": ["Cinque dita", "Sette giorni", "Otto fette", "Tre volte"],
+            "correctAnswer": "Cinque dita"
+          },
+          {
+            "question": "Describing a typical breakfast item, how do you say 'Six eggs'?",
+            "options": ["Sei uova", "Quattro stagioni", "Nove piani", "Uno o due"],
+            "correctAnswer": "Sei uova"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Durante la colazione del lunedì mattina, chiedi al tuo amico, 'Quanti caffè bevi di solito al mattino?'",
+            "options": ["'Uno o due, dipende dal giorno.'", "'Tre volte, mi alzo presto.'", "'Sette giorni alla settimana.'", "'Nove piani da salire senza caffè sarebbe impossibile.'"],
+            "correctAnswer": "'Uno o due, dipende dal giorno.'"
+          },
+          {
+            "question": "Mentre pianificate le attività della settimana, l'amico suggerisce, 'Andiamo a correre tre volte questa settimana?'",
+            "options": ["'Perfetto, amo il parco bello.'", "'Preferirei andare al ristorante italiano.'", "'Tre volte è l'ideale per restare in forma.'", "'Potremmo portare anche una mela rossa da mangiare dopo.'"],
+            "correctAnswer": "'Tre volte è l'ideale per restare in forma.'"
+          },
+          {
+            "question": "Parlando di cibo, discutete su cosa preparare per la cena. 'Quante uova ci servono per la frittata?'",
+            "options": ["'Sei uova dovrebbero bastare.'", "'Quattro stagioni sono le mie pizze preferite.'", "'Preferisco pane fresco al mattino.'", "'Otto fette di pane per accompagnare.'"],
+            "correctAnswer": "'Sei uova dovrebbero bastare.'"
+          },
+          {
+            "question": "Discutendo su quanti libri hai letto quest'anno, l'amico chiede, 'Quanti libri hai finito?'",
+            "options": ["'Ho più di cento libri nella mia lista.'", "'Leggo solo di lunedì mattina.'", "'Venerdì all'alba è il mio momento preferito per leggere.'", "'Domenica tutto il giorno passo il tempo a leggere.'"],
+            "correctAnswer": "'Ho più di cento libri nella mia lista.'"
+          },
+          {
+            "question": "Mentre organizzate una festa sorpresa per un altro amico, discutete su quanti invitati aspettarvi. 'Quante persone verranno?'",
+            "options": ["'Circa otto fette di torta dovrebbero bastare.'", "'Penso che inviteremo sette giorni prima.'", "'Più di nove piani di persone in questo piccolo appartamento!'", "'Stavo pensando a uno o due vicini di casa.'"],
+            "correctAnswer": "'Più di nove piani di persone in questo piccolo appartamento!'"
+          },
+          {
+            "question": "Pianificando una gita fuori porta, considerate il tempo necessario per raggiungere la destinazione. 'Quanto tempo ci vuole per arrivare?'",
+            "options": ["'Circa tre volte più del solito con il traffico.'", "'Uno o due ore, se prendiamo la strada meno trafficata.'", "'Sette giorni fa abbiamo impiegato molto di più.'", "'Domenica tutto il giorno sarà libero, quindi possiamo prendercela comoda.'"],
+            "correctAnswer": "'Uno o due ore, se prendiamo la strada meno trafficata.'"
+          },
+          {
+            "question": "Valutando quanti giorni prendersi di vacanza, l'amico riflette ad alta voce, 'Quanti giorni possiamo assentarci dal lavoro?'",
+            "options": ["'Sette giorni sarebbero l'ideale.'", "'Uno o due giorni non bastano per rilassarsi.'", "'Tre volte ho dovuto rimandare le vacanze quest'anno.'", "'Nove piani di progetti da finire prima di poter pensare alle vacanze.'"],
+            "correctAnswer": "'Sette giorni sarebbero l'ideale.'"
+          },
+          {
+            "question": "Mentre preparate il budget per il viaggio, discutete su quanto spendere per l'alloggio. 'Quanto vogliamo spendere a notte?'",
+            "options": ["'Non più di cento euro.'", "'Uno o due euro in più non fanno differenza.'", "'Tre volte abbiamo trovato ottimi affari.'", "'Sette giorni in un hotel di lusso costerebbero troppo.'"],
+            "correctAnswer": "'Non più di cento euro.'"
+          },
+          {
+            "question": "Considerando le attività da fare, l'amico chiede, 'Quante escursioni vorresti fare durante la nostra vacanza?'",
+            "options": ["'Uno o due trekking nelle montagne sarebbero fantastici.'", "'Tre volte in kayak sul lago.'", "'Sette giorni di relax totale, nessuna escursione.'", "'Nove piani di museo da esplorare in città.'"],
+            "correctAnswer": "'Uno o due trekking nelle montagne sarebbero fantastici.'"
+          },
+          {
+            "question": "Riflettendo sulle esperienze passate, l'amico racconta, 'L'anno scorso ho visitato quattro stagioni diverse in un solo viaggio!' Tu rispondi...",
+            "options": ["'Deve essere stato incredibile vedere tanti cambiamenti.'", "'Preferisco concentrarmi su uno o due luoghi per volta.'", "'Tre volte ho provato a fare qualcosa di simile, ma non ci sono riuscito.'", "'Sette giorni in una stagione sarebbero stati sufficienti per me.'"],
+            "correctAnswer": "'Deve essere stato incredibile vedere tanti cambiamenti.'"
+          }
+        ]
+      }
+    ]
+  }

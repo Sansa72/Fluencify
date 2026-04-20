@@ -1,0 +1,210 @@
+{
+    "chapterTitle": "Foods and Preferences",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Red apple' in Spanish?",
+            "options": ["Manzana roja", "Naranja dulce", "Plátano maduro", "Uvas verdes"],
+            "correctAnswer": "Manzana roja"
+          },
+          {
+            "question": "Choose the Spanish phrase for 'Sweet orange'.",
+            "options": ["Naranja dulce", "Queso curado", "Leche fría", "Huevo frito"],
+            "correctAnswer": "Naranja dulce"
+          },
+          {
+            "question": "Which translates to 'Ripe banana'?",
+            "options": ["Plátano maduro", "Pan fresco", "Manzana roja", "Naranja dulce"],
+            "correctAnswer": "Plátano maduro"
+          },
+          {
+            "question": "How do you express 'Green grapes' in Spanish?",
+            "options": ["Uvas verdes", "Queso curado", "Leche fría", "Plátano maduro"],
+            "correctAnswer": "Uvas verdes"
+          },
+          {
+            "question": "Select the translation for 'Fresh bread'.",
+            "options": ["Pan fresco", "Huevo frito", "Naranja dulce", "Uvas verdes"],
+            "correctAnswer": "Pan fresco"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Aged cheese'?",
+            "options": ["Queso curado", "Leche fría", "Huevo frito", "Pan fresco"],
+            "correctAnswer": "Queso curado"
+          },
+          {
+            "question": "Find the Spanish term for 'Cold milk'.",
+            "options": ["Leche fría", "Queso curado", "Pan fresco", "Huevo frito"],
+            "correctAnswer": "Leche fría"
+          },
+          {
+            "question": "How do you say 'Fried egg' in Spanish?",
+            "options": ["Huevo frito", "Leche fría", "Queso curado", "Pan fresco"],
+            "correctAnswer": "Huevo frito"
+          },
+          {
+            "question": "Which phrase means 'What do you like more, bread or cheese?'",
+            "options": ["¿Qué te gusta más, el pan o el queso?", "Me gusta más el pan", "Queso curado", "Pan fresco"],
+            "correctAnswer": "¿Qué te gusta más, el pan o el queso?"
+          },
+          {
+            "question": "Select the answer for 'I like bread more.'",
+            "options": ["Me gusta más el pan", "¿Qué te gusta más, el pan o el queso?", "Leche fría", "Huevo frito"],
+            "correctAnswer": "Me gusta más el pan"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Naranja dulce' to its English equivalent.",
+            "options": ["Sweet orange", "Ripe banana", "Green grapes", "Red apple"],
+            "correctAnswer": "Sweet orange"
+          },
+          {
+            "question": "Translate 'Plátano maduro' into English.",
+            "options": ["Ripe banana", "Aged cheese", "Cold milk", "Fresh bread"],
+            "correctAnswer": "Ripe banana"
+          },
+          {
+            "question": "What does 'Pan fresco' mean?",
+            "options": ["Fresh bread", "Fried egg", "Sweet orange", "Green grapes"],
+            "correctAnswer": "Fresh bread"
+          },
+          {
+            "question": "How to say 'Cold milk' in Spanish?",
+            "options": ["Leche fría", "Queso curado", "Huevo frito", "Plátano maduro"],
+            "correctAnswer": "Leche fría"
+          },
+          {
+            "question": "Find the translation for '¿Qué te gusta más, el pan o el queso?'.",
+            "options": ["What do you like more, bread or cheese?", "I like bread more", "Aged cheese", "Fresh bread"],
+            "correctAnswer": "What do you like more, bread or cheese?"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Queso curado'.",
+            "options": ["Aged cheese", "Fresh bread", "Ripe banana", "Cold milk"],
+            "correctAnswer": "Aged cheese"
+          },
+          {
+            "question": "Which one means 'Huevo frito'?",
+            "options": ["Fried egg", "Cold milk", "Sweet orange", "Green grapes"],
+            "correctAnswer": "Fried egg"
+          },
+          {
+            "question": "Translate 'Me gusta más el pan' into Spanish.",
+            "options": ["I like bread more", "What do you like more, bread or cheese?", "Fresh bread", "Aged cheese"],
+            "correctAnswer": "I like bread more"
+          },
+          {
+            "question": "What is the statement for 'Green grapes' in Spanish?",
+            "options": ["Uvas verdes", "Manzana roja", "Naranja dulce", "Plátano maduro"],
+            "correctAnswer": "Uvas verdes"
+          },
+          {
+            "question": "Select the phrase that describes 'Ripe banana'.",
+            "options": ["Plátano maduro", "Sweet orange", "Fresh bread", "Aged cheese"],
+            "correctAnswer": "Plátano maduro"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing food preferences, how do you say 'Aged cheese'?",
+            "options": ["Queso curado", "Leche fría", "Huevo frito", "Pan fresco"],
+            "correctAnswer": "Queso curado"
+          },
+          {
+            "question": "If discussing breakfast choices, how would you say 'What do you like more, bread or cheese?' in Spanish?",
+            "options": ["¿Qué te gusta más, el pan o el queso?", "Me gusta más el pan", "Leche fría", "Huevo frito"],
+            "correctAnswer": "¿Qué te gusta más, el pan o el queso?"
+          },
+          {
+            "question": "Choosing between fruits, how is 'Red apple' said in Spanish?",
+            "options": ["Manzana roja", "Naranja dulce", "Uvas verdes", "Plátano maduro"],
+            "correctAnswer": "Manzana roja"
+          },
+          {
+            "question": "How would you state 'I like bread more' in Spanish?",
+            "options": ["Me gusta más el pan", "¿Qué te gusta más, el pan o el queso?", "Queso curado", "Pan fresco"],
+            "correctAnswer": "Me gusta más el pan"
+          },
+          {
+            "question": "Describing a beverage choice, how do you say 'Cold milk'?",
+            "options": ["Leche fría", "Huevo frito", "Manzana roja", "Queso curado"],
+            "correctAnswer": "Leche fría"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Después de una caminata en el 'parque bonito', sugieres comer algo. Mencionas las 'manzanas rojas' que traes. ¿Cómo preguntas si quiere una?",
+            "options": ["¿Quieres una manzana roja?", "¿Vamos al parque bonito?", "¿Te gustan los perros?", "¿Cómo está el clima?"],
+            "correctAnswer": "¿Quieres una manzana roja?"
+          },
+          {
+            "question": "Tu amigo acepta la manzana y menciona lo mucho que le gustan las frutas. Recuerdas que tienes 'naranjas dulces'. ¿Cómo se lo haces saber?",
+            "options": ["También tengo naranjas dulces, ¿quieres?", "¿Prefieres pan fresco?", "¿Te gusta el queso curado?", "¿Te sientes cansado?"],
+            "correctAnswer": "También tengo naranjas dulces, ¿quieres?"
+          },
+          {
+            "question": "Al disfrutar la naranja, tu amigo se ve muy contento. Decides preguntar sobre sus frutas favoritas. ¿Qué preguntas?",
+            "options": ["¿Cuál es tu fruta favorita?", "¿Te gustaría ir al museo interesante?", "¿Qué opinas sobre los animales?", "¿Estás emocionado por el viaje?"],
+            "correctAnswer": "¿Cuál es tu fruta favorita?"
+          },
+          {
+            "question": "Tu amigo dice que las 'uvas verdes' son sus favoritas. Recuerdas que hay una frutería cerca. ¿Cómo sugieres ir allí?",
+            "options": ["Hay una frutería cerca, podríamos ir por uvas verdes.", "¿Quieres ir al parque otra vez?", "¿Vamos a la librería cerca?", "¿Te gustaría un huevo frito?"],
+            "correctAnswer": "Hay una frutería cerca, podríamos ir por uvas verdes."
+          },
+          {
+            "question": "En la frutería, tu amigo ve 'plátanos maduros' y sugiere hacer un postre. Te parece una buena idea. ¿Cómo expresas tu acuerdo?",
+            "options": ["¡Gran idea! Podemos hacer un postre con plátanos maduros.", "Preferiría comer pan fresco.", "¿Y si buscamos queso curado?", "Me siento un poco cansado ahora."],
+            "correctAnswer": "¡Gran idea! Podemos hacer un postre con plátanos maduros."
+          },
+          {
+            "question": "Mientras preparan el postre, conversan sobre sus alimentos favoritos. Te interesa saber si prefiere el 'pan fresco' o el 'queso curado'. ¿Cómo lo preguntas?",
+            "options": ["Entre pan fresco y queso curado, ¿qué prefieres?", "¿Te gustaría visitar el parque bonito mañana?", "¿Has estado alguna vez asustado por la oscuridad?", "¿Qué te emociona más del viaje próximo?"],
+            "correctAnswer": "Entre pan fresco y queso curado, ¿qué prefieres?"
+          },
+          {
+            "question": "Tu amigo elige el 'queso curado' y sugiere preparar una tabla de quesos para la próxima reunión. Te encanta la idea. ¿Cómo respondes entusiasmado?",
+            "options": ["Me parece una idea excelente, hagámoslo.", "Quizás deberíamos ir a dormir temprano.", "Preferiría hacer otro viaje al parque.", "¿Crees que deberíamos invitar a más gente?"],
+            "correctAnswer": "Me parece una idea excelente, hagámoslo."
+          },
+          {
+            "question": "Después de disfrutar el postre, se sienten 'cansados pero felices'. Tu amigo reflexiona sobre lo bien que se siente tener amigos que comparten gustos similares. ¿Cómo expresas tu gratitud por la amistad?",
+            "options": ["Yo también valoro mucho nuestra amistad y estos momentos.", "Creo que comí demasiado postre.", "Mañana deberíamos ir al gimnasio.", "¿Te acuerdas de la fiesta sorpresa?"],
+            "correctAnswer": "Yo también valoro mucho nuestra amistad y estos momentos."
+          },
+          {
+            "question": "Antes de despedirse, acuerdan encontrarse de nuevo el próximo fin de semana para la 'fiesta sorpresa'. Tu amigo te pregunta si estás emocionado. ¿Qué le dices?",
+            "options": ["Sí, estoy muy emocionado por la fiesta.", "Preferiría quedarme en casa.", "¿Podemos llevar el postre de plátano?", "Me pregunto si habrá uvas verdes."],
+            "correctAnswer": "Sí, estoy muy emocionado por la fiesta."
+          },
+          {
+            "question": "Se despiden con un 'hasta luego', emocionados por la próxima reunión. ¿Cómo le deseas una buena noche?",
+            "options": ["Que tengas una buena noche, nos vemos en la fiesta.", "Espero que no te asuste la oscuridad al volver a casa.", "Recuerda traer pan fresco la próxima vez.", "¿Traerás queso curado a la fiesta?"],
+            "correctAnswer": "Que tengas una buena noche, nos vemos en la fiesta."
+          }
+        ]
+      }
+    ]
+  }

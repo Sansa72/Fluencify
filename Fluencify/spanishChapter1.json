@@ -1,0 +1,185 @@
+{
+    "chapterTitle": "Greetings",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Hello' in Spanish?",
+            "options": ["Hola", "Adiós", "Buenos días", "Buenas noches"],
+            "correctAnswer": "Hola"
+          },
+          {
+            "question": "Choose the Spanish phrase for 'Goodbye'.",
+            "options": ["Adiós", "Bienvenido", "Hasta luego", "¿Cómo estás?"],
+            "correctAnswer": "Adiós"
+          },
+          {
+            "question": "Which translates to 'Good morning'?",
+            "options": ["Buenos días", "Buenas noches", "Hola", "¿Qué tal?"],
+            "correctAnswer": "Buenos días"
+          },
+          {
+            "question": "How do you express 'Good night' in Spanish?",
+            "options": ["Buenas noches", "Buenos días", "Hasta luego", "¿Cómo estás?"],
+            "correctAnswer": "Buenas noches"
+          },
+          {
+            "question": "Select the translation for 'How are you?'.",
+            "options": ["¿Cómo estás?", "Estoy bien, gracias", "¿Y tú?", "Más o menos"],
+            "correctAnswer": "¿Cómo estás?"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'I'm fine, thank you'?",
+            "options": ["Estoy bien, gracias", "Bienvenido", "Hasta luego", "¿Qué tal?"],
+            "correctAnswer": "Estoy bien, gracias"
+          },
+          {
+            "question": "Find the Spanish term for 'Welcome'.",
+            "options": ["Bienvenido", "Adiós", "Buenas noches", "¿Cómo estás?"],
+            "correctAnswer": "Bienvenido"
+          },
+          {
+            "question": "How do you say 'See you later' in Spanish?",
+            "options": ["Hasta luego", "Hola", "Buenos días", "Bienvenido"],
+            "correctAnswer": "Hasta luego"
+          },
+          {
+            "question": "Which phrase means 'How's it going?'",
+            "options": ["¿Qué tal?", "¿Cómo estás?", "Más o menos", "¿Y tú?"],
+            "correctAnswer": "¿Qué tal?"
+          },
+          {
+            "question": "Select the answer for 'So-so'.",
+            "options": ["Más o menos", "¿Qué tal?", "Estoy bien, gracias", "¿Y tú?"],
+            "correctAnswer": "Más o menos"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match '¿Y tú?' to its English equivalent.",
+            "options": ["And you?", "Goodbye", "Welcome", "See you later"],
+            "correctAnswer": "And you?"
+          },
+          {
+            "question": "Translate 'Hola' into English.",
+            "options": ["Hello", "Good morning", "Good night", "How are you?"],
+            "correctAnswer": "Hello"
+          },
+          {
+            "question": "What does 'Buenas noches' mean?",
+            "options": ["Good night", "Good morning", "How's it going?", "So-so"],
+            "correctAnswer": "Good night"
+          },
+          {
+            "question": "How to say 'Welcome' in Spanish?",
+            "options": ["Bienvenido", "Adiós", "Hasta luego", "Buenos días"],
+            "correctAnswer": "Bienvenido"
+          },
+          {
+            "question": "Find the translation for 'See you later'.",
+            "options": ["Hasta luego", "¿Qué tal?", "Más o menos", "¿Cómo estás?"],
+            "correctAnswer": "Hasta luego"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for '¿Cómo estás?'.",
+            "options": ["How are you?", "Goodbye", "How's it going?", "I'm fine, thank you"],
+            "correctAnswer": "How are you?"
+          },
+          {
+            "question": "Which one means 'Estoy bien, gracias'?",
+            "options": ["I'm fine, thank you", "So-so", "And you?", "Welcome"],
+            "correctAnswer": "I'm fine, thank you"
+          },
+          {
+            "question": "Translate '¿Qué tal?' into Spanish.",
+            "options": ["How's it going?", "See you later", "Good morning", "Good night"],
+            "correctAnswer": "How's it going?"
+          },
+          {
+            "question": "What is the statement for 'Good morning' in Spanish?",
+            "options": ["Buenos días", "Buenas noches", "Hola", "Adiós"],
+            "correctAnswer": "Buenos días"
+          },
+          {
+            "question": "Select the phrase that describes 'Goodbye'.",
+            "options": ["Adiós", "Bienvenido", "Hasta luego", "¿Cómo estás?"],
+            "correctAnswer": "Adiós"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing a greeting, how do you say 'Hello'?",
+            "options": ["Hola", "Adiós", "Buenas noches", "Buenos días"],
+            "correctAnswer": "Hola"
+          },
+          {
+            "question": "If discussing farewells, how would you say 'Goodbye' in Spanish?",
+            "options": ["Adiós", "Hasta luego", "Buenas noches", "Buenos días"],
+            "correctAnswer": "Adiós"
+          },
+          {
+            "question": "Choosing between greetings, how is 'Good morning' said in Spanish?",
+            "options": ["Buenos días", "Hola", "Buenas noches", "¿Cómo estás?"],
+            "correctAnswer": "Buenos días"
+          },
+          {
+            "question": "How would you state 'Good night' in Spanish?",
+            "options": ["Buenas noches", "Buenos días", "Hola", "Adiós"],
+            "correctAnswer": "Buenas noches"
+          },
+          {
+            "question": "Describing a polite inquiry, how do you say 'How are you?'",
+            "options": ["¿Cómo estás?", "¿Qué tal?", "Estoy bien, gracias", "¿Y tú?"],
+            "correctAnswer": "¿Cómo estás?"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Imagina que entras a una cafetería por la mañana y te encuentras con un amigo. ¿Cómo lo saludas?",
+            "options": ["¡Hola! ¿Cómo estás?", "Buenas noches", "Adiós", "¿Cómo te va?"],
+            "correctAnswer": "¡Hola! ¿Cómo estás?"
+          },
+          {
+            "question": "Tu amigo te responde: '¡Hola! Estoy bien, gracias. ¿Y tú?' ¿Qué le dices?",
+            "options": ["Estoy bien, gracias. ¿Qué hay de nuevo?", "Buenos días", "Me voy, adiós", "No muy bien"],
+            "correctAnswer": "Estoy bien, gracias. ¿Qué hay de nuevo?"
+          },
+          {
+            "question": "La conversación continúa y tu amigo menciona que tiene que irse a trabajar. ¿Cómo te despides?",
+            "options": ["Nos vemos luego", "Buenas noches", "Hola de nuevo", "¿Cómo estás?"],
+            "correctAnswer": "Nos vemos luego"
+          },
+          {
+            "question": "Antes de irse, tu amigo te dice: 'Nos vemos mañana por la mañana para el café, ¿te parece?' Tú respondes:",
+            "options": ["Claro, ¡buena idea!", "No, gracias", "Ya es tarde", "¿Cómo te va?"],
+            "correctAnswer": "Claro, ¡buena idea!"
+          },
+          {
+            "question": "Al día siguiente, te encuentras con tu amigo según lo planeado. Para iniciar la conversación, preguntas:",
+            "options": ["¿Cómo has estado?", "Buenas noches", "Adiós", "¿Qué hora es?"],
+            "correctAnswer": "¿Cómo has estado?"
+          }
+        ]
+      }
+    ]
+  }

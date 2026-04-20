@@ -1,0 +1,210 @@
+{
+    "chapterTitle": "Places and Directions",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Big house' in Spanish?",
+            "options": ["Casa grande", "Escuela nueva", "Librería cerca", "Restaurante italiano"],
+            "correctAnswer": "Casa grande"
+          },
+          {
+            "question": "Choose the Spanish phrase for 'New school'.",
+            "options": ["Escuela nueva", "Hospital local", "Iglesia antigua", "Parque bonito"],
+            "correctAnswer": "Escuela nueva"
+          },
+          {
+            "question": "Which translates to 'Bookstore nearby'?",
+            "options": ["Librería cerca", "Museo interesante", "Casa grande", "Restaurante italiano"],
+            "correctAnswer": "Librería cerca"
+          },
+          {
+            "question": "How do you express 'Italian restaurant' in Spanish?",
+            "options": ["Restaurante italiano", "Escuela nueva", "Hospital local", "Librería cerca"],
+            "correctAnswer": "Restaurante italiano"
+          },
+          {
+            "question": "Select the translation for 'Local hospital'.",
+            "options": ["Hospital local", "Iglesia antigua", "Parque bonito", "Museo interesante"],
+            "correctAnswer": "Hospital local"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Old church'?",
+            "options": ["Iglesia antigua", "Parque bonito", "Casa grande", "Escuela nueva"],
+            "correctAnswer": "Iglesia antigua"
+          },
+          {
+            "question": "Find the Spanish term for 'Beautiful park'.",
+            "options": ["Parque bonito", "Museo interesante", "Hospital local", "Librería cerca"],
+            "correctAnswer": "Parque bonito"
+          },
+          {
+            "question": "How do you say 'Interesting museum' in Spanish?",
+            "options": ["Museo interesante", "Restaurante italiano", "Iglesia antigua", "Hospital local"],
+            "correctAnswer": "Museo interesante"
+          },
+          {
+            "question": "Which phrase means 'Where is the bookstore?'",
+            "options": ["¿Dónde está la librería?", "La librería está al lado del parque", "Librería cerca", "Escuela nueva"],
+            "correctAnswer": "¿Dónde está la librería?"
+          },
+          {
+            "question": "Select the answer for 'The bookstore is next to the park.'",
+            "options": ["La librería está al lado del parque", "¿Dónde está la librería?", "Parque bonito", "Museo interesante"],
+            "correctAnswer": "La librería está al lado del parque"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Escuela nueva' to its English equivalent.",
+            "options": ["New school", "Big house", "Nearby bookstore", "Italian restaurant"],
+            "correctAnswer": "New school"
+          },
+          {
+            "question": "Translate 'Restaurante italiano' into English.",
+            "options": ["Italian restaurant", "Local hospital", "Old church", "Beautiful park"],
+            "correctAnswer": "Italian restaurant"
+          },
+          {
+            "question": "What does 'Parque bonito' mean?",
+            "options": ["Beautiful park", "Interesting museum", "Nearby bookstore", "New school"],
+            "correctAnswer": "Beautiful park"
+          },
+          {
+            "question": "How to say 'Local hospital' in Spanish?",
+            "options": ["Hospital local", "Museo interesante", "Iglesia antigua", "Librería cerca"],
+            "correctAnswer": "Hospital local"
+          },
+          {
+            "question": "Find the translation for '¿Dónde está la librería?'.",
+            "options": ["Where is the bookstore?", "The bookstore is next to the park", "Old church", "Italian restaurant"],
+            "correctAnswer": "Where is the bookstore?"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Iglesia antigua'.",
+            "options": ["Old church", "Beautiful park", "Interesting museum", "Local hospital"],
+            "correctAnswer": "Old church"
+          },
+          {
+            "question": "Which one means 'Museo interesante'?",
+            "options": ["Interesting museum", "Beautiful park", "Old church", "Local hospital"],
+            "correctAnswer": "Interesting museum"
+          },
+          {
+            "question": "Translate 'La librería está al lado del parque' into Spanish.",
+            "options": ["The bookstore is next to the park", "Where is the bookstore?", "Beautiful park", "Old church"],
+            "correctAnswer": "The bookstore is next to the park"
+          },
+          {
+            "question": "What is the statement for 'Beautiful park' in Spanish?",
+            "options": ["Parque bonito", "Hospital local", "Iglesia antigua", "Museo interesante"],
+            "correctAnswer": "Parque bonito"
+          },
+          {
+            "question": "Select the phrase that describes 'Nearby bookstore'.",
+            "options": ["Librería cerca", "New school", "Italian restaurant", "Old church"],
+            "correctAnswer": "Librería cerca"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing locations, how do you say 'Big house'?",
+            "options": ["Casa grande", "Escuela nueva", "Parque bonito", "Hospital local"],
+            "correctAnswer": "Casa grande"
+          },
+          {
+            "question": "If discussing places of interest, how would you say 'Italian restaurant' in Spanish?",
+            "options": ["Restaurante italiano", "Librería cerca", "Museo interesante", "Iglesia antigua"],
+            "correctAnswer": "Restaurante italiano"
+          },
+          {
+            "question": "Choosing between landmarks, how is 'Old church' said in Spanish?",
+            "options": ["Iglesia antigua", "Parque bonito", "Escuela nueva", "Hospital local"],
+            "correctAnswer": "Iglesia antigua"
+          },
+          {
+            "question": "How would you state 'The bookstore is next to the park' in Spanish?",
+            "options": ["La librería está al lado del parque", "¿Dónde está la librería?", "Librería cerca", "Parque bonito"],
+            "correctAnswer": "La librería está al lado del parque"
+          },
+          {
+            "question": "Describing a common question about location, how do you say 'Where is the bookstore?'",
+            "options": ["¿Dónde está la librería?", "La librería está al lado del parque", "Escuela nueva", "Museo interesante"],
+            "correctAnswer": "¿Dónde está la librería?"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Te encuentras con un amigo afuera de una 'casa grande'. Lo saludas en español y preguntas por su mascota. ¿Cuál es una forma adecuada de iniciar esta conversación?",
+            "options": ["Hola, ¿cómo estás? ¿Cómo está tu perro grande?", "Adiós, ¿cómo estás? ¿Cómo está tu perro grande?", "Hola, ¿dónde está la librería? ¿Tienes un gato?", "Buenas noches, ¿cómo está tu pez rojo?"],
+            "correctAnswer": "Hola, ¿cómo estás? ¿Cómo está tu perro grande?"
+          },
+          {
+            "question": "Después de preguntar por el perro, quieres saber sobre su gato. ¿Cómo sigues la conversación?",
+            "options": ["Y tu gato pequeño, ¿dónde está?", "¿Cómo está tu escuela nueva?", "¿Es esa la casa grande?", "¿Vamos al parque bonito?"],
+            "correctAnswer": "Y tu gato pequeño, ¿dónde está?"
+          },
+          {
+            "question": "Tu amigo menciona que va al 'parque bonito' para pasear a su perro. Preguntas cómo llegar. ¿Qué frase usarías?",
+            "options": ["¿Cómo llego al parque bonito desde la casa grande?", "¿Dónde está tu perro grande?", "¿El parque bonito está cerca de la librería cerca?", "¿Tu gato pequeño va al parque bonito?"],
+            "correctAnswer": "¿Cómo llego al parque bonito desde la casa grande?"
+          },
+          {
+            "question": "Quieres invitar a tu amigo a un 'restaurante italiano' después del paseo. ¿Cuál sería una buena forma de sugerirlo?",
+            "options": ["¿Te gustaría ir al restaurante italiano después de visitar el parque bonito?", "¿Vamos a la escuela nueva?", "¿Tu perro grande quiere ir a la casa grande?", "¿Cuándo abren la librería cerca?"],
+            "correctAnswer": "¿Te gustaría ir al restaurante italiano después de visitar el parque bonito?"
+          },
+          {
+            "question": "Curioso sobre los gustos de tu amigo, preguntas por su animal favorito. ¿Cómo lo preguntarías?",
+            "options": ["¿Cuál es tu animal favorito?", "¿Dónde está el restaurante italiano?", "¿Cómo es la casa grande?", "¿Cuándo construyeron la escuela nueva?"],
+            "correctAnswer": "¿Cuál es tu animal favorito?"
+          },
+          {
+            "question": "Después del restaurante, sugieres visitar una 'librería cerca' para ver un libro sobre animales. ¿Cómo invitas a tu amigo?",
+            "options": ["Después de comer, ¿quieres ver un libro sobre animales en la librería cerca?", "¿Vamos a la casa grande?", "¿Te gusta el parque bonito?", "¿La escuela nueva está abierta?"],
+            "correctAnswer": "Después de comer, ¿quieres ver un libro sobre animales en la librería cerca?"
+          },
+          {
+            "question": "Al despedirse, tu amigo dice que le gustaría volver a ver el 'museo interesante'. Le preguntas cuándo. ¿Qué dirías?",
+            "options": ["¿Cuándo quieres volver al museo interesante?", "¿Cuándo cierra la librería cerca?", "¿Tienes un gato pequeño?", "¿La casa grande es tu favorita?"],
+            "correctAnswer": "¿Cuándo quieres volver al museo interesante?"
+          },
+          {
+            "question": "Antes de ir cada uno a su casa, comentas lo bonito que está el 'hospital local'. ¿Cómo mencionarías esto?",
+            "options": ["El hospital local se ve muy bonito después de la renovación, ¿no crees?", "¿Te gustan los perros grandes?", "¿La escuela nueva es grande?", "¿Has ido al restaurante italiano?"],
+            "correctAnswer": "El hospital local se ve muy bonito después de la renovación, ¿no crees?"
+          },
+          {
+            "question": "En medio de la conversación, tu amigo pregunta por tu 'animal favorito'. ¿Cómo responderías?",
+            "options": ["Mi animal favorito es el perro grande", "Vivo en la casa grande", "Me gusta el parque bonito", "Siempre como en el restaurante italiano"],
+            "correctAnswer": "Mi animal favorito es el perro grande"
+          },
+          {
+            "question": "Finalmente, tu amigo te pregunta si conoces una buena 'escuela nueva' para aprender español. ¿Cómo le respondes?",
+            "options": ["Sí, conozco una escuela nueva muy buena cerca del parque bonito", "Mi perro grande es muy inteligente", "La casa grande está a la venta", "El restaurante italiano ofrece clases de cocina"],
+            "correctAnswer": "Sí, conozco una escuela nueva muy buena cerca del parque bonito"
+          }
+        ]
+      }
+    ]
+  }

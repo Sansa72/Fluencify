@@ -1,0 +1,310 @@
+{
+    "chapterTitle": "Weather and Seasons",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Cold in winter' in Spanish?",
+            "options": ["Frío en invierno", "Caliente en verano", "Lluvioso en primavera", "Soleado en otoño"],
+            "correctAnswer": "Frío en invierno"
+          },
+          {
+            "question": "Choose the Spanish phrase for 'Hot in summer'.",
+            "options": ["Caliente en verano", "Nublado en la mañana", "Tormenta por la tarde", "Neve en la montaña"],
+            "correctAnswer": "Caliente en verano"
+          },
+          {
+            "question": "Which translates to 'Rainy in spring'?",
+            "options": ["Lluvioso en primavera", "Frío en invierno", "Viento en la playa", "Soleado en otoño"],
+            "correctAnswer": "Lluvioso en primavera"
+          },
+          {
+            "question": "How do you express 'Sunny in autumn' in Spanish?",
+            "options": ["Soleado en otoño", "Caliente en verano", "Nublado en la mañana", "Tormenta por la tarde"],
+            "correctAnswer": "Soleado en otoño"
+          },
+          {
+            "question": "Select the translation for 'Cloudy in the morning'.",
+            "options": ["Nublado en la mañana", "Neve en la montaña", "Viento en la playa", "Lluvioso en primavera"],
+            "correctAnswer": "Nublado en la mañana"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Storm in the afternoon'?",
+            "options": ["Tormenta por la tarde", "Frío en invierno", "Soleado en otoño", "Caliente en verano"],
+            "correctAnswer": "Tormenta por la tarde"
+          },
+          {
+            "question": "Find the Spanish term for 'Snow on the mountain'.",
+            "options": ["Neve en la montaña", "Nublado en la mañana", "Viento en la playa", "Lluvioso en primavera"],
+            "correctAnswer": "Neve en la montaña"
+          },
+          {
+            "question": "How do you say 'Wind on the beach' in Spanish?",
+            "options": ["Viento en la playa", "Tormenta por la tarde", "Frío en invierno", "Soleado en otoño"],
+            "correctAnswer": "Viento en la playa"
+          },
+          {
+            "question": "Which phrase means 'What's the weather like today?'",
+            "options": ["¿Qué tiempo hace hoy?", "Hoy hace buen tiempo", "Lluvioso en primavera", "Nublado en la mañana"],
+            "correctAnswer": "¿Qué tiempo hace hoy?"
+          },
+          {
+            "question": "Select the answer for 'The weather is good today.'",
+            "options": ["Hoy hace buen tiempo", "¿Qué tiempo hace hoy?", "Neve en la montaña", "Viento en la playa"],
+            "correctAnswer": "Hoy hace buen tiempo"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Caliente en verano' to its English equivalent.",
+            "options": ["Hot in summer", "Cold in winter", "Rainy in spring", "Sunny in autumn"],
+            "correctAnswer": "Hot in summer"
+          },
+          {
+            "question": "Translate 'Soleado en otoño' into English.",
+            "options": ["Sunny in autumn", "Storm in the afternoon", "Snow on the mountain", "Wind on the beach"],
+            "correctAnswer": "Sunny in autumn"
+          },
+          {
+            "question": "What does 'Nublado en la mañana' mean?",
+            "options": ["Cloudy in the morning", "Hot in summer", "Snow on the mountain", "Rainy in spring"],
+            "correctAnswer": "Cloudy in the morning"
+          },
+          {
+            "question": "How to say 'Snow on the mountain' in Spanish?",
+            "options": ["Neve en la montaña", "Viento en la playa", "Tormenta por la tarde", "Frío en invierno"],
+            "correctAnswer": "Neve en la montaña"
+          },
+          {
+            "question": "Find the translation for '¿Qué tiempo hace hoy?'.",
+            "options": ["What's the weather like today?", "The weather is good today", "Storm in the afternoon", "Cloudy in the morning"],
+            "correctAnswer": "What's the weather like today?"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Viento en la playa'.",
+            "options": ["Wind on the beach", "Sunny in autumn", "Rainy in spring", "Cloudy in the morning"],
+            "correctAnswer": "Wind on the beach"
+          },
+          {
+            "question": "Which one means 'Tormenta por la tarde'?",
+            "options": ["Storm in the afternoon", "Snow on the mountain", "Hot in summer", "Cloudy in the morning"],
+            "correctAnswer": "Storm in the afternoon"
+          },
+          {
+            "question": "Translate 'Hoy hace buen tiempo' into Spanish.",
+            "options": ["The weather is good today", "What's the weather like today?", "Sunny in autumn", "Rainy in spring"],
+            "correctAnswer": "The weather is good today"
+          },
+          {
+            "question": "What is the statement for 'Rainy in spring' in Spanish?",
+            "options": ["Lluvioso en primavera", "Frío en invierno", "Caliente en verano", "Soleado en otoño"],
+            "correctAnswer": "Lluvioso en primavera"
+          },
+          {
+            "question": "Select the phrase that describes 'Cloudy in the morning'.",
+            "options": ["Nublado en la mañana", "Hot in summer", "Snow on the mountain", "Wind on the beach"],
+            "correctAnswer": "Nublado en la mañana"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing weather conditions, how do you say 'Cold in winter'?",
+            "options": ["Frío en invierno", "Caliente en verano", "Tormenta por la tarde", "Viento en la playa"],
+            "correctAnswer": "Frío en invierno"
+          },
+          {
+            "question": "If discussing seasonal weather, how would you say 'What's the weather like today?' in Spanish?",
+            "options": ["¿Qué tiempo hace hoy?", "Hoy hace buen tiempo", "Lluvioso en primavera", "Soleado en otoño"],
+            "correctAnswer": "¿Qué tiempo hace hoy?"
+          },
+          {
+            "question": "Choosing between weather scenarios, how is 'Sunny in autumn' said in Spanish?",
+            "options": ["Soleado en otoño", "Frío en invierno", "Nublado en la mañana", "Caliente en verano"],
+            "correctAnswer": "Soleado en otoño"
+          },
+          {
+            "question": "How would you state 'The weather is good today' in Spanish?",
+            "options": ["Hoy hace buen tiempo", "¿Qué tiempo hace hoy?", "Neve en la montaña", "Viento en la playa"],
+            "correctAnswer": "Hoy hace buen tiempo"
+          },
+          {
+            "question": "Describing a common weather question, how do you say 'Cloudy in the morning'?",
+            "options": ["Nublado en la mañana", "Lluvioso en primavera", "Tormenta por la tarde", "Frío en invierno"],
+            "correctAnswer": "Nublado en la mañana"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Comentando sobre el cambio de estaciones, observas que pronto será 'frío en invierno'. ¿Cómo inicia la conversación sobre actividades adecuadas para esta temporada?",
+            "options": [
+              "Se acerca el invierno, ¿qué planes tienes para cuando haga frío en invierno?",
+              "Prefiero el calor del verano, honestamente.",
+              "¿Crees que nevará este año?",
+              "Espero que no sea tan frío como el año pasado."
+            ],
+            "correctAnswer": "Se acerca el invierno, ¿qué planes tienes para cuando haga frío en invierno?"
+          },
+          {
+            "question": "Tu amigo responde emocionado por el 'calor en verano' y sugiere planear unas vacaciones en la playa. ¿Cómo respondes a la sugerencia?",
+            "options": [
+              "El calor en verano es perfecto para la playa, ¡comencemos a planear!",
+              "Prefiero quedarme en casa con el aire acondicionado.",
+              "¿Qué tal si vamos a la montaña en vez de la playa?",
+              "El verano es demasiado caluroso para mí."
+            ],
+            "correctAnswer": "El calor en verano es perfecto para la playa, ¡comencemos a planear!"
+          },
+          {
+            "question": "Hablando sobre la primavera, mencionas que será 'lluvioso en primavera'. ¿Qué actividad sugieres para disfrutar de la estación a pesar de la lluvia?",
+            "options": [
+              "Con la primavera lluviosa, podríamos visitar museos o galerías de arte.",
+              "Supongo que deberíamos quedarnos adentro todo el tiempo.",
+              "La lluvia arruinará todos nuestros planes.",
+              "Quizás la lluvia no sea tan mala este año."
+            ],
+            "correctAnswer": "Con la primavera lluviosa, podríamos visitar museos o galerías de arte."
+          },
+          {
+            "question": "Discuten sobre el otoño y tú comentas que será 'soleado en otoño'. ¿Qué planes propones para aprovechar el sol otoñal?",
+            "options": [
+              "Un otoño soleado es ideal para hacer senderismo. ¿Te apuntas?",
+              "Mejor nos preparamos para el invierno desde ahora.",
+              "El sol de otoño no es suficiente para animarme.",
+              "Ojalá el otoño fuese más lluvioso."
+            ],
+            "correctAnswer": "Un otoño soleado es ideal para hacer senderismo. ¿Te apuntas?"
+          },
+          {
+            "question": "Al prepararse para salir una mañana, notas que está 'nublado en la mañana'. ¿Cómo modificas tus planes del día?",
+            "options": [
+              "Está nublado esta mañana, ¿qué te parece si llevamos paraguas por si acaso?",
+              "Si está nublado, mejor me quedo en casa.",
+              "Ojalá se despeje más tarde.",
+              "Los días nublados son deprimentes."
+            ],
+            "correctAnswer": "Está nublado esta mañana, ¿qué te parece si llevamos paraguas por si acaso?"
+          },
+          {
+            "question": "En la tarde, se levanta una 'tormenta por la tarde'. Tienen planes al aire libre. ¿Cómo reaccionas a este cambio repentino del clima?",
+            "options": [
+              "Parece que habrá una tormenta esta tarde. ¿Tenemos un plan B?",
+              "La tormenta arruinó nuestro día.",
+              "Quizás la tormenta no dure mucho.",
+              "Detesto cuando el clima cambia tan rápido."
+            ],
+            "correctAnswer": "Parece que habrá una tormenta esta tarde. ¿Tenemos un plan B?"
+          },
+          {
+            "question": "Después de la tormenta, deciden ir a 'ver la nieve en la montaña'. ¿Qué precauciones sugieres para el viaje?",
+            "options": [
+              "Vamos a ver la nieve en la montaña. No olvidemos llevar ropa cálida y cadenas para los neumáticos.",
+              "Espero que no haya más tormentas.",
+              "La nieve puede ser peligrosa, mejor nos quedamos en casa.",
+              "¿Realmente vale la pena el esfuerzo?"
+            ],
+            "correctAnswer": "Vamos a ver la nieve en la montaña. No olvidemos llevar ropa cálida y cadenas para los neumáticos."
+          },
+          {
+            "question": "Mientras están en la playa, un fuerte 'viento en la playa' comienza a soplar. ¿Cómo aseguras a tu amigo que pueden seguir disfrutando del día?",
+            "options": [
+              "Este viento en la playa es fuerte, pero podemos protegernos detrás de las rocas y seguir disfrutando.",
+              "Quizás deberíamos irnos a casa.",
+              "El viento arruina el día en la playa.",
+              "Nunca me gustó la playa de todos modos."
+            ],
+            "correctAnswer": "Este viento en la playa es fuerte, pero podemos protegernos detrás de las rocas y seguir disfrutando."
+          },
+          {
+            "question": "En una conversación casual, tu amigo pregunta '¿Qué tiempo hace hoy?'. ¿Cómo describes un día perfecto según tus preferencias?",
+            "options": [
+              "Hoy hace buen tiempo, es soleado con una brisa ligera, ideal para nuestras actividades.",
+              "Llueve, como siempre.",
+              "Hace demasiado calor para mi gusto.",
+              "Ojalá estuviera nublado, no me gusta el sol."
+            ],
+            "correctAnswer": "Hoy hace buen tiempo, es soleado con una brisa ligera, ideal para nuestras actividades."
+          },
+          {
+            "question": "Durante la planificación de un evento al aire libre, la preocupación principal es el clima. ¿Cómo expresas tu esperanza para ese día?",
+            "options": [
+              "Espero que tengamos un clima como 'caliente en verano', perfecto para nuestro evento al aire libre.",
+              "Probablemente llueva y arruine todo.",
+              "Con nuestra suerte, será el día más frío del año.",
+              "Seguro que estará nublado y sombrío."
+            ],
+            "correctAnswer": "Espero que tengamos un clima como 'caliente en verano', perfecto para nuestro evento al aire libre."
+          },
+          {
+            "question": "Reflexionando sobre el año pasado, recuerdas que fue particularmente 'lluvioso en primavera'. ¿Qué lecciones aprendiste para este año?",
+            "options": [
+              "Después de un año tan lluvioso en primavera, aprendí a siempre tener un plan alternativo para nuestros encuentros.",
+              "Que deberíamos mudarnos a un lugar donde no llueva tanto.",
+              "He decidido que no me gustan las lluvias primaverales.",
+              "Ahora odio la primavera."
+            ],
+            "correctAnswer": "Después de un año tan lluvioso en primavera, aprendí a siempre tener un plan alternativo para nuestros encuentros."
+          },
+          {
+            "question": "Viendo el pronóstico, te das cuenta de que será 'soleado en otoño' durante la semana. ¿Cómo cambia esto tus planes?",
+            "options": [
+              "Con una semana tan soleada en otoño, definitivamente deberíamos organizar más actividades al aire libre.",
+              "Preferiría que lloviera.",
+              "El sol en otoño no me anima mucho.",
+              "Esperaba que hiciera más frío."
+            ],
+            "correctAnswer": "Con una semana tan soleada en otoño, definitivamente deberíamos organizar más actividades al aire libre."
+          },
+          {
+            "question": "Al encontrarse por la mañana, comentas que está 'nublado en la mañana' pero se espera sol por la tarde. ¿Qué actividad sugieres?",
+            "options": [
+              "Aunque esté nublado en la mañana, podemos ir al museo y disfrutar del parque cuando salga el sol.",
+              "Si está nublado, prefiero quedarme adentro.",
+              "No creo que el sol salga.",
+              "No me gustan los días parcialmente nublados."
+            ],
+            "correctAnswer": "Aunque esté nublado en la mañana, podemos ir al museo y disfrutar del parque cuando salga el sol."
+          },
+          {
+            "question": "Ante la predicción de una 'tormenta por la tarde', consideras reprogramar una salida. ¿Cómo lo comunicas a tu amigo?",
+            "options": [
+              "Parece que habrá una tormenta por la tarde, ¿qué te parece si salimos por la mañana en su lugar?",
+              "Mejor cancelemos todo.",
+              "Una tormenta podría ser interesante.",
+              "Nunca hagas planes en días de tormenta."
+            ],
+            "correctAnswer": "Parece que habrá una tormenta por la tarde, ¿qué te parece si salimos por la mañana en su lugar?"
+          },
+          {
+            "question": "Después de un día de viento en la playa, planificas una noche tranquila. ¿Cómo describirías el plan ideal para terminar el día?",
+            "options": [
+              "Después del viento en la playa, una cena tranquila en casa sería perfecta para relajarnos.",
+              "Quizás el viento siga soplando por la noche.",
+              "Probablemente esté demasiado cansado después de luchar contra el viento.",
+              "Esperaba que el viento cesara para poder hacer una fogata en la playa."
+            ],
+            "correctAnswer": "Después del viento en la playa, una cena tranquila en casa sería perfecta para relajarnos."
+          }
+        ]
+      }
+    ]
+  }

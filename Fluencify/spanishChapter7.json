@@ -1,0 +1,210 @@
+{
+    "chapterTitle": "Numbers and Quantities",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'One or two' in Spanish?",
+            "options": ["Uno o dos", "Tres veces", "Cuatro estaciones", "Cinco dedos"],
+            "correctAnswer": "Uno o dos"
+          },
+          {
+            "question": "Choose the Spanish phrase for 'Three times'.",
+            "options": ["Tres veces", "Seis huevos", "Siete días", "Ocho rebanadas"],
+            "correctAnswer": "Tres veces"
+          },
+          {
+            "question": "Which translates to 'Four seasons'?",
+            "options": ["Cuatro estaciones", "Nueve pisos", "Dos o tres", "Cinco dedos"],
+            "correctAnswer": "Cuatro estaciones"
+          },
+          {
+            "question": "How do you express 'Five fingers' in Spanish?",
+            "options": ["Cinco dedos", "Seis huevos", "Siete días", "Ocho rebanadas"],
+            "correctAnswer": "Cinco dedos"
+          },
+          {
+            "question": "Select the translation for 'Six eggs'.",
+            "options": ["Seis huevos", "Uno o dos", "Tres veces", "Cuatro estaciones"],
+            "correctAnswer": "Seis huevos"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Seven days'?",
+            "options": ["Siete días", "Ocho rebanadas", "Nueve pisos", "Uno o dos"],
+            "correctAnswer": "Siete días"
+          },
+          {
+            "question": "Find the Spanish term for 'Eight slices'.",
+            "options": ["Ocho rebanadas", "Cinco dedos", "Seis huevos", "Cuatro estaciones"],
+            "correctAnswer": "Ocho rebanadas"
+          },
+          {
+            "question": "How do you say 'Nine floors' in Spanish?",
+            "options": ["Nueve pisos", "Siete días", "Tres veces", "Uno o dos"],
+            "correctAnswer": "Nueve pisos"
+          },
+          {
+            "question": "Which phrase means 'How many books do you have?'",
+            "options": ["¿Cuántos libros tienes?", "Tengo más de cien libros", "Seis huevos", "Siete días"],
+            "correctAnswer": "¿Cuántos libros tienes?"
+          },
+          {
+            "question": "Select the answer for 'I have more than a hundred books.'",
+            "options": ["Tengo más de cien libros", "¿Cuántos libros tienes?", "Ocho rebanadas", "Nueve pisos"],
+            "correctAnswer": "Tengo más de cien libros"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Tres veces' to its English equivalent.",
+            "options": ["Three times", "One or two", "Four seasons", "Six eggs"],
+            "correctAnswer": "Three times"
+          },
+          {
+            "question": "Translate 'Cuatro estaciones' into English.",
+            "options": ["Four seasons", "Five fingers", "Seven days", "Eight slices"],
+            "correctAnswer": "Four seasons"
+          },
+          {
+            "question": "What does 'Cinco dedos' mean?",
+            "options": ["Five fingers", "Six eggs", "Nine floors", "One or two"],
+            "correctAnswer": "Five fingers"
+          },
+          {
+            "question": "How to say 'Eight slices' in Spanish?",
+            "options": ["Ocho rebanadas", "Siete días", "Nueve pisos", "Tres veces"],
+            "correctAnswer": "Ocho rebanadas"
+          },
+          {
+            "question": "Find the translation for '¿Cuántos libros tienes?'.",
+            "options": ["How many books do you have?", "I have more than a hundred books", "Seven days", "Three times"],
+            "correctAnswer": "How many books do you have?"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Seis huevos'.",
+            "options": ["Six eggs", "Nine floors", "One or two", "Three times"],
+            "correctAnswer": "Six eggs"
+          },
+          {
+            "question": "Which one means 'Siete días'?",
+            "options": ["Seven days", "Eight slices", "Four seasons", "Two or three"],
+            "correctAnswer": "Seven days"
+          },
+          {
+            "question": "Translate 'Tengo más de cien libros' into Spanish.",
+            "options": ["I have more than a hundred books", "How many books do you have?", "Nine floors", "Six eggs"],
+            "correctAnswer": "I have more than a hundred books"
+          },
+          {
+            "question": "What is the statement for 'Nine floors' in Spanish?",
+            "options": ["Nueve pisos", "Ocho rebanadas", "Cinco dedos", "Cuatro estaciones"],
+            "correctAnswer": "Nueve pisos"
+          },
+          {
+            "question": "Select the phrase that describes 'One or two'.",
+            "options": ["Uno o dos", "Three times", "Five fingers", "Seven days"],
+            "correctAnswer": "Uno o dos"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing quantities, how do you say 'Three times'?",
+            "options": ["Tres veces", "Uno o dos", "Cuatro estaciones", "Seis huevos"],
+            "correctAnswer": "Tres veces"
+          },
+          {
+            "question": "If discussing periods, how would you say 'Four seasons' in Spanish?",
+            "options": ["Cuatro estaciones", "Siete días", "Ocho rebanadas", "Nueve pisos"],
+            "correctAnswer": "Cuatro estaciones"
+          },
+          {
+            "question": "Choosing between numbers, how is 'Six eggs' said in Spanish?",
+            "options": ["Seis huevos", "Cinco dedos", "Tres veces", "Uno o dos"],
+            "correctAnswer": "Seis huevos"
+          },
+          {
+            "question": "How would you state 'I have more than a hundred books' in Spanish?",
+            "options": ["Tengo más de cien libros", "¿Cuántos libros tienes?", "Siete días", "Ocho rebanadas"],
+            "correctAnswer": "Tengo más de cien libros"
+          },
+          {
+            "question": "Describing an amount, how do you say 'Eight slices'?",
+            "options": ["Ocho rebanadas", "Nueve pisos", "Cuatro estaciones", "Cinco dedos"],
+            "correctAnswer": "Ocho rebanadas"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Después de planificar la excursión el 'domingo todo el día', tu amigo sugiere llevar algo para comer. Tú piensas en llevar frutas y preguntas cuántas 'manzanas rojas' deberías llevar. ¿Cómo lo dices?",
+            "options": ["¿Cuántas manzanas rojas debo llevar?", "¿Llevamos manzanas rojas o naranjas dulces?", "¿Te gustan las manzanas rojas?", "¿Cuántos días dura la excursión?"],
+            "correctAnswer": "¿Cuántas manzanas rojas debo llevar?"
+          },
+          {
+            "question": "Tu amigo responde que con 'tres o cuatro' será suficiente, y menciona que podría llevar 'seis huevos' para hacer tortillas. Te sorprende la cantidad y confirmas. ¿Qué preguntas?",
+            "options": ["¿Vas a llevar seis huevos?", "¿Por qué no llevas ocho?", "¿Tres o cuatro tortillas?", "¿Seis huevos para cada uno?"],
+            "correctAnswer": "¿Vas a llevar seis huevos?"
+          },
+          {
+            "question": "Acuerdan también llevar 'ocho rebanadas' de pan. Tu amigo pregunta si tienes una buena receta para el pan. Te emociona compartir tu receta favorita. ¿Cómo expresas esto?",
+            "options": ["¡Claro! Tengo una receta excelente para ocho rebanadas.", "¿Te gusta más el pan o las tortillas?", "Solo sé hacer pan con cinco ingredientes.", "Preferiría comprar el pan."],
+            "correctAnswer": "¡Claro! Tengo una receta excelente para ocho rebanadas."
+          },
+          {
+            "question": "Mientras organizan los detalles, te preguntas sobre la cantidad de 'agua' necesaria. Consideras los días calurosos y la actividad física. ¿Cómo planteas tu preocupación?",
+            "options": ["¿Cuántos litros de agua deberíamos llevar?", "¿Llevamos agua o jugo?", "¿Beberemos agua del río?", "¿Es suficiente con un litro?"],
+            "correctAnswer": "¿Cuántos litros de agua deberíamos llevar?"
+          },
+          {
+            "question": "Tu amigo calcula que 'dos litros por persona' serán suficientes. Luego, sugiere preparar 'cinco bocadillos' por si acaso. Te parece una buena idea y preguntas si puede prepararlos él. ¿Cómo lo dices?",
+            "options": ["¿Podrías preparar tú los cinco bocadillos?", "¿Cinco bocadillos son suficientes?", "¿Hacemos bocadillos o compramos?", "¿Qué opinas sobre cinco bocadillos?"],
+            "correctAnswer": "¿Podrías preparar tú los cinco bocadillos?"
+          },
+          {
+            "question": "Acordando los preparativos, decides revisar todo nuevamente la noche anterior. Tu amigo está de acuerdo y te pregunta a qué 'hora' deberían hablar para confirmar todo. ¿Cómo respondes sobre la hora?",
+            "options": ["Hablemos a las nueve de la noche.", "¿Te parece bien a las diez?", "¿Es tarde las ocho para llamar?", "¿Por qué no hablamos en la mañana?"],
+            "correctAnswer": "Hablemos a las nueve de la noche."
+          },
+          {
+            "question": "Al acercarse la noche de la revisión, preparas todo y notas que te faltan ingredientes para los bocadillos. Necesitas comprar más y le informas a tu amigo. ¿Qué le dices?",
+            "options": ["Necesito comprar más ingredientes, ¿necesitas algo?", "Creo que compré demasiados ingredientes.", "¿Puedes traer los ingredientes que faltan?", "¿Cuántos ingredientes compraste tú?"],
+            "correctAnswer": "Necesito comprar más ingredientes, ¿necesitas algo?"
+          },
+          {
+            "question": "Tu amigo agradece y pide 'cuatro tomates' más. Confirmas que los comprarás y te despides hasta el día siguiente. ¿Cómo te despides y confirmas sobre los tomates?",
+            "options": ["Adiós, mañana traigo los cuatro tomates.", "¿Cuatro tomates son suficientes?", "Nos vemos mañana sin los tomates.", "¿Te parece si traigo tres tomates?"],
+            "correctAnswer": "Adiós, mañana traigo los cuatro tomates."
+          },
+          {
+            "question": "El día de la excursión, te levantas 'a las siete de la mañana' para preparar todo. Envías un mensaje a tu amigo para decirle que ya estás listo. ¿Qué le escribes?",
+            "options": ["Estoy listo, ¿a qué hora nos vemos?", "Buenos días, ya estoy preparando todo.", "Me levanté a las siete para organizar.", "Ya es hora, ¿estás listo?"],
+            "correctAnswer": "Buenos días, ya estoy preparando todo."
+          },
+          {
+            "question": "Tu amigo responde que se encuentra en camino y que se verán en 'diez minutos' en tu casa. Te sientes emocionado por la aventura que está por comenzar. ¿Cómo expresas tu entusiasmo?",
+            "options": ["¡Perfecto! Nos vemos en diez minutos.", "Maneja con cuidado.", "¿Diez minutos? Eso es rápido.", "Espero que no olvides nada."],
+            "correctAnswer": "¡Perfecto! Nos vemos en diez minutos."
+          }
+        ]
+      }
+    ]
+  }

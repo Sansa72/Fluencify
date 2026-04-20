@@ -1,0 +1,210 @@
+{
+    "chapterTitle": "Colors and Objects",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Red like a tomato' in Spanish?",
+            "options": ["Rojo como un tomate", "Azul como el cielo", "Verde como la hierba", "Amarillo como el sol"],
+            "correctAnswer": "Rojo como un tomate"
+          },
+          {
+            "question": "Choose the Spanish phrase for 'Blue like the sky'.",
+            "options": ["Azul como el cielo", "Naranja como una zanahoria", "Morado como una uva", "Rosa como un flamenco"],
+            "correctAnswer": "Azul como el cielo"
+          },
+          {
+            "question": "Which translates to 'Green like the grass'?",
+            "options": ["Verde como la hierba", "Rojo como un tomate", "Amarillo como el sol", "Negro como la noche"],
+            "correctAnswer": "Verde como la hierba"
+          },
+          {
+            "question": "How do you express 'Yellow like the sun' in Spanish?",
+            "options": ["Amarillo como el sol", "Azul como el cielo", "Naranja como una zanahoria", "Morado como una uva"],
+            "correctAnswer": "Amarillo como el sol"
+          },
+          {
+            "question": "Select the translation for 'Orange like a carrot'.",
+            "options": ["Naranja como una zanahoria", "Rosa como un flamenco", "Verde como la hierba", "Negro como la noche"],
+            "correctAnswer": "Naranja como una zanahoria"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Purple like a grape'?",
+            "options": ["Morado como una uva", "Rojo como un tomate", "Azul como el cielo", "Amarillo como el sol"],
+            "correctAnswer": "Morado como una uva"
+          },
+          {
+            "question": "Find the Spanish term for 'Pink like a flamingo'.",
+            "options": ["Rosa como un flamenco", "Naranja como una zanahoria", "Verde como la hierba", "Negro como la noche"],
+            "correctAnswer": "Rosa como un flamenco"
+          },
+          {
+            "question": "How do you say 'Black like the night' in Spanish?",
+            "options": ["Negro como la noche", "Morado como una uva", "Amarillo como el sol", "Azul como el cielo"],
+            "correctAnswer": "Negro como la noche"
+          },
+          {
+            "question": "Which phrase means 'What is your favorite color?'",
+            "options": ["¿Cuál es tu color favorito?", "Mi color favorito es el azul", "Rojo como un tomate", "Verde como la hierba"],
+            "correctAnswer": "¿Cuál es tu color favorito?"
+          },
+          {
+            "question": "Select the answer for 'My favorite color is blue.'",
+            "options": ["Mi color favorito es el azul", "¿Cuál es tu color favorito?", "Amarillo como el sol", "Negro como la noche"],
+            "correctAnswer": "Mi color favorito es el azul"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Verde como la hierba' to its English equivalent.",
+            "options": ["Green like the grass", "Red like a tomato", "Yellow like the sun", "Blue like the sky"],
+            "correctAnswer": "Green like the grass"
+          },
+          {
+            "question": "Translate 'Amarillo como el sol' into English.",
+            "options": ["Yellow like the sun", "Orange like a carrot", "Purple like a grape", "Pink like a flamingo"],
+            "correctAnswer": "Yellow like the sun"
+          },
+          {
+            "question": "What does 'Naranja como una zanahoria' mean?",
+            "options": ["Orange like a carrot", "Black like the night", "Green like the grass", "Pink like a flamingo"],
+            "correctAnswer": "Orange like a carrot"
+          },
+          {
+            "question": "How to say 'Pink like a flamingo' in Spanish?",
+            "options": ["Rosa como un flamenco", "Morado como una uva", "Negro como la noche", "Amarillo como el sol"],
+            "correctAnswer": "Rosa como un flamenco"
+          },
+          {
+            "question": "Find the translation for '¿Cuál es tu color favorito?'.",
+            "options": ["What is your favorite color?", "My favorite color is blue", "Red like a tomato", "Yellow like the sun"],
+            "correctAnswer": "What is your favorite color?"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Morado como una uva'.",
+            "options": ["Purple like a grape", "Orange like a carrot", "Pink like a flamingo", "Black like the night"],
+            "correctAnswer": "Purple like a grape"
+          },
+          {
+            "question": "Which one means 'Negro como la noche'?",
+            "options": ["Black like the night", "Yellow like the sun", "Green like the grass", "Blue like the sky"],
+            "correctAnswer": "Black like the night"
+          },
+          {
+            "question": "Translate 'Mi color favorito es el azul' into Spanish.",
+            "options": ["My favorite color is blue", "What is your favorite color?", "Orange like a carrot", "Purple like a grape"],
+            "correctAnswer": "My favorite color is blue"
+          },
+          {
+            "question": "What is the statement for 'Blue like the sky' in Spanish?",
+            "options": ["Azul como el cielo", "Rojo como un tomate", "Verde como la hierba", "Amarillo como el sol"],
+            "correctAnswer": "Azul como el cielo"
+          },
+          {
+            "question": "Select the phrase that describes 'Green like the grass'.",
+            "options": ["Verde como la hierba", "Pink like a flamingo", "Yellow like the sun", "Orange like a carrot"],
+            "correctAnswer": "Verde como la hierba"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing comparisons, how do you say 'Red like a tomato'?",
+            "options": ["Rojo como un tomate", "Azul como el cielo", "Negro como la noche", "Morado como una uva"],
+            "correctAnswer": "Rojo como un tomate"
+          },
+          {
+            "question": "If discussing colors, how would you say 'What is your favorite color?' in Spanish?",
+            "options": ["¿Cuál es tu color favorito?", "Mi color favorito es el azul", "Naranja como una zanahoria", "Rosa como un flamenco"],
+            "correctAnswer": "¿Cuál es tu color favorito?"
+          },
+          {
+            "question": "Choosing between colors, how is 'Yellow like the sun' said in Spanish?",
+            "options": ["Amarillo como el sol", "Verde como la hierba", "Azul como el cielo", "Negro como la noche"],
+            "correctAnswer": "Amarillo como el sol"
+          },
+          {
+            "question": "How would you state 'My favorite color is blue' in Spanish?",
+            "options": ["Mi color favorito es el azul", "¿Cuál es tu color favorito?", "Rojo como un tomate", "Verde como la hierba"],
+            "correctAnswer": "Mi color favorito es el azul"
+          },
+          {
+            "question": "Describing an object's color, how do you say 'Black like the night'?",
+            "options": ["Negro como la noche", "Morado como una uva", "Rosa como un flamenco", "Naranja como una zanahoria"],
+            "correctAnswer": "Negro como la noche"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Durante la excursión, ves una flor 'roja como un tomate' y decides tomar una foto. Te emocionas por la belleza del paisaje. ¿Cómo comentas sobre el color de la flor a tu amigo?",
+            "options": ["Mira esa flor, es roja como un tomate.", "Nunca he visto una flor tan azul.", "¿Te gustan las flores amarillas?", "Creo que es una flor morada."],
+            "correctAnswer": "Mira esa flor, es roja como un tomate."
+          },
+          {
+            "question": "Tu amigo responde que el cielo también tiene un tono impresionante, 'azul como el cielo' precisamente. Deciden usar ambos colores para describir el día en su blog de viajes. ¿Cómo sugieres escribir sobre el cielo?",
+            "options": ["Podemos describirlo como un azul intenso, azul como el cielo.", "El cielo parece verde hoy.", "No me gusta el color del cielo.", "¿Qué te parece si hablamos sobre el sol?"],
+            "correctAnswer": "Podemos describirlo como un azul intenso, azul como el cielo."
+          },
+          {
+            "question": "Mientras caminan, pasan por un campo 'verde como la hierba'. Tu amigo menciona que necesita ideas para decorar su casa con este tono de verde. Buscas inspirarte en la naturaleza. ¿Qué le dices?",
+            "options": ["Este verde como la hierba sería perfecto para tu salón.", "Prefiero los interiores azules.", "El verde es demasiado brillante para una casa.", "¿Has pensado en tonos más oscuros?"],
+            "correctAnswer": "Este verde como la hierba sería perfecto para tu salón."
+          },
+          {
+            "question": "Después de la caminata, observan la puesta del sol que tiñe todo de 'amarillo como el sol'. Tu amigo quiere pintar una pared de este color. ¿Cómo expresas tu aprobación?",
+            "options": ["Ese amarillo como el sol alegrará cualquier espacio.", "El amarillo es demasiado llamativo.", "¿Por qué no eliges un amarillo más suave?", "El amarillo no es un buen color para una pared."],
+            "correctAnswer": "Ese amarillo como el sol alegrará cualquier espacio."
+          },
+          {
+            "question": "Finalmente, antes de volver a casa, pasan por un mercado donde ven zanahorias 'naranja como una zanahoria'. Decides comprar algunas para hacer un jugo al día siguiente. ¿Cómo le pides a tu amigo que te ayude a elegir las mejores?",
+            "options": ["Ayúdame a elegir algunas zanahorias, las quiero naranja como una zanahoria.", "Solo toma cualquier zanahoria.", "No necesitamos zanahorias hoy.", "Creo que estas zanahorias no son muy frescas."],
+            "correctAnswer": "Ayúdame a elegir algunas zanahorias, las quiero naranja como una zanahoria."
+          },
+          {
+            "question": "Al seleccionar las zanahorias, tu amigo bromea sobre cómo todo el día ha estado lleno de colores. Sugiere que hagan un álbum de fotos del día basado en los colores que más les impresionaron. ¿Cómo respondes entusiasmado?",
+            "options": ["¡Es una idea genial! Podemos llamarlo 'Un día a todo color'.", "Prefiero no mezclar tantos colores.", "¿Un álbum? Eso parece anticuado.", "No sé si tengo tiempo para un álbum."],
+            "correctAnswer": "¡Es una idea genial! Podemos llamarlo 'Un día a todo color'."
+          },
+          {
+            "question": "Al regresar a casa, ambos sienten una gran satisfacción por el día tan colorido y lleno de naturaleza. ¿Cómo le agradeces a tu amigo por un día inolvidable?",
+            "options": ["Gracias por un día increíble, lleno de colores y alegría.", "Estoy demasiado cansado, hablemos mañana.", "Espero que la próxima vez hagamos algo diferente.", "La caminata fue demasiado larga."],
+            "correctAnswer": "Gracias por un día increíble, lleno de colores y alegría."
+          },
+          {
+            "question": "Antes de dormir, revisas las fotos y decides enviarle una con el comentario 'rojo como un tomate' sobre una flor que fotografiaron. ¿Qué mensaje adicional escribes?",
+            "options": ["Esta foto captura perfectamente el 'rojo como un tomate'.", "Ojalá hubiéramos tomado más fotos.", "Creo que esta foto salió borrosa.", "No me gusta cómo salió el color."],
+            "correctAnswer": "Esta foto captura perfectamente el 'rojo como un tomate'."
+          },
+          {
+            "question": "Tu amigo responde emocionado y propone imprimir la foto para recordar el día. Aceptas y quedan en hacer más salidas de este tipo. ¿Cómo confirmas los planes futuros?",
+            "options": ["Definitivamente, hagamos más salidas como esta.", "Quizás deberíamos hacer algo menos cansado.", "Preferiría no salir tanto.", "Salgamos menos a menudo."],
+            "correctAnswer": "Definitivamente, hagamos más salidas como esta."
+          },
+          {
+            "question": "Al final, ambos se despiden hasta el próximo encuentro. ¿Cómo le deseas una buena noche a tu amigo?",
+            "options": ["Buenas noches, hasta la próxima aventura.", "Adiós, nos vemos pronto.", "Hasta mañana, creo que lloverá.", "Espero que no te olvides de las fotos."],
+            "correctAnswer": "Buenas noches, hasta la próxima aventura."
+          }
+        ]
+      }
+    ]
+  }

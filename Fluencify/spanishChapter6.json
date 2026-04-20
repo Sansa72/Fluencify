@@ -1,0 +1,210 @@
+{
+    "chapterTitle": "Days, Time, and Routine",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Monday morning' in Spanish?",
+            "options": ["Lunes por la mañana", "Martes por la tarde", "Miércoles al mediodía", "Jueves por la noche"],
+            "correctAnswer": "Lunes por la mañana"
+          },
+          {
+            "question": "Choose the Spanish phrase for 'Tuesday afternoon'.",
+            "options": ["Martes por la tarde", "Viernes al amanecer", "Sábado al anochecer", "Domingo todo el día"],
+            "correctAnswer": "Martes por la tarde"
+          },
+          {
+            "question": "Which translates to 'Wednesday at noon'?",
+            "options": ["Miércoles al mediodía", "Lunes por la mañana", "Jueves por la noche", "Viernes al amanecer"],
+            "correctAnswer": "Miércoles al mediodía"
+          },
+          {
+            "question": "How do you express 'Thursday night' in Spanish?",
+            "options": ["Jueves por la noche", "Martes por la tarde", "Sábado al anochecer", "Domingo todo el día"],
+            "correctAnswer": "Jueves por la noche"
+          },
+          {
+            "question": "Select the translation for 'Friday at dawn'.",
+            "options": ["Viernes al amanecer", "Lunes por la mañana", "Miércoles al mediodía", "Sábado al anochecer"],
+            "correctAnswer": "Viernes al amanecer"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Saturday at dusk'?",
+            "options": ["Sábado al anochecer", "Domingo todo el día", "Martes por la tarde", "Jueves por la noche"],
+            "correctAnswer": "Sábado al anochecer"
+          },
+          {
+            "question": "Find the Spanish term for 'Sunday all day'.",
+            "options": ["Domingo todo el día", "Lunes por la mañana", "Miércoles al mediodía", "Viernes al amanecer"],
+            "correctAnswer": "Domingo todo el día"
+          },
+          {
+            "question": "How do you say 'Time to sleep' in Spanish?",
+            "options": ["Hora de dormir", "¿A qué hora te levantas?", "Me levanto a las siete", "Lunes por la mañana"],
+            "correctAnswer": "Hora de dormir"
+          },
+          {
+            "question": "Which phrase means 'What time do you get up?'",
+            "options": ["¿A qué hora te levantas?", "Me levanto a las siete", "Hora de dormir", "Domingo todo el día"],
+            "correctAnswer": "¿A qué hora te levantas?"
+          },
+          {
+            "question": "Select the answer for 'I get up at seven.'",
+            "options": ["Me levanto a las siete", "¿A qué hora te levantas?", "Hora de dormir", "Sábado al anochecer"],
+            "correctAnswer": "Me levanto a las siete"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Viernes al amanecer' to its English equivalent.",
+            "options": ["Friday at dawn", "Monday morning", "Saturday at dusk", "Sunday all day"],
+            "correctAnswer": "Friday at dawn"
+          },
+          {
+            "question": "Translate 'Domingo todo el día' into English.",
+            "options": ["Sunday all day", "Tuesday afternoon", "Thursday night", "Wednesday at noon"],
+            "correctAnswer": "Sunday all day"
+          },
+          {
+            "question": "What does 'Hora de dormir' mean?",
+            "options": ["Time to sleep", "What time do you get up?", "I get up at seven", "Saturday at dusk"],
+            "correctAnswer": "Time to sleep"
+          },
+          {
+            "question": "How to say 'What time do you get up?' in Spanish?",
+            "options": ["¿A qué hora te levantas?", "Me levanto a las siete", "Jueves por la noche", "Domingo todo el día"],
+            "correctAnswer": "¿A qué hora te levantas?"
+          },
+          {
+            "question": "Find the translation for 'Me levanto a las siete'.",
+            "options": ["I get up at seven", "Time to sleep", "Sunday all day", "What time do you get up?"],
+            "correctAnswer": "I get up at seven"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Sábado al anochecer'.",
+            "options": ["Saturday at dusk", "Friday at dawn", "Sunday all day", "Thursday night"],
+            "correctAnswer": "Saturday at dusk"
+          },
+          {
+            "question": "Which one means 'Miércoles al mediodía'?",
+            "options": ["Wednesday at noon", "Monday morning", "Time to sleep", "I get up at seven"],
+            "correctAnswer": "Wednesday at noon"
+          },
+          {
+            "question": "Translate '¿A qué hora te levantas?' into Spanish.",
+            "options": ["What time do you get up?", "I get up at seven", "Time to sleep", "Tuesday afternoon"],
+            "correctAnswer": "What time do you get up?"
+          },
+          {
+            "question": "What is the statement for 'Time to sleep' in Spanish?",
+            "options": ["Hora de dormir", "Domingo todo el día", "Martes por la tarde", "Viernes al amanecer"],
+            "correctAnswer": "Hora de dormir"
+          },
+          {
+            "question": "Select the phrase that describes 'I get up at seven'.",
+            "options": ["Me levanto a las siete", "¿A qué hora te levantas?", "Sunday all day", "Monday morning"],
+            "correctAnswer": "Me levanto a las siete"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing daily routines, how do you say 'Monday morning'?",
+            "options": ["Lunes por la mañana", "Viernes al amanecer", "Sábado al anochecer", "Domingo todo el día"],
+            "correctAnswer": "Lunes por la mañana"
+          },
+          {
+            "question": "If discussing the start of the day, how would you say 'What time do you get up?' in Spanish?",
+            "options": ["¿A qué hora te levantas?", "Me levanto a las siete", "Hora de dormir", "Miércoles al mediodía"],
+            "correctAnswer": "¿A qué hora te levantas?"
+          },
+          {
+            "question": "Choosing between times of the day, how is 'Friday at dawn' said in Spanish?",
+            "options": ["Viernes al amanecer", "Lunes por la mañana", "Sábado al anochecer", "Domingo todo el día"],
+            "correctAnswer": "Viernes al amanecer"
+          },
+          {
+            "question": "How would you state 'Time to sleep' in Spanish?",
+            "options": ["Hora de dormir", "¿A qué hora te levantas?", "Me levanto a las siete", "Jueves por la noche"],
+            "correctAnswer": "Hora de dormir"
+          },
+          {
+            "question": "Describing an early morning activity, how do you say 'I get up at seven'?",
+            "options": ["Me levanto a las siete", "Hora de dormir", "¿A qué hora te levantas?", "Domingo todo el día"],
+            "correctAnswer": "Me levanto a las siete"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Después de hablar sobre vuestras frutas favoritas el 'lunes por la mañana', tu amigo menciona que tiene una nueva rutina de ejercicios. Preguntas qué días va al gimnasio. ¿Cómo lo haces?",
+            "options": ["¿Vas al gimnasio todos los días?", "¿Qué frutas comes en el gimnasio?", "¿Prefieres correr los lunes?", "¿Te gusta levantarte temprano los lunes?"],
+            "correctAnswer": "¿Vas al gimnasio todos los días?"
+          },
+          {
+            "question": "Tu amigo responde que va los 'martes por la tarde' y los 'jueves por la noche'. Te sorprende su compromiso y decides unirte a él esta semana. ¿Cómo confirmas tu asistencia para el martes?",
+            "options": ["Nos vemos el martes por la tarde en el gimnasio.", "¿Qué haces los martes?", "¿Puedes ir otro día?", "¿A qué hora cierra el gimnasio los martes?"],
+            "correctAnswer": "Nos vemos el martes por la tarde en el gimnasio."
+          },
+          {
+            "question": "Llegando el 'miércoles al mediodía', recuerdas que tienes una cita médica y necesitas cambiar la hora de tu encuentro del jueves. ¿Cómo le informas a tu amigo?",
+            "options": ["El jueves tengo una cita, ¿podemos ir al gimnasio por la mañana?", "¿Te gusta el gimnasio por la noche?", "El jueves estaré ocupado todo el día.", "¿Cuándo fue tu última visita al médico?"],
+            "correctAnswer": "El jueves tengo una cita, ¿podemos ir al gimnasio por la mañana?"
+          },
+          {
+            "question": "Tu amigo acepta cambiar la hora y luego pregunta si te gustaría probar un nuevo restaurante el 'viernes al amanecer' para desayunar juntos. ¿Cómo respondes entusiasmado?",
+            "options": ["Me encantaría, siempre he querido probar ese lugar.", "Prefiero el gimnasio los viernes.", "¿Sirven desayuno tan temprano?", "No me gusta levantarme temprano los viernes."],
+            "correctAnswer": "Me encantaría, siempre he querido probar ese lugar."
+          },
+          {
+            "question": "Hablando sobre el fin de semana, tu amigo menciona que el 'sábado al anochecer' tiene una fiesta de cumpleaños. Se ofrece a llevarte. ¿Cómo preguntas sobre la hora de inicio de la fiesta?",
+            "options": ["¿A qué hora comienza la fiesta el sábado?", "¿Quién cumple años?", "¿Hay una fiesta cada sábado?", "¿Qué debemos llevar a la fiesta?"],
+            "correctAnswer": "¿A qué hora comienza la fiesta el sábado?"
+          },
+          {
+            "question": "Tu amigo dice que la fiesta comienza a las 8 p.m. y luego pregunta si tienes planes para el 'domingo todo el día'. Estás libre y te gustaría pasar el día con él. ¿Cómo sugieres un plan?",
+            "options": ["Estoy libre todo el domingo, ¿qué te parece si hacemos una excursión?", "Los domingos prefiero descansar.", "Suelo ir al gimnasio los domingos.", "El domingo tengo que trabajar."],
+            "correctAnswer": "Estoy libre todo el domingo, ¿qué te parece si hacemos una excursión?"
+          },
+          {
+            "question": "Tu amigo acepta y menciona que podría ser una buena oportunidad para practicar fotografía, su nueva afición. Te entusiasma la idea. ¿Cómo expresarías tu entusiasmo?",
+            "options": ["¡Genial! Me encantaría aprender un poco sobre fotografía contigo.", "La fotografía no es lo mío.", "¿Podemos invitar a más amigos?", "¿Necesito comprar una cámara?"],
+            "correctAnswer": "¡Genial! Me encantaría aprender un poco sobre fotografía contigo."
+          },
+          {
+            "question": "Para finalizar la planificación del domingo, necesitas saber la hora de salida. ¿Cómo preguntas esto a tu amigo?",
+            "options": ["¿A qué hora nos encontramos el domingo?", "¿Dónde nos encontramos?", "¿Qué debería llevar?", "¿Hace falta confirmar asistencia?"],
+            "correctAnswer": "¿A qué hora nos encontramos el domingo?"
+          },
+          {
+            "question": "Tu amigo propone encontrarse a las 9 a.m. y tú aceptas. Para asegurarte de no olvidarlo, decides poner una alarma. ¿Cómo le informas a tu amigo?",
+            "options": ["Voy a poner una alarma para no olvidarme.", "¿Podemos encontrarnos más tarde?", "Creo que 9 a.m. es muy temprano.", "¿Tú pondrás una alarma?"],
+            "correctAnswer": "Voy a poner una alarma para no olvidarme."
+          },
+          {
+            "question": "Antes de despedirse, tu amigo te recuerda que debe enviarte la lista de cosas para llevar a la excursión. Agradeces y te despides hasta el domingo. ¿Cómo te despides?",
+            "options": ["Hasta el domingo, ¡estoy emocionado por la excursión!", "Adiós, nos vemos pronto.", "Gracias, te llamo el sábado.", "Recuérdame si necesito llevar algo especial."],
+            "correctAnswer": "Hasta el domingo, ¡estoy emocionado por la excursión!"
+          }
+        ]
+      }
+    ]
+  }

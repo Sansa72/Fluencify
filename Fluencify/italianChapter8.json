@@ -1,0 +1,210 @@
+{
+    "chapterTitle": "Colors and Objects",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Red like a tomato' in Italian?",
+            "options": ["Rosso come un pomodoro", "Blu come il cielo", "Verde come l'erba", "Giallo come il sole"],
+            "correctAnswer": "Rosso come un pomodoro"
+          },
+          {
+            "question": "Choose the Italian phrase for 'Blue like the sky'.",
+            "options": ["Blu come il cielo", "Arancione come una carota", "Viola come un'uva", "Rosa come un fenicottero"],
+            "correctAnswer": "Blu come il cielo"
+          },
+          {
+            "question": "Which translates to 'Green like the grass'?",
+            "options": ["Verde come l'erba", "Nero come la notte", "Rosso come un pomodoro", "Giallo come il sole"],
+            "correctAnswer": "Verde come l'erba"
+          },
+          {
+            "question": "How do you express 'Yellow like the sun' in Italian?",
+            "options": ["Giallo come il sole", "Blu come il cielo", "Arancione come una carota", "Viola come un'uva"],
+            "correctAnswer": "Giallo come il sole"
+          },
+          {
+            "question": "Select the translation for 'Orange like a carrot'.",
+            "options": ["Arancione come una carota", "Rosa come un fenicottero", "Nero come la notte", "Verde come l'erba"],
+            "correctAnswer": "Arancione come una carota"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Purple like a grape'?",
+            "options": ["Viola come un'uva", "Rosso come un pomodoro", "Blu come il cielo", "Giallo come il sole"],
+            "correctAnswer": "Viola come un'uva"
+          },
+          {
+            "question": "Find the Italian term for 'Pink like a flamingo'.",
+            "options": ["Rosa come un fenicottero", "Arancione come una carota", "Verde come l'erba", "Nero come la notte"],
+            "correctAnswer": "Rosa come un fenicottero"
+          },
+          {
+            "question": "How do you say 'Black like the night' in Italian?",
+            "options": ["Nero come la notte", "Viola come un'uva", "Giallo come il sole", "Rosso come un pomodoro"],
+            "correctAnswer": "Nero come la notte"
+          },
+          {
+            "question": "Which phrase means 'What is your favorite color?'",
+            "options": ["Qual è il tuo colore preferito?", "Il mio colore preferito è il blu", "Rosso come un pomodoro", "Nero come la notte"],
+            "correctAnswer": "Qual è il tuo colore preferito?"
+          },
+          {
+            "question": "Select the answer for 'My favorite color is blue.'",
+            "options": ["Il mio colore preferito è il blu", "Qual è il tuo colore preferito?", "Viola come un'uva", "Giallo come il sole"],
+            "correctAnswer": "Il mio colore preferito è il blu"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Rosso come un pomodoro' to its English counterpart.",
+            "options": ["Red like a tomato", "Blue like the sky", "Green like the grass", "Yellow like the sun"],
+            "correctAnswer": "Red like a tomato"
+          },
+          {
+            "question": "Translate 'Blu come il cielo' into English.",
+            "options": ["Yellow like the sun", "Blue like the sky", "Orange like a carrot", "Purple like a grape"],
+            "correctAnswer": "Blue like the sky"
+          },
+          {
+            "question": "What does 'Verde come l'erba' mean?",
+            "options": ["Green like the grass", "Pink like a flamingo", "Black like the night", "Red like a tomato"],
+            "correctAnswer": "Green like the grass"
+          },
+          {
+            "question": "How to say 'Yellow like the sun' in Italian?",
+            "options": ["Giallo come il sole", "Arancione come una carota", "Viola come un'uva", "Rosa come un fenicottero"],
+            "correctAnswer": "Giallo come il sole"
+          },
+          {
+            "question": "Find the translation for 'Arancione come una carota'.",
+            "options": ["Orange like a carrot", "Purple like a grape", "Pink like a flamingo", "Black like the night"],
+            "correctAnswer": "Orange like a carrot"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Viola come un'uva'.",
+            "options": ["Purple like a grape", "Red like a tomato", "Blue like the sky", "Yellow like the sun"],
+            "correctAnswer": "Purple like a grape"
+          },
+          {
+            "question": "Which one means 'Rosa come un fenicottero'?",
+            "options": ["Pink like a flamingo", "Orange like a carrot", "Green like the grass", "Black like the night"],
+            "correctAnswer": "Pink like a flamingo"
+          },
+          {
+            "question": "Translate 'What is your favorite color?' into Italian.",
+            "options": ["Qual è il tuo colore preferito?", "Il mio colore preferito è il blu", "Nero come la notte", "Rosa come un fenicottero"],
+            "correctAnswer": "Qual è il tuo colore preferito?"
+          },
+          {
+            "question": "What is the statement for 'My favorite color is blue' in Italian?",
+            "options": ["Il mio colore preferito è il blu", "Qual è il tuo colore preferito?", "Verde come l'erba", "Giallo come il sole"],
+            "correctAnswer": "Il mio colore preferito è il blu"
+          },
+          {
+            "question": "Select the phrase that describes 'Black like the night'.",
+            "options": ["Nero come la notte", "Arancione come una carota", "Viola come un'uva", "Rosa come un fenicottero"],
+            "correctAnswer": "Nero come la notte"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing a preference, how do you say 'My favorite color is blue'?",
+            "options": ["Il mio colore preferito è il blu", "Qual è il tuo colore preferito?", "Nero come la notte", "Blu come il cielo"],
+            "correctAnswer": "Il mio colore preferito è il blu"
+          },
+          {
+            "question": "If discussing colors, how would you say 'Red like a tomato' in Italian?",
+            "options": ["Rosso come un pomodoro", "Blu come il cielo", "Verde come l'erba", "Giallo come il sole"],
+            "correctAnswer": "Rosso come un pomodoro"
+          },
+          {
+            "question": "Choosing between colors, how is 'Blue like the sky' said in Italian?",
+            "options": ["Blu come il cielo", "Giallo come il sole", "Arancione come una carota", "Viola come un'uva"],
+            "correctAnswer": "Blu come il cielo"
+          },
+          {
+            "question": "How would you state 'Green like the grass' in Italian?",
+            "options": ["Verde come l'erba", "Rosa come un fenicottero", "Nero come la notte", "Arancione come una carota"],
+            "correctAnswer": "Verde come l'erba"
+          },
+          {
+            "question": "Describing the appearance of objects, how do you say 'Yellow like the sun'?",
+            "options": ["Giallo come il sole", "Viola come un'uva", "Rosa come un fenicottero", "Nero come la notte"],
+            "correctAnswer": "Giallo come il sole"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Iniziando la giornata di lunedì mattina, noti il cielo. 'Guarda, è blu come il cielo.' Come risponde il tuo amico appassionato di arte?",
+            "options": ["'Sì, e mi ricorda una mela rossa.'", "'Proprio come i miei uova al tegamino.'", "'Verde come l'erba nel parco.'", "'Arancione come una carota, non trovi?'"],
+            "correctAnswer": "'Sì, e mi ricorda una mela rossa.'"
+          },
+          {
+            "question": "Mentre pianificate una passeggiata nel parco bello per martedì pomeriggio, discutete su cosa portare. 'Dovremmo prendere l'arancione come una carota o il giallo come il sole?'",
+            "options": ["'Il giallo come il sole attira più le api.'", "'L'arancione come una carota è più visibile.'", "'Portiamo entrambi, per un picnic colorato.'", "'Preferisco il rosso come un pomodoro.'"],
+            "correctAnswer": "'Portiamo entrambi, per un picnic colorato.'"
+          },
+          {
+            "question": "Mercoledì a mezzogiorno, mentre scegliete un posto per pranzare, notate un nuovo ristorante. 'Guarda, il menu è viola come un'uva!' Cosa suggerisce il tuo amico?",
+            "options": ["'Spero servano anche uva verde.'", "'Amo il viola, entriamo.'", "'Preferisco il giallo del sole nel mio piatto.'", "'Rosso come un pomodoro sarebbe stato più appetitoso.'"],
+            "correctAnswer": "'Amo il viola, entriamo.'"
+          },
+          {
+            "question": "Giovedì sera decidete di guardare un film insieme. 'Quale scegliamo?' chiedi, sperando in qualcosa che non sia nero come la notte.",
+            "options": ["'Uno con il cielo blu come il tema principale.'", "'Qualcosa di allegro, giallo come il sole.'", "'Un documentario sulla natura, verde come l'erba.'", "'Una commedia leggera, rosa come un fenicottero.'"],
+            "correctAnswer": "'Una commedia leggera, rosa come un fenicottero.'"
+          },
+          {
+            "question": "Venerdì all'alba, parlando di sport, il tuo amico chiede, 'Quanti chilometri corri?'",
+            "options": ["'Uno o due, dipende dal tempo.'", "'Tre volte a settimana al parco.'", "'Sei uova mangio dopo per recuperare.'", "'Sette giorni fa ho stabilito il mio record personale.'"],
+            "correctAnswer": "'Uno o due, dipende dal tempo.'"
+          },
+          {
+            "question": "Sabato al tramonto, discutendo su quale gelato prendere, il tuo amico dice, 'Prendo il giallo come il sole!' Tu rispondi...",
+            "options": ["'Allora prendo il verde come l'erba, per contrasto.'", "'Blu come il cielo sarebbe una scelta bizzarra per un gelato.'", "'Il rosso come un pomodoro per me, grazie.'", "'Viola come un'uva è sempre la mia scelta.'"],
+            "correctAnswer": "'Viola come un'uva è sempre la mia scelta.'"
+          },
+          {
+            "question": "Domenica tutto il giorno avete pianificato una gita fuori porta. 'Quante bottiglie d'acqua portiamo?'",
+            "options": ["'Uno o due dovrebbero bastare.'", "'Tre volte più di quanto pensi, si camminerà molto.'", "'Sette giorni fa ne abbiamo finite sei.'", "'Nove piani da salire, meglio portarne abbastanza.'"],
+            "correctAnswer": "'Tre volte più di quanto pensi, si camminerà molto.'"
+          },
+          {
+            "question": "Mentre preparate il pranzo al sacco, discutete sulle quantità. 'Quanti panini facciamo?'",
+            "options": ["'Uno o due per persona.'", "'Tre volte il numero di persone.'", "'Sei uova per le frittate, quindi altrettanti panini.'", "'Otto fette di pane fresco dovrebbero bastare.'"],
+            "correctAnswer": "'Uno o due per persona.'"
+          },
+          {
+            "question": "Pianificando la settimana successiva, il tuo amico chiede, 'Quante volte andremo in palestra?'",
+            "options": ["'Uno o due, come al solito.'", "'Tre volte, per recuperare il tempo perso.'", "'Sei uova ho mangiato stamattina, quindi devo compensare.'", "'Sette giorni di riposo, poi ci penserò.'"],
+            "correctAnswer": "'Tre volte, per recuperare il tempo perso.'"
+          },
+          {
+            "question": "Riflettendo sulle esperienze condivise, concludete che la vostra amicizia è '...come il cielo', indicando...",
+            "options": ["'Blu come il cielo, profonda e serena.'", "'Giallo come il sole, luminosa e calorosa.'", "'Verde come l'erba, fresca e rinvigorente.'", "'Rosa come un fenicottero, unica e speciale.'"],
+            "correctAnswer": "'Blu come il cielo, profonda e serena.'"
+          }
+        ]
+      }
+    ]
+  }

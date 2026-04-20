@@ -1,0 +1,186 @@
+{
+    "chapterTitle": "Greetings",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Hello' in Italian?",
+            "options": ["Buonanotte", "Ciao", "Benvenuto", "Come stai?"],
+            "correctAnswer": "Ciao"
+          },
+          {
+            "question": "What does 'Addio' mean?",
+            "options": ["See you later", "How are you?", "Goodbye", "Welcome"],
+            "correctAnswer": "Goodbye"
+          },
+          {
+            "question": "Choose the Italian greeting for 'Good morning'.",
+            "options": ["A dopo", "Buongiorno", "Come va?", "Così così"],
+            "correctAnswer": "Buongiorno"
+          },
+          {
+            "question": "Which phrase means 'Good night'?",
+            "options": ["Buonanotte", "Sto bene, grazie", "E tu?", "Benvenuto"],
+            "correctAnswer": "Buonanotte"
+          },
+          {
+            "question": "How do you ask 'How are you?'",
+            "options": ["Come va?", "E tu?", "Come stai?", "A dopo"],
+            "correctAnswer": "Come stai?"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Select the response for 'I'm fine, thank you.'",
+            "options": ["Sto bene, grazie", "Buongiorno", "Buonanotte", "Benvenuto"],
+            "correctAnswer": "Sto bene, grazie"
+          },
+          {
+            "question": "How to say 'Welcome' in Italian?",
+            "options": ["Come va?", "Benvenuto", "E tu?", "A dopo"],
+            "correctAnswer": "Benvenuto"
+          },
+          {
+            "question": "Choose the translation for 'See you later'.",
+            "options": ["Addio", "A dopo", "Ciao", "Come stai?"],
+            "correctAnswer": "A dopo"
+          },
+          {
+            "question": "'How's it going?' translates to?",
+            "options": ["Come stai?", "Come va?", "Buonanotte", "Buongiorno"],
+            "correctAnswer": "Come va?"
+          },
+          {
+            "question": "Which option means 'So-so'?",
+            "options": ["Così così", "Sto bene, grazie", "Benvenuto", "E tu?"],
+            "correctAnswer": "Così così"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Which expression would you use to greet someone in the morning?",
+            "options": ["Buonanotte", "Ciao", "Buongiorno", "Benvenuto"],
+            "correctAnswer": "Buongiorno"
+          },
+          {
+            "question": "If you are meeting someone in the evening, how do you say 'Good night'?",
+            "options": ["Buonanotte", "Buongiorno", "A dopo", "Come va?"],
+            "correctAnswer": "Buonanotte"
+          },
+          {
+            "question": "What is a polite way to welcome someone?",
+            "options": ["Benvenuto", "Addio", "Così così", "E tu?"],
+            "correctAnswer": "Benvenuto"
+          },
+          {
+            "question": "How do you inquire about someone’s well-being in a casual manner?",
+            "options": ["Come va?", "Come stai?", "Sto bene, grazie", "Così così"],
+            "correctAnswer": "Come va?"
+          },
+          {
+            "question": "If someone says 'Come stai?', which is a suitable response?",
+            "options": ["E tu?", "Sto bene, grazie", "Benvenuto", "A dopo"],
+            "correctAnswer": "Sto bene, grazie"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the greeting that is suitable for any time of the day.",
+            "options": ["Buongiorno", "Ciao", "Buonanotte", "Benvenuto"],
+            "correctAnswer": "Ciao"
+          },
+          {
+            "question": "If you're leaving and want to say 'See you later', you would say?",
+            "options": ["A dopo", "Come va?", "Addio", "Buonanotte"],
+            "correctAnswer": "A dopo"
+          },
+          {
+            "question": "What would be an appropriate response if someone asks 'How's it going?'",
+            "options": ["Così così", "Sto bene, grazie", "E tu?", "Come stai?"],
+            "correctAnswer": "Così così"
+          },
+          {
+            "question": "If you want to welcome a group of people, which word would you use?",
+            "options": ["Ciao", "Benvenuto", "Buonanotte", "A dopo"],
+            "correctAnswer": "Benvenuto"
+          },
+          {
+            "question": "When someone says 'Sto bene, grazie', what is a polite follow-up question?",
+            "options": ["E tu?", "Come va?", "Benvenuto", "Buongiorno"],
+            "correctAnswer": "E tu?"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "If someone asks 'Come stai?', how might you respond?",
+            "options": ["Così così", "Sto bene, grazie", "Come va?", "E tu?"],
+            "correctAnswer": "Sto bene, grazie"
+          },
+          {
+            "question": "After saying goodbye in Italian, what phrase could you use?",
+            "options": ["Ciao", "Buonanotte", "A dopo", "Addio"],
+            "correctAnswer": "A dopo"
+          },
+          {
+            "question": "In the morning, how do you greet someone in Italian?",
+            "options": ["Buongiorno", "Ciao", "Buonanotte", "Come va?"],
+            "correctAnswer": "Buongiorno"
+          },
+          {
+            "question": "If you're about to sleep, what do you say in Italian?",
+            "options": ["Buonanotte", "Ciao", "Buongiorno", "Addio"],
+            "correctAnswer": "Buonanotte"
+          },
+          {
+            "question": "To inquire about someone's wellbeing in Italian, you would ask?",
+            "options": ["Come stai?", "Come va?", "E tu?", "Sto bene, grazie"],
+            "correctAnswer": "Come stai?"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "'Ciao! Come stai?'",
+            "options": ["'Così così, grazie.'", "'Sto bene, grazie. E tu?'", "'Un po' stanco.'", "'Non troppo bene.'"],
+            "correctAnswer": "'Sto bene, grazie. E tu?'"
+          },
+          {
+            "question": "'Bene anche io, grazie! Che fai di bello oggi?'",
+            "options": ["'Forse andrò a dormire presto.'", "'Penso di guardare un film.'", "'Probabilmente uscirò con alcuni amici.'", "'Studerò un po' di italiano.'"],
+            "correctAnswer": "'Forse andrò a dormire presto.'"
+          },
+          {
+            "question": "'Ah, capisco. È stato un giorno lungo, eh?'",
+            "options": ["'Sì, sto solo un po' stanco.'", "'No, sto bene, grazie.'", "'Potresti prestarmi un libro da leggere?'", "'Hai del tè? Mi aiuterebbe a rilassarmi.'"],
+            "correctAnswer": "'Sì, sto solo un po' stanco.'"
+          },
+          {
+            "question": "'D'accordo. Allora buonanotte e riposati!'",
+            "options": ["'Grazie, buonanotte!'", "'Sì, ci vediamo. Grazie!'", "'Forse dovrei, grazie per il consiglio.'", "'Va bene, farò così. Buonanotte!'"],
+            "correctAnswer": "'Grazie, buonanotte!'"
+          },
+          {
+            "question": "'Grazie per stasera, era bello parlare con te. Come stai?'",
+            "options": ["'Anch'io ho apprezzato. Sto bene, grazie!'", "'Tutto a posto, grazie per aver chiesto.'", "'Un po' stanco ma felice. E tu?'", "'Meglio ora che abbiamo parlato. Buonanotte!'"],
+            "correctAnswer": "'Anch'io ho apprezzato. Sto bene, grazie!'"
+          }
+        ]
+      }
+
+    ]
+  }

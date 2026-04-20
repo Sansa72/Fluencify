@@ -1,0 +1,240 @@
+{
+    "chapterTitle": "Activities and Hobbies",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Read books' in Italian?",
+            "options": ["Leggere libri", "Scrivere storie", "Giocare a calcio", "Nuotare in piscina"],
+            "correctAnswer": "Leggere libri"
+          },
+          {
+            "question": "Choose the Italian phrase for 'Write stories'.",
+            "options": ["Scrivere storie", "Viaggiare per il mondo", "Cucinare ricette nuove", "Suonare la chitarra"],
+            "correctAnswer": "Scrivere storie"
+          },
+          {
+            "question": "Which translates to 'Play soccer'?",
+            "options": ["Giocare a calcio", "Dipingere paesaggi", "Leggere libri", "Nuotare in piscina"],
+            "correctAnswer": "Giocare a calcio"
+          },
+          {
+            "question": "How do you express 'Swim in the pool' in Italian?",
+            "options": ["Nuotare in piscina", "Giocare a calcio", "Viaggiare per il mondo", "Cucinare ricette nuove"],
+            "correctAnswer": "Nuotare in piscina"
+          },
+          {
+            "question": "Select the translation for 'Travel the world'.",
+            "options": ["Viaggiare per il mondo", "Suonare la chitarra", "Dipingere paesaggi", "Leggere libri"],
+            "correctAnswer": "Viaggiare per il mondo"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Cook new recipes'?",
+            "options": ["Cucinare ricette nuove", "Leggere libri", "Scrivere storie", "Giocare a calcio"],
+            "correctAnswer": "Cucinare ricette nuove"
+          },
+          {
+            "question": "Find the Italian term for 'Play the guitar'.",
+            "options": ["Suonare la chitarra", "Dipingere paesaggi", "Nuotare in piscina", "Viaggiare per il mondo"],
+            "correctAnswer": "Suonare la chitarra"
+          },
+          {
+            "question": "How do you say 'Paint landscapes' in Italian?",
+            "options": ["Dipingere paesaggi", "Cucinare ricette nuove", "Leggere libri", "Suonare la chitarra"],
+            "correctAnswer": "Dipingere paesaggi"
+          },
+          {
+            "question": "Which phrase means 'What do you like to do in your free time?'",
+            "options": ["Cosa ti piace fare nel tempo libero?", "Nel mio tempo libero, mi piace leggere", "Viaggiare per il mondo", "Suonare la chitarra"],
+            "correctAnswer": "Cosa ti piace fare nel tempo libero?"
+          },
+          {
+            "question": "Select the answer for 'In my free time, I like to read.'",
+            "options": ["Nel mio tempo libero, mi piace leggere", "Cosa ti piace fare nel tempo libero?", "Dipingere paesaggi", "Suonare la chitarra"],
+            "correctAnswer": "Nel mio tempo libero, mi piace leggere"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Leggere libri' to its English counterpart.",
+            "options": ["Read books", "Write stories", "Play soccer", "Swim in the pool"],
+            "correctAnswer": "Read books"
+          },
+          {
+            "question": "Translate 'Scrivere storie' into English.",
+            "options": ["Cook new recipes", "Play the guitar", "Write stories", "Travel the world"],
+            "correctAnswer": "Write stories"
+          },
+          {
+            "question": "What does 'Giocare a calcio' mean?",
+            "options": ["Play soccer", "Swim in the pool", "Read books", "Paint landscapes"],
+            "correctAnswer": "Play soccer"
+          },
+          {
+            "question": "How to say 'Swim in the pool' in Italian?",
+            "options": ["Nuotare in piscina", "Giocare a calcio", "Viaggiare per il mondo", "Cucinare ricette nuove"],
+            "correctAnswer": "Nuotare in piscina"
+          },
+          {
+            "question": "Find the translation for 'Viaggiare per il mondo'.",
+            "options": ["Travel the world", "Play the guitar", "Cook new recipes", "Paint landscapes"],
+            "correctAnswer": "Travel the world"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Cucinare ricette nuove'.",
+            "options": ["Cook new recipes", "Read books", "Play the guitar", "Write stories"],
+            "correctAnswer": "Cook new recipes"
+          },
+          {
+            "question": "Which one means 'Suonare la chitarra'?",
+            "options": ["Play the guitar", "Paint landscapes", "Swim in the pool", "Travel the world"],
+            "correctAnswer": "Play the guitar"
+          },
+          {
+            "question": "Translate 'What do you like to do in your free time?' into Italian.",
+            "options": ["Cosa ti piace fare nel tempo libero?", "Nel mio tempo libero, mi piace leggere", "Giocare a calcio", "Dipingere paesaggi"],
+            "correctAnswer": "Cosa ti piace fare nel tempo libero?"
+          },
+          {
+            "question": "What is the statement for 'In my free time, I like to read' in Italian?",
+            "options": ["Nel mio tempo libero, mi piace leggere", "Cosa ti piace fare nel tempo libero?", "Viaggiare per il mondo", "Suonare la chitarra"],
+            "correctAnswer": "Nel mio tempo libero, mi piace leggere"
+          },
+          {
+            "question": "Select the phrase that describes 'Paint landscapes'.",
+            "options": ["Dipingere paesaggi", "Leggere libri", "Cucinare ricette nuove", "Suonare la chitarra"],
+            "correctAnswer": "Dipingere paesaggi"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing hobbies, how do you say 'Read books'?",
+            "options": ["Leggere libri", "Scrivere storie", "Giocare a calcio", "Nuotare in piscina"],
+            "correctAnswer": "Leggere libri"
+          },
+          {
+            "question": "If discussing creative activities, how would you say 'Write stories' in Italian?",
+            "options": ["Scrivere storie", "Viaggiare per il mondo", "Cucinare ricette nuove", "Suonare la chitarra"],
+            "correctAnswer": "Scrivere storie"
+          },
+          {
+            "question": "Choosing between sports, how is 'Play soccer' said in Italian?",
+            "options": ["Giocare a calcio", "Nuotare in piscina", "Viaggiare per il mondo", "Dipingere paesaggi"],
+            "correctAnswer": "Giocare a calcio"
+          },
+          {
+            "question": "How would you state 'Swim in the pool' in Italian?",
+            "options": ["Nuotare in piscina", "Leggere libri", "Cucinare ricette nuove", "Viaggiare per il mondo"],
+            "correctAnswer": "Nuotare in piscina"
+          },
+          {
+            "question": "Describing a love for exploration, how do you say 'Travel the world'?",
+            "options": ["Viaggiare per il mondo", "Suonare la chitarra", "Dipingere paesaggi", "Scrivere storie"],
+            "correctAnswer": "Viaggiare per il mondo"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "In una giornata nuvolosa, il tuo amico ti chiede cosa preferisci fare, tu rispondi...",
+            "options": ["'Leggere libri, mi trasportano in altri mondi, lontani come le stelle.'", "'Scrivere storie, ogni parola è un passo lungo come un fiume.'", "'Giocare a calcio, anche sotto la pioggia, vivace come il sole.'", "'Nuotare in piscina, mi rilassa come una camminata nel parco bello.'"],
+            "correctAnswer": "'Leggere libri, mi trasportano in altri mondi, lontani come le stelle.'"
+          },
+          {
+            "question": "Discutendo i progetti per il weekend, proponi...",
+            "options": ["'Perché non viaggiare per il mondo attraverso un documentario?'", "'Cucinare ricette nuove, esplorare sapori è come scoprire nuovi orizzonti.'", "'Suonare la chitarra, ogni nota risuona profonda come il mare.'", "'Dipingere paesaggi, catturare la bellezza come il cielo al tramonto.'"],
+            "correctAnswer": "'Cucinare ricette nuove, esplorare sapori è come scoprire nuovi orizzonti.'"
+          },
+          {
+            "question": "Quando il tuo amico esprime il desiderio di imparare qualcosa di nuovo, suggerisci...",
+            "options": ["'Perché non inizi a suonare la chitarra? È come dipingere con i suoni.'", "'La pittura può essere un ottimo hobby, liberare la creatività come un fiume.'", "'Il calcio è perfetto per stare all'aria aperta, movimento e gioia.'", "'La lettura arricchisce la mente, viaggi senza muoverti dal posto.'"],
+            "correctAnswer": "'Perché non inizi a suonare la chitarra? È come dipingere con i suoni.'"
+          },
+          {
+            "question": "Parlando di attività fisica, il tuo amico chiede la tua preferenza...",
+            "options": ["'Preferisco nuotare, l'acqua è calma e profonda come la notte.'", "'Calcio, l'adrenalina di giocare è vivida come il sole al tramonto.'", "'Una corsa nel parco, sentire la terra sotto i piedi è unico.'", "'Yoga, per trovare equilibrio, silenzioso come la luna.'"],
+            "correctAnswer": "'Preferisco nuotare, l'acqua è calma e profonda come la notte.'"
+          },
+          {
+            "question": "Mentre pianificate un viaggio, riflettete su come trascorrere il tempo. Tu suggerisci...",
+            "options": ["'Esplorare musei, ogni opera racconta storie lunghe come fiumi.'", "'Fare trekking, le montagne sono imponenti, alte come sogni.'", "'Visite culturali, imparare è come navigare in un mare di conoscenza.'", "'Rilassarci in spiaggia, il tempo libero è prezioso come l'oro.'"],
+            "correctAnswer": "'Fare trekking, le montagne sono imponenti, alte come sogni.'"
+          },
+          {
+            "question": "Se ti viene chiesto come trascorri le serate invernali, rispondi...",
+            "options": ["'Leggendo, ogni libro è un cammino attraverso la neve.'", "'Scrivendo, le parole scaldano l'ambiente come una coperta.'", "'Guardando film, viaggiare senza muoversi, caldi come il camino.'", "'Ascoltando musica, ogni nota risplende come stelle nel cielo invernale.'"],
+            "correctAnswer": "'Leggendo, ogni libro è un cammino attraverso la neve.'"
+          },
+          {
+            "question": "Durante una discussione su nuovi hobby da provare, proponi...",
+            "options": ["'Perché non inizi a dipingere? È rilassante come passeggiare in giardino.'", "'Il giardinaggio può essere terapeutico, veder crescere la vita.'", "'La fotografia, catturare momenti è come fermare il tempo.'", "'Il birdwatching, il canto degli uccelli è melodioso come la musica.'"],
+            "correctAnswer": "'La fotografia, catturare momenti è come fermare il tempo.'"
+          },
+          {
+            "question": "Quando il tuo amico ti chiede consiglio su come migliorare il suo tempo libero, suggerisci...",
+            "options": ["'Imparare una nuova lingua, apre mondi come le chiavi.'", "'Prova lo yoga, l'equilibrio interiore è importante quanto quello esterno.'", "'La scrittura creativa, esprimersi è liberatorio come il volo di un uccello.'", "'Il volontariato, aiutare gli altri riempie il cuore come niente altro.'"],
+            "correctAnswer": "'Il volontariato, aiutare gli altri riempie il cuore come niente altro.'"
+          },
+          {
+            "question": "In una giornata di pioggia, cosa suggerisci di fare?",
+            "options": ["'Un pomeriggio di giochi da tavolo, competizione amichevole.'", "'Una maratona di film, avventure senza uscire di casa.'", "'Leggere insieme, condividere storie è come condividere sogni.'", "'Cucinare qualcosa di speciale, sperimentare in cucina è un'avventura.'"],
+            "correctAnswer": "'Cucinare qualcosa di speciale, sperimentare in cucina è un'avventura.'"
+          },
+          {
+            "question": "Quando pianificate le attività per le vacanze, cosa suggerisci?",
+            "options": ["'Un corso di fotografia, immortalare i momenti è magico.'", "'Workshop di scrittura, esplorare nuove storie insieme.'", "'Corsi di surf, l'adrenalina del mare è unica.'", "'Trekking, la natura offre panorami vasti come l'orizzonte.'"],
+            "correctAnswer": "'Trekking, la natura offre panorami vasti come l'orizzonte.'"
+          },
+          {
+            "question": "Parlando di passatempi rilassanti, menzioni...",
+            "options": ["'Il giardinaggio, la crescita delle piante è silenziosa ma significativa.'", "'La meditazione, trovare pace interiore è essenziale.'", "'L'arte del tè, una cerimonia calma come un lago.'", "'Ascoltare musica classica, ogni sinfonia è un viaggio.'"],
+            "correctAnswer": "'Il giardinaggio, la crescita delle piante è silenziosa ma significativa.'"
+          },
+          {
+            "question": "Dopo aver scoperto un hobby in comune, esclami...",
+            "options": ["'Incredibile, come due stelle che si incontrano nel vasto universo.'", "'Siamo sintonizzati come due note in perfetta armonia.'", "'Come due fiumi che si uniscono, il nostro interesse comune ci lega.'", "'È raro come trovare un diamante, questa condivisione di passioni.'"],
+            "correctAnswer": "'Siamo sintonizzati come due note in perfetta armonia.'"
+          },
+          {
+            "question": "Scegliendo un hobby che migliorerebbe la qualità della vita, consigli...",
+            "options": ["'La lettura, apre la mente come il cielo si apre all'alba.'", "'Lo sport, mantiene il corpo attivo come la corrente di un fiume.'", "'L'arte, esprimere se stessi è vitale come l'acqua.'", "'Viaggiare, anche solo con la mente, è liberatorio come il volo di un uccello.'"],
+            "correctAnswer": "'Lo sport, mantiene il corpo attivo come la corrente di un fiume.'"
+          },
+          {
+            "question": "Quando un amico mostra interesse per un tuo hobby, ti senti...",
+            "options": ["'Felice, come quando il sole riscalda la terra fredda.'", "'Entusiasta, è un'opportunità per crescere insieme, come alberi in un bosco.'", "'Curioso, condividere esperienze è come esplorare nuovi sentieri.'", "'Orgoglioso, insegnare è gratificante come nutrire la terra.'"],
+            "correctAnswer": "'Entusiasta, è un'opportunità per crescere insieme, come alberi in un bosco.'"
+          },
+          {
+            "question": "Dopo una giornata piena di attività, come descriveresti il tuo stato d'animo?",
+            "options": ["'Stanco, ma soddisfatto come dopo un lungo viaggio.'", "'Rigenerato, ogni attività è stata un tuffo in un lago rinfrescante.'", "'Ispirato, ogni momento ha aggiunto colore alla mia giornata, come un dipinto.'", "'Grato, condividere esperienze arricchisce come il sole nutre la terra.'"],
+            "correctAnswer": "'Ispirato, ogni momento ha aggiunto colore alla mia giornata, come un dipinto.'"
+          },
+          {
+            "question": "Pianificando un fine settimana all'aperto, quale attività suggerisci?",
+            "options": ["'Una gita in bicicletta, esplorare sentieri è come leggere nuove storie.'", "'Un picnic, condividere cibo è come condividere storie.'", "'Osservazione delle stelle, il cielo notturno è un libro aperto.'", "'Escursioni, ogni passo nella natura scrive una nuova pagina della nostra avventura.'"],
+            "correctAnswer": "'Escursioni, ogni passo nella natura scrive una nuova pagina della nostra avventura.'"
+          }
+        ]
+      }
+    ]
+  }

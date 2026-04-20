@@ -1,0 +1,215 @@
+{
+    "chapterTitle": "Tenses in Spanish",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you conjugate 'Hablar' in present tense for 'I'?",
+            "options": ["Hablo", "Hablé", "Hablaré", "Habla"],
+            "correctAnswer": "Hablo"
+          },
+          {
+            "question": "Choose the correct conjugation for 'Comer' in present tense for 'You (informal)'.",
+            "options": ["Comes", "Comiste", "Comerás", "Come"],
+            "correctAnswer": "Comes"
+          },
+          {
+            "question": "Which is the correct conjugation of 'Vivir' in present tense for 'He/She/You (formal)'?",
+            "options": ["Vivo", "Vivió", "Vivirá", "Vive"],
+            "correctAnswer": "Vive"
+          },
+          {
+            "question": "Select the past tense conjugation of 'Hablar' for 'I'.",
+            "options": ["Hablo", "Hablé", "Hablaré", "Habla"],
+            "correctAnswer": "Hablé"
+          },
+          {
+            "question": "What is the future tense conjugation of 'Comer' for 'You (informal)'?",
+            "options": ["Comes", "Comiste", "Comerás", "Come"],
+            "correctAnswer": "Comerás"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "How is 'Vivir' conjugated in the future tense for 'I'?",
+            "options": ["Vivo", "Viví", "Viviré", "Vive"],
+            "correctAnswer": "Viviré"
+          },
+          {
+            "question": "Find the correct present tense conjugation of 'Hablar' for 'You (informal)'.",
+            "options": ["Hablas", "Habló", "Hablará", "Habla"],
+            "correctAnswer": "Hablas"
+          },
+          {
+            "question": "What is the correct past tense conjugation of 'Vivir' for 'He/She/You (formal)'?",
+            "options": ["Vivo", "Vivió", "Vivirá", "Vive"],
+            "correctAnswer": "Vivió"
+          },
+          {
+            "question": "Choose the future tense conjugation of 'Comer' for 'I'.",
+            "options": ["Como", "Comí", "Comeré", "Come"],
+            "correctAnswer": "Comeré"
+          },
+          {
+            "question": "Which is the correct past tense conjugation of 'Hablar' for 'You (informal)'?",
+            "options": ["Hablas", "Hablaste", "Hablarás", "Habla"],
+            "correctAnswer": "Hablaste"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match the present tense conjugation of 'Comer' for 'He/She/You (formal)'.",
+            "options": ["Come", "Comió", "Comerá", "Comes"],
+            "correctAnswer": "Come"
+          },
+          {
+            "question": "Translate the future tense conjugation of 'Vivir' for 'You (informal)'.",
+            "options": ["Vives", "Vivió", "Vivirás", "Vive"],
+            "correctAnswer": "Vivirás"
+          },
+          {
+            "question": "What does the past tense conjugation of 'Comer' for 'I' mean?",
+            "options": ["Como", "Comí", "Comeré", "Come"],
+            "correctAnswer": "Comí"
+          },
+          {
+            "question": "How to say 'He/She/You (formal) will speak' in Spanish?",
+            "options": ["Habla", "Habló", "Hablará", "Hablas"],
+            "correctAnswer": "Hablará"
+          },
+          {
+            "question": "Find the translation for 'I lived' in Spanish.",
+            "options": ["Vivo", "Viví", "Vivirá", "Vive"],
+            "correctAnswer": "Viví"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct present tense conjugation for 'Vivir' for 'I'.",
+            "options": ["Vivo", "Viviste", "Vivirá", "Vive"],
+            "correctAnswer": "Vivo"
+          },
+          {
+            "question": "Which one means 'You (informal) ate' in Spanish?",
+            "options": ["Comes", "Comiste", "Comerás", "Come"],
+            "correctAnswer": "Comiste"
+          },
+          {
+            "question": "Translate 'They will live' into Spanish.",
+            "options": ["Viven", "Vivieron", "Vivirán", "Vive"],
+            "correctAnswer": "Vivirán"
+          },
+          {
+            "question": "What is the statement for 'You (informal) speak' in Spanish?",
+            "options": ["Hablas", "Habló", "Hablarás", "Habla"],
+            "correctAnswer": "Hablas"
+          },
+          {
+            "question": "Select the phrase that describes 'She spoke'.",
+            "options": ["Habla", "Habló", "Hablará", "Hablas"],
+            "correctAnswer": "Habló"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing actions in Spanish, how do you say 'I will eat'?",
+            "options": ["Como", "Comí", "Comeré", "Comes"],
+            "correctAnswer": "Comeré"
+          },
+          {
+            "question": "If discussing future plans, how would you say 'We will travel' in Spanish?",
+            "options": ["Viajamos", "Viajamos", "Viajaremos", "Viaja"],
+            "correctAnswer": "Viajaremos"
+          },
+          {
+            "question": "Choosing between tenses, how is 'She cooked' said in Spanish?",
+            "options": ["Cocina", "Cocinó", "Cocinará", "Cocinas"],
+            "correctAnswer": "Cocinó"
+          },
+          {
+            "question": "How would you state 'You (formal) lived' in Spanish?",
+            "options": ["Vive", "Vivió", "Vivirá", "Viviste"],
+            "correctAnswer": "Vivió"
+          },
+          {
+            "question": "Describing an ongoing action, how do you say 'They are reading'?",
+            "options": ["Leen", "Leyeron", "Leerán", "Lee"],
+            "correctAnswer": "Leen"
+          }
+        ]
+      },
+      {
+        "chapterTitle": "Tenses in Spanish",
+        "levels": [
+          {
+            "level": 6,
+            "questions": [
+              {
+                "question": "Al describir cómo has 'leído libros' este año, ¿cómo conjugas 'leer' en primera persona del pretérito?",
+                "options": ["Leo libros cada año", "Leí libros este año", "Leeré más libros el próximo año", "Estoy leyendo un libro interesante"],
+                "correctAnswer": "Leí libros este año"
+              },
+              {
+                "question": "Explorando futuros viajes, ¿cómo expresarías en primera persona del futuro 'Viajaré a España'?",
+                "options": ["Viajo a España cada verano", "Viajé a España el año pasado", "Viajaré a España el próximo verano", "Estoy viajando a España"],
+                "correctAnswer": "Viajaré a España el próximo verano"
+              },
+              {
+                "question": "Reflexionando sobre un proyecto terminado, ¿cómo conjugas 'escribir' en segunda persona del pretérito?",
+                "options": ["Escribes historias fascinantes", "Escribiste un informe impresionante", "Escribirás un libro algún día", "Estás escribiendo un artículo"],
+                "correctAnswer": "Escribiste un informe impresionante"
+              },
+              {
+                "question": "Planeando cocinar para una celebración, ¿cómo dirías 'Cocinaré mi plato favorito' en primera persona del futuro?",
+                "options": ["Cocino con mi familia los domingos", "Cociné galletas ayer", "Cocinaré mi plato favorito para la fiesta", "Estoy cocinando ahora mismo"],
+                "correctAnswer": "Cocinaré mi plato favorito para la fiesta"
+              },
+              {
+                "question": "Recordando actividades de un campamento, ¿cómo se dice 'Nadamos en el lago' en primera persona del plural en pretérito?",
+                "options": ["Nadamos en el mar durante las vacaciones", "Nadé en el río el verano pasado", "Nadaremos en el océano mañana", "Nadamos en el lago durante el campamento"],
+                "correctAnswer": "Nadamos en el lago durante el campamento"
+              },
+              {
+                "question": "Al planificar un encuentro musical, ¿cómo expresarías 'Tocaremos en el concierto' en primera persona del plural en futuro?",
+                "options": ["Toco el piano todos los días", "Tocaste muy bien en la audición", "Tocaremos en el concierto de fin de año", "Estamos tocando en un recital esta noche"],
+                "correctAnswer": "Tocaremos en el concierto de fin de año"
+              },
+              {
+                "question": "Discutiendo un nuevo hobby, ¿cómo dirías 'He empezado a pintar paisajes' usando el pretérito perfecto?",
+                "options": ["Pinto paisajes cuando estoy inspirado", "Pintaste una obra maestra el mes pasado", "He empezado a pintar paisajes recientemente", "Estoy pintando un paisaje ahora"],
+                "correctAnswer": "He empezado a pintar paisajes recientemente"
+              },
+              {
+                "question": "Contemplando futuras discusiones, ¿cómo plantearías 'Hablaremos de este libro' en primera persona del plural en futuro?",
+                "options": ["Hablo sobre mis libros favoritos con amigos", "Hablaste claramente durante la presentación", "Hablaremos de este libro en la próxima reunión", "Estamos hablando de literatura"],
+                "correctAnswer": "Hablaremos de este libro en la próxima reunión"
+              },
+              {
+                "question": "Reflexionando sobre pasatiempos compartidos, ¿cómo dirías 'En nuestro tiempo libre, nos gusta leer'?",
+                "options": ["En mi tiempo libre, me gusta leer", "En tu tiempo libre, te gusta leer", "En su tiempo libre, le gusta leer", "En nuestro tiempo libre, nos gusta leer"],
+                "correctAnswer": "En nuestro tiempo libre, nos gusta leer"
+              },
+              {
+                "question": "Considerando un cambio de carrera, ¿cómo expresarías 'Estudiaré programación' en primera persona del futuro?",
+                "options": ["Estudio idiomas extranjeros", "Estudiaste medicina en la universidad", "Estudiaré programación el próximo semestre", "Estoy estudiando para mis exámenes finales"],
+                "correctAnswer": "Estudiaré programación el próximo semestre"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

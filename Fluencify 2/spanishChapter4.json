@@ -1,0 +1,210 @@
+{
+    "chapterTitle": "Emotions and Reactions",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Happy for you' in Spanish?",
+            "options": ["Feliz por ti", "Triste por la noticia", "Enojado con la situación", "Emocionado por el viaje"],
+            "correctAnswer": "Feliz por ti"
+          },
+          {
+            "question": "Choose the Spanish phrase for 'Sad about the news'.",
+            "options": ["Triste por la noticia", "Cansado por el trabajo", "Asustado por la oscuridad", "Sorprendido por la fiesta"],
+            "correctAnswer": "Triste por la noticia"
+          },
+          {
+            "question": "Which translates to 'Angry about the situation'?",
+            "options": ["Enojado con la situación", "Confundido por las instrucciones", "Feliz por ti", "Emocionado por el viaje"],
+            "correctAnswer": "Enojado con la situación"
+          },
+          {
+            "question": "How do you express 'Excited for the trip' in Spanish?",
+            "options": ["Emocionado por el viaje", "Cansado por el trabajo", "Asustado por la oscuridad", "Triste por la noticia"],
+            "correctAnswer": "Emocionado por el viaje"
+          },
+          {
+            "question": "Select the translation for 'Tired from work'.",
+            "options": ["Cansado por el trabajo", "Sorprendido por la fiesta", "Feliz por ti", "Confundido por las instrucciones"],
+            "correctAnswer": "Cansado por el trabajo"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Scared of the dark'?",
+            "options": ["Asustado por la oscuridad", "Emocionado por el viaje", "Enojado con la situación", "Cansado por el trabajo"],
+            "correctAnswer": "Asustado por la oscuridad"
+          },
+          {
+            "question": "Find the Spanish term for 'Surprised by the party'.",
+            "options": ["Sorprendido por la fiesta", "Triste por la noticia", "Feliz por ti", "Confundido por las instrucciones"],
+            "correctAnswer": "Sorprendido por la fiesta"
+          },
+          {
+            "question": "How do you say 'Confused by the instructions' in Spanish?",
+            "options": ["Confundido por las instrucciones", "Asustado por la oscuridad", "Cansado por el trabajo", "Emocionado por el viaje"],
+            "correctAnswer": "Confundido por las instrucciones"
+          },
+          {
+            "question": "Which phrase means 'How do you feel today?'",
+            "options": ["¿Cómo te sientes hoy?", "Me siento emocionado por el concierto", "Feliz por ti", "Sorprendido por la fiesta"],
+            "correctAnswer": "¿Cómo te sientes hoy?"
+          },
+          {
+            "question": "Select the answer for 'I feel excited about the concert.'",
+            "options": ["Me siento emocionado por el concierto", "¿Cómo te sientes hoy?", "Enojado con la situación", "Asustado por la oscuridad"],
+            "correctAnswer": "Me siento emocionado por el concierto"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Triste por la noticia' to its English equivalent.",
+            "options": ["Sad about the news", "Happy for you", "Angry about the situation", "Tired from work"],
+            "correctAnswer": "Sad about the news"
+          },
+          {
+            "question": "Translate 'Enojado con la situación' into English.",
+            "options": ["Angry about the situation", "Scared of the dark", "Surprised by the party", "Excited for the trip"],
+            "correctAnswer": "Angry about the situation"
+          },
+          {
+            "question": "What does 'Cansado por el trabajo' mean?",
+            "options": ["Tired from work", "Confused by the instructions", "Happy for you", "Scared of the dark"],
+            "correctAnswer": "Tired from work"
+          },
+          {
+            "question": "How to say 'Scared of the dark' in Spanish?",
+            "options": ["Asustado por la oscuridad", "Sorprendido por la fiesta", "Emocionado por el viaje", "Triste por la noticia"],
+            "correctAnswer": "Asustado por la oscuridad"
+          },
+          {
+            "question": "Find the translation for '¿Cómo te sientes hoy?'.",
+            "options": ["How do you feel today?", "I feel excited about the concert", "Surprised by the party", "Tired from work"],
+            "correctAnswer": "How do you feel today?"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Sorprendido por la fiesta'.",
+            "options": ["Surprised by the party", "Confused by the instructions", "Scared of the dark", "Excited for the trip"],
+            "correctAnswer": "Surprised by the party"
+          },
+          {
+            "question": "Which one means 'Confundido por las instrucciones'?",
+            "options": ["Confused by the instructions", "Tired from work", "Angry about the situation", "Happy for you"],
+            "correctAnswer": "Confused by the instructions"
+          },
+          {
+            "question": "Translate 'Me siento emocionado por el concierto' into Spanish.",
+            "options": ["I feel excited about the concert", "How do you feel today?", "Excited for the trip", "Surprised by the party"],
+            "correctAnswer": "I feel excited about the concert"
+          },
+          {
+            "question": "What is the statement for 'Happy for you' in Spanish?",
+            "options": ["Feliz por ti", "Triste por la noticia", "Enojado con la situación", "Cansado por el trabajo"],
+            "correctAnswer": "Feliz por ti"
+          },
+          {
+            "question": "Select the phrase that describes 'Tired from work'.",
+            "options": ["Cansado por el trabajo", "Asustado por la oscuridad", "Sorprendido por la fiesta", "Confundido por las instrucciones"],
+            "correctAnswer": "Cansado por el trabajo"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing emotions, how do you say 'Angry about the situation'?",
+            "options": ["Enojado con la situación", "Feliz por ti", "Triste por la noticia", "Cansado por el trabajo"],
+            "correctAnswer": "Enojado con la situación"
+          },
+          {
+            "question": "If discussing feelings, how would you say 'How do you feel today?' in Spanish?",
+            "options": ["¿Cómo te sientes hoy?", "Me siento emocionado por el concierto", "Sorprendido por la fiesta", "Asustado por la oscuridad"],
+            "correctAnswer": "¿Cómo te sientes hoy?"
+          },
+          {
+            "question": "Choosing between reactions, how is 'Surprised by the party' said in Spanish?",
+            "options": ["Sorprendido por la fiesta", "Enojado con la situación", "Triste por la noticia", "Confundido por las instrucciones"],
+            "correctAnswer": "Sorprendido por la fiesta"
+          },
+          {
+            "question": "How would you state 'I feel excited about the concert' in Spanish?",
+            "options": ["Me siento emocionado por el concierto", "¿Cómo te sientes hoy?", "Feliz por ti", "Cansado por el trabajo"],
+            "correctAnswer": "Me siento emocionado por el concierto"
+          },
+          {
+            "question": "Describing an emotional state, how do you say 'Tired from work'?",
+            "options": ["Cansado por el trabajo", "Asustado por la oscuridad", "Feliz por ti", "Triste por la noticia"],
+            "correctAnswer": "Cansado por el trabajo"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Después de saludar a tu amigo en el parque, te cuenta que ha adoptado un perro. Respondes con alegría. ¿Qué le dices?",
+            "options": ["¡Qué alegría! ¿Cómo está tu nuevo amigo?", "¿Qué pasó con el perro?", "Me siento confundido.", "Tengo miedo de los perros."],
+            "correctAnswer": "¡Qué alegría! ¿Cómo está tu nuevo amigo?"
+          },
+          {
+            "question": "Tu amigo dice que el perro está muy feliz en su nuevo hogar. Luego, te menciona que no pudo asistir a la última clase de español. ¿Cómo reaccionas?",
+            "options": ["Es una lástima, la clase fue muy interesante.", "Los perros siempre están felices.", "Estoy sorprendido.", "Me siento emocionado por el perro."],
+            "correctAnswer": "Es una lástima, la clase fue muy interesante."
+          },
+          {
+            "question": "Al hablar de la clase de español, tu amigo se muestra confundido por algunas reglas gramaticales. ¿Qué le ofreces?",
+            "options": ["Puedo ayudarte a entender las reglas después de nuestro paseo.", "¿Quieres hablar del perro?", "La gramática es fácil.", "¿Te sientes emocionado por aprender?"],
+            "correctAnswer": "Puedo ayudarte a entender las reglas después de nuestro paseo."
+          },
+          {
+            "question": "Deciden ir a un café después del paseo. Al llegar, se encuentran con que el café está cerrado, lo que causa decepción. ¿Cómo expresas tu sentir?",
+            "options": ["Estoy un poco triste, tenía ganas de un café.", "El café siempre está cerrado.", "Este café nunca me gustó.", "¿Vamos al parque otra vez?"],
+            "correctAnswer": "Estoy un poco triste, tenía ganas de un café."
+          },
+          {
+            "question": "Después de encontrar otro lugar para tomar café, tu amigo te cuenta sobre un viaje próximo que le emociona mucho. ¿Cuál es tu reacción?",
+            "options": ["Eso suena increíble, cuéntame más sobre tu viaje.", "¿Y el perro?", "Los viajes no son para mí.", "Preferiría quedarme en casa."],
+            "correctAnswer": "Eso suena increíble, cuéntame más sobre tu viaje."
+          },
+          {
+            "question": "Mientras te cuenta sobre el viaje, menciona que visitará la librería más antigua de la ciudad. Te interesa y preguntas: ",
+            "options": ["¿Me traerías un libro de esa librería?", "¿Hay cafés cerca de la librería?", "¿Te gusta leer sobre viajes?", "¿El perro va contigo?"],
+            "correctAnswer": "¿Me traerías un libro de esa librería?"
+          },
+          {
+            "question": "Al finalizar el día, ambos se sienten contentos por el tiempo compartido. ¿Cómo expresas tu agradecimiento por el día?",
+            "options": ["Hoy fue un día excelente, gracias por la compañía.", "¿Cuándo es tu viaje?", "Creo que me voy a casa.", "El perro estará contento de verte."],
+            "correctAnswer": "Hoy fue un día excelente, gracias por la compañía."
+          },
+          {
+            "question": "Antes de despedirse, tu amigo te invita a una fiesta sorpresa la próxima semana. Te sientes emocionado. ¿Qué le dices?",
+            "options": ["Estaré allí, ¡no puedo esperar!", "No me gustan las sorpresas.", "¿Habrá café?", "¿Puedo llevar a mi perro?"],
+            "correctAnswer": "Estaré allí, ¡no puedo esperar!"
+          },
+          {
+            "question": "Tu amigo te agradece por siempre estar ahí y menciona lo importante que es tu amistad. Te sientes conmovido. ¿Cómo respondes?",
+            "options": ["Tu amistad también significa mucho para mí.", "¿Nos vemos en la fiesta?", "Es tarde, debería irme.", "¿Quién más va a la fiesta?"],
+            "correctAnswer": "Tu amistad también significa mucho para mí."
+          },
+          {
+            "question": "Al despedirse, ambos expresan la emoción por el próximo encuentro en la fiesta. ¿Qué palabras usas para despedirte?",
+            "options": ["Hasta luego, cuídate mucho.", "Adiós.", "Nos vemos en el café.", "Espero que el perro esté bien."],
+            "correctAnswer": "Hasta luego, cuídate mucho."
+          }
+        ]
+      }
+    ]
+  }

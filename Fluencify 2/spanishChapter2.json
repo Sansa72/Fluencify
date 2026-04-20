@@ -1,0 +1,185 @@
+{
+    "chapterTitle": "Animals and Descriptions",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Big dog' in Spanish?",
+            "options": ["Perro grande", "Gato pequeño", "Caballo rápido", "Vaca lechera"],
+            "correctAnswer": "Perro grande"
+          },
+          {
+            "question": "Choose the Spanish phrase for 'Small cat'.",
+            "options": ["Gato pequeño", "Oveja blanca", "Ratón pequeño", "Pájaro cantor"],
+            "correctAnswer": "Gato pequeño"
+          },
+          {
+            "question": "Which translates to 'Fast horse'?",
+            "options": ["Caballo rápido", "Pez rojo", "Perro grande", "Vaca lechera"],
+            "correctAnswer": "Caballo rápido"
+          },
+          {
+            "question": "How do you express 'Dairy cow' in Spanish?",
+            "options": ["Vaca lechera", "Caballo rápido", "Oveja blanca", "Gato pequeño"],
+            "correctAnswer": "Vaca lechera"
+          },
+          {
+            "question": "Select the translation for 'White sheep'.",
+            "options": ["Oveja blanca", "Ratón pequeño", "Pájaro cantor", "Pez rojo"],
+            "correctAnswer": "Oveja blanca"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Little mouse'?",
+            "options": ["Ratón pequeño", "Perro grande", "Caballo rápido", "Gato pequeño"],
+            "correctAnswer": "Ratón pequeño"
+          },
+          {
+            "question": "Find the Spanish term for 'Singing bird'.",
+            "options": ["Pájaro cantor", "Vaca lechera", "Oveja blanca", "Pez rojo"],
+            "correctAnswer": "Pájaro cantor"
+          },
+          {
+            "question": "How do you say 'Red fish' in Spanish?",
+            "options": ["Pez rojo", "Ratón pequeño", "Pájaro cantor", "Vaca lechera"],
+            "correctAnswer": "Pez rojo"
+          },
+          {
+            "question": "Which phrase means 'What color is your dog?'",
+            "options": ["¿De qué color es tu perro?", "Mi perro es negro", "Perro grande", "Gato pequeño"],
+            "correctAnswer": "¿De qué color es tu perro?"
+          },
+          {
+            "question": "Select the answer for 'My dog is black.'",
+            "options": ["Mi perro es negro", "¿De qué color es tu perro?", "Oveja blanca", "Ratón pequeño"],
+            "correctAnswer": "Mi perro es negro"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Gato pequeño' to its English equivalent.",
+            "options": ["Small cat", "Big dog", "Fast horse", "White sheep"],
+            "correctAnswer": "Small cat"
+          },
+          {
+            "question": "Translate 'Vaca lechera' into English.",
+            "options": ["Dairy cow", "Little mouse", "Singing bird", "Red fish"],
+            "correctAnswer": "Dairy cow"
+          },
+          {
+            "question": "What does 'Pájaro cantor' mean?",
+            "options": ["Singing bird", "Red fish", "Little mouse", "Fast horse"],
+            "correctAnswer": "Singing bird"
+          },
+          {
+            "question": "How to say 'Red fish' in Spanish?",
+            "options": ["Pez rojo", "Caballo rápido", "Perro grande", "Oveja blanca"],
+            "correctAnswer": "Pez rojo"
+          },
+          {
+            "question": "Find the translation for '¿De qué color es tu perro?'.",
+            "options": ["What color is your dog?", "My dog is black", "White sheep", "Big dog"],
+            "correctAnswer": "What color is your dog?"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Caballo rápido'.",
+            "options": ["Fast horse", "Little mouse", "Singing bird", "Dairy cow"],
+            "correctAnswer": "Fast horse"
+          },
+          {
+            "question": "Which one means 'Oveja blanca'?",
+            "options": ["White sheep", "Small cat", "Big dog", "Red fish"],
+            "correctAnswer": "White sheep"
+          },
+          {
+            "question": "Translate 'Mi perro es negro' into Spanish.",
+            "options": ["My dog is black", "What color is your dog?", "Fast horse", "Dairy cow"],
+            "correctAnswer": "My dog is black"
+          },
+          {
+            "question": "What is the statement for 'Singing bird' in Spanish?",
+            "options": ["Pájaro cantor", "Pez rojo", "Ratón pequeño", "Caballo rápido"],
+            "correctAnswer": "Pájaro cantor"
+          },
+          {
+            "question": "Select the phrase that describes 'Little mouse'.",
+            "options": ["Ratón pequeño", "Big dog", "Small cat", "Dairy cow"],
+            "correctAnswer": "Ratón pequeño"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing animal descriptions, how do you say 'Big dog'?",
+            "options": ["Perro grande", "Gato pequeño", "Caballo rápido", "Vaca lechera"],
+            "correctAnswer": "Perro grande"
+          },
+          {
+            "question": "If discussing pet colors, how would you say 'What color is your dog?' in Spanish?",
+            "options": ["¿De qué color es tu perro?", "Mi perro es negro", "Pez rojo", "Pájaro cantor"],
+            "correctAnswer": "¿De qué color es tu perro?"
+          },
+          {
+            "question": "Choosing between animals, how is 'Singing bird' said in Spanish?",
+            "options": ["Pájaro cantor", "Ratón pequeño", "Oveja blanca", "Caballo rápido"],
+            "correctAnswer": "Pájaro cantor"
+          },
+          {
+            "question": "How would you state 'My dog is black' in Spanish?",
+            "options": ["Mi perro es negro", "¿De qué color es tu perro?", "Vaca lechera", "Perro grande"],
+            "correctAnswer": "Mi perro es negro"
+          },
+          {
+            "question": "Describing a farm animal, how do you say 'Dairy cow'?",
+            "options": ["Vaca lechera", "Gato pequeño", "Caballo rápido", "Oveja blanca"],
+            "correctAnswer": "Vaca lechera"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Al encontrarte con un amigo, inicias la conversación con un saludo y luego preguntas por su mascota, diciendo: 'Hola, ¿cómo estás? He escuchado que tienes un nuevo perro, ¿de qué color es?'",
+            "options": ["Es negro y muy grande", "Estoy bien, gracias", "Es un perro pequeño", "No tengo perro"],
+            "correctAnswer": "Es negro y muy grande"
+          },
+          {
+            "question": "Tu amigo responde sobre su perro y te pregunta por tus mascotas. Para seguir la conversación, dices: 'Estoy bien, gracias. Tengo un gato, ¿adivinas de qué color es?'",
+            "options": ["Es un gato negro", "¿Tienes un gato grande?", "Debe ser un gato pequeño", "¿Es blanco?"],
+            "correctAnswer": "¿Es blanco?"
+          },
+          {
+            "question": "Después de hablar sobre el color de tu gato, cambian el tema a las actividades de las mascotas. Preguntas: 'Y tu perro, ¿es rápido corriendo?'",
+            "options": ["Sí, es muy rápido", "No, es más bien lento", "Le gusta dormir", "Prefiere jugar con gatos pequeños"],
+            "correctAnswer": "Sí, es muy rápido"
+          },
+          {
+            "question": "Antes de despedirse, tu amigo menciona que también tiene un pájaro. Curioso, preguntas: 'Interesante, ¿qué tipo de pájaro es? ¿Es un pájaro cantor?'",
+            "options": ["Sí, canta muy bonito", "No, es un pájaro silencioso", "Es un perro grande, no un pájaro", "Tengo un pez, no un pájaro"],
+            "correctAnswer": "Sí, canta muy bonito"
+          },
+          {
+            "question": "Para concluir la conversación de manera amigable y considerando una futura visita, dices: 'Me encantaría conocer a tus mascotas algún día. ¿Nos vemos luego para organizarlo?'",
+            "options": ["Claro, sería genial", "No, prefiero no", "Mis mascotas no están en casa", "Ya veremos más adelante"],
+            "correctAnswer": "Claro, sería genial"
+          }
+        ]
+      }
+    ]
+  }

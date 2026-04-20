@@ -1,0 +1,320 @@
+{
+    "chapterTitle": "Family and Relationships",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Loving mother' in Spanish?",
+            "options": ["Madre cariñosa", "Padre trabajador", "Hermano mayor", "Hermana menor"],
+            "correctAnswer": "Madre cariñosa"
+          },
+          {
+            "question": "Choose the Spanish phrase for 'Hardworking father'.",
+            "options": ["Padre trabajador", "Madre cariñosa", "Abuelos sabios", "Amigos fieles"],
+            "correctAnswer": "Padre trabajador"
+          },
+          {
+            "question": "Which translates to 'Older brother'?",
+            "options": ["Hermano mayor", "Hermana menor", "Vecino amable", "Compañero de clase"],
+            "correctAnswer": "Hermano mayor"
+          },
+          {
+            "question": "How do you express 'Younger sister' in Spanish?",
+            "options": ["Hermana menor", "Madre cariñosa", "Padre trabajador", "Hermano mayor"],
+            "correctAnswer": "Hermana menor"
+          },
+          {
+            "question": "Select the translation for 'Wise grandparents'.",
+            "options": ["Abuelos sabios", "Amigos fieles", "Vecino amable", "Compañero de clase"],
+            "correctAnswer": "Abuelos sabios"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Faithful friends'?",
+            "options": ["Amigos fieles", "Abuelos sabios", "Vecino amable", "Compañero de clase"],
+            "correctAnswer": "Amigos fieles"
+          },
+          {
+            "question": "Find the Spanish term for 'Kind neighbor'.",
+            "options": ["Vecino amable", "Amigos fieles", "Hermano mayor", "Padre trabajador"],
+            "correctAnswer": "Vecino amable"
+          },
+          {
+            "question": "How do you say 'Classmate' in Spanish?",
+            "options": ["Compañero de clase", "Vecino amable", "Madre cariñosa", "Abuelos sabios"],
+            "correctAnswer": "Compañero de clase"
+          },
+          {
+            "question": "Which phrase means 'What is your family like?'",
+            "options": ["¿Cómo es tu familia?", "Mi familia es grande y unida", "Madre cariñosa", "Padre trabajador"],
+            "correctAnswer": "¿Cómo es tu familia?"
+          },
+          {
+            "question": "Select the answer for 'My family is large and close-knit.'",
+            "options": ["Mi familia es grande y unida", "¿Cómo es tu familia?", "Hermano mayor", "Abuelos sabios"],
+            "correctAnswer": "Mi familia es grande y unida"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Padre trabajador' to its English equivalent.",
+            "options": ["Hardworking father", "Loving mother", "Kind neighbor", "Older brother"],
+            "correctAnswer": "Hardworking father"
+          },
+          {
+            "question": "Translate 'Hermana menor' into English.",
+            "options": ["Younger sister", "Wise grandparents", "Faithful friends", "Classmate"],
+            "correctAnswer": "Younger sister"
+          },
+          {
+            "question": "What does 'Amigos fieles' mean?",
+            "options": ["Faithful friends", "Wise grandparents", "Kind neighbor", "Classmate"],
+            "correctAnswer": "Faithful friends"
+          },
+          {
+            "question": "How to say 'Kind neighbor' in Spanish?",
+            "options": ["Vecino amable", "Compañero de clase", "Madre cariñosa", "Amigos fieles"],
+            "correctAnswer": "Vecino amable"
+          },
+          {
+            "question": "Find the translation for '¿Cómo es tu familia?'.",
+            "options": ["What is your family like?", "My family is large and close-knit", "Older brother", "Loving mother"],
+            "correctAnswer": "What is your family like?"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Abuelos sabios'.",
+            "options": ["Wise grandparents", "Faithful friends", "Loving mother", "Kind neighbor"],
+            "correctAnswer": "Wise grandparents"
+          },
+          {
+            "question": "Which one means 'Compañero de clase'?",
+            "options": ["Classmate", "Younger sister", "Hardworking father", "Faithful friends"],
+            "correctAnswer": "Classmate"
+          },
+          {
+            "question": "Translate 'Mi familia es grande y unida' into Spanish.",
+            "options": ["My family is large and close-knit", "What is your family like?", "Wise grandparents", "Loving mother"],
+            "correctAnswer": "My family is large and close-knit"
+          },
+          {
+            "question": "What is the statement for 'Loving mother' in Spanish?",
+            "options": ["Madre cariñosa", "Padre trabajador", "Hermano mayor", "Vecino amable"],
+            "correctAnswer": "Madre cariñosa"
+          },
+          {
+            "question": "Select the phrase that describes 'Hardworking father'.",
+            "options": ["Padre trabajador", "Younger sister", "Wise grandparents", "Classmate"],
+            "correctAnswer": "Padre trabajador"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing family relations, how do you say 'Older brother'?",
+            "options": ["Hermano mayor", "Madre cariñosa", "Padre trabajador", "Vecino amable"],
+            "correctAnswer": "Hermano mayor"
+          },
+          {
+            "question": "If discussing family members, how would you say 'What is your family like?' in Spanish?",
+            "options": ["¿Cómo es tu familia?", "Mi familia es grande y unida", "Hermana menor", "Amigos fieles"],
+            "correctAnswer": "¿Cómo es tu familia?"
+          },
+          {
+            "question": "Choosing between relationships, how is 'Faithful friends' said in Spanish?",
+            "options": ["Amigos fieles", "Vecino amable", "Compañero de clase", "Abuelos sabios"],
+            "correctAnswer": "Amigos fieles"
+          },
+          {
+            "question": "How would you state 'My family is large and close-knit' in Spanish?",
+            "options": ["Mi familia es grande y unida", "¿Cómo es tu familia?", "Padre trabajador", "Hermana menor"],
+            "correctAnswer": "Mi familia es grande y unida"
+          },
+          {
+            "question": "Describing a community member, how do you say 'Kind neighbor'?",
+            "options": ["Vecino amable", "Madre cariñosa", "Amigos fieles", "Hermano mayor"],
+            "correctAnswer": "Vecino amable"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Reflexionando sobre el 'clima soleado en otoño', recuerdas momentos familiares. ¿Cómo expresas tu deseo de recrear esos momentos?",
+            "options": [
+              "El clima soleado en otoño me recuerda a los paseos familiares. ¿Podemos planear algo similar?",
+              "Prefiero el invierno para las reuniones familiares.",
+              "Los paseos en otoño no son lo mío.",
+              "Ojalá lloviera, así estaríamos todos juntos en casa."
+            ],
+            "correctAnswer": "El clima soleado en otoño me recuerda a los paseos familiares. ¿Podemos planear algo similar?"
+          },
+          {
+            "question": "Durante una reunión familiar, el tema de 'viajes en verano' surge. ¿Cómo sugieres que todos participen en la planificación?",
+            "options": [
+              "El verano se acerca. ¿Qué les parece si todos aportamos ideas para el viaje?",
+              "Solo quiero relajarme en verano, no me interesan los planes.",
+              "Alguien más decida, yo me adaptaré.",
+              "Viajar en verano es demasiado cliché para mí."
+            ],
+            "correctAnswer": "El verano se acerca. ¿Qué les parece si todos aportamos ideas para el viaje?"
+          },
+          {
+            "question": "Al hablar sobre 'pasatiempos en familia', mencionas que te gusta 'leer en días lluviosos de primavera'. ¿Cómo invitas a tu familia a compartir este interés?",
+            "options": [
+              "Me encanta leer, especialmente en los días lluviosos de primavera. ¿Les gustaría que formáramos un club de lectura familiar?",
+              "Sé que a nadie más le gusta leer cuando llueve.",
+              "Probablemente todos estén demasiado ocupados para leer.",
+              "Leer es mi pasatiempo solitario, prefiero mantenerlo así."
+            ],
+            "correctAnswer": "Me encanta leer, especialmente en los días lluviosos de primavera. ¿Les gustaría que formáramos un club de lectura familiar?"
+          },
+          {
+            "question": "Comentando sobre la 'tormenta por la tarde', recuerdas una anécdota familiar divertida. ¿Cómo inicias tu historia?",
+            "options": [
+              "Esta tormenta me recuerda a aquella vez que la abuela intentó enseñarnos a hacer cometas. ¿Recuerdan?",
+              "Odio las tormentas, no hay nada bueno que recordar.",
+              "Las tormentas siempre arruinan los planes.",
+              "Nunca he tenido una experiencia memorable durante una tormenta."
+            ],
+            "correctAnswer": "Esta tormenta me recuerda a aquella vez que la abuela intentó enseñarnos a hacer cometas. ¿Recuerdan?"
+          },
+          {
+            "question": "Al observar a 'niños jugando en la nieve', reflexionas sobre tu infancia. ¿Qué le cuentas a un miembro joven de la familia sobre esos momentos?",
+            "options": [
+              "Ver a esos niños en la nieve me hace recordar los inviernos de mi infancia. Solíamos construir fuertes de nieve.",
+              "Nunca me gustó jugar en la nieve.",
+              "Siempre preferí quedarme adentro durante el invierno.",
+              "La nieve era mejor en mis tiempos."
+            ],
+            "correctAnswer": "Ver a esos niños en la nieve me hace recordar los inviernos de mi infancia. Solíamos construir fuertes de nieve."
+          },
+          {
+            "question": "En una charla sobre 'aficiones personales', mencionas tu amor por 'pintar paisajes otoñales'. ¿Cómo sugieres compartir esta pasión con tu familia?",
+            "options": [
+              "Me fascina pintar, especialmente paisajes otoñales. ¿Qué les parece si hacemos una sesión de pintura juntos este fin de semana?",
+              "Dudo que a alguien más le interese la pintura.",
+              "No soy bueno enseñando a otros a pintar.",
+              "Preferiría mantener mi arte como una actividad personal."
+            ],
+            "correctAnswer": "Me fascina pintar, especialmente paisajes otoñales. ¿Qué les parece si hacemos una sesión de pintura juntos este fin de semana?"
+          },
+          {
+            "question": "Al discutir sobre 'viajar con la familia', propones un destino que todos amarán. ¿Cuál es tu propuesta considerando las preferencias de todos?",
+            "options": [
+              "Sé que todos amamos la naturaleza. ¿Qué les parece si este año vamos de camping a un parque nacional?",
+              "Viajar es demasiado complicado, mejor quedémonos en casa.",
+              "Nunca podemos ponernos de acuerdo sobre un destino.",
+              "Espero que elijan un lugar sin insectos esta vez."
+            ],
+            "correctAnswer": "Sé que todos amamos la naturaleza. ¿Qué les parece si este año vamos de camping a un parque nacional?"
+          },
+          {
+            "question": "Mientras planificas un 'evento familiar en primavera', consideras las actividades al aire libre. ¿Cómo presentas tu idea para aprovechar el 'clima lluvioso en primavera'?",
+            "options": [
+              "A pesar del clima lluvioso en primavera, podemos organizar una búsqueda del tesoro cubierta para los niños.",
+              "Mejor hagamos algo en interiores, el clima nunca coopera.",
+              "La lluvia siempre arruina los planes al aire libre.",
+              "¿Quién quiere estar afuera con tanta lluvia?"
+            ],
+            "correctAnswer": "A pesar del clima lluvioso en primavera, podemos organizar una búsqueda del tesoro cubierta para los niños."
+          },
+          {
+            "question": "Compartiendo recuerdos sobre 'reuniones en verano', mencionas la tradición de 'hacer barbacoa en días soleados'. ¿Cómo motivas a la familia para continuar esta tradición?",
+            "options": [
+              "Nuestros asados en días soleados son legendarios. Este año, hagamos el mejor de todos. ¿Quién se encarga de la parrilla?",
+              "Las barbacoas dan mucho trabajo.",
+              "Siempre termino haciendo todo el trabajo yo solo.",
+              "A nadie le gusta la barbacoa tanto como a mí."
+            ],
+            "correctAnswer": "Nuestros asados en días soleados son legendarios. Este año, hagamos el mejor de todos. ¿Quién se encarga de la parrilla?"
+          },
+          {
+            "question": "Hablando de 'actividades de otoño', sugieres recolectar hojas para un proyecto de arte familiar. ¿Cómo convences a todos de participar?",
+            "options": [
+              "El otoño nos regala hermosos colores. Recolectemos hojas y hagamos un collage familiar. Será divertido y creativo.",
+              "Nadie va a querer recoger hojas.",
+              "Eso suena como trabajo, no como una actividad divertida.",
+              "Probablemente termine haciéndolo solo."
+            ],
+            "correctAnswer": "El otoño nos regala hermosos colores. Recolectemos hojas y hagamos un collage familiar. Será divertido y creativo."
+          },
+          {
+            "question": "En una conversación sobre 'celebraciones familiares', destacas la importancia de 'estar todos juntos'. ¿Cómo expresas este sentimiento?",
+            "options": [
+              "Lo más importante de nuestras celebraciones es estar todos juntos, compartiendo y creando memorias.",
+              "Las reuniones familiares son siempre iguales.",
+              "Mejor sería si cada quien celebrara por su cuenta.",
+              "Organizar estas celebraciones es demasiado estresante."
+            ],
+            "correctAnswer": "Lo más importante de nuestras celebraciones es estar todos juntos, compartiendo y creando memorias."
+          },
+          {
+            "question": "Al planear un 'fin de semana en familia', buscas actividades que gusten a todos. ¿Qué sugieres considerando diversos intereses?",
+            "options": [
+              "Este fin de semana, propongamos actividades variadas para que todos encuentren algo que disfruten. ¿Qué tal si empezamos con una película familiar?",
+              "Hagamos lo de siempre, es más fácil.",
+              "A nadie le va a gustar mi idea.",
+              "Decidan sin mí, participaré en lo que sea."
+            ],
+            "correctAnswer": "Este fin de semana, propongamos actividades variadas para que todos encuentren algo que disfruten. ¿Qué tal si empezamos con una película familiar?"
+          },
+          {
+            "question": "Considerando un 'proyecto de jardinería familiar', piensas en cómo hacerlo inclusivo. ¿Cómo lo planteas para que todos, desde los abuelos hasta los más jóvenes, participen?",
+            "options": [
+              "Para nuestro proyecto de jardinería, asignemos tareas según las habilidades de cada uno. Los abuelos pueden guiarnos con su sabiduría y los niños pueden ayudar con las plantaciones.",
+              "Los proyectos de jardinería nunca terminan bien.",
+              "Probablemente solo participen los adultos.",
+              "Los niños se aburrirán rápido."
+            ],
+            "correctAnswer": "Para nuestro proyecto de jardinería, asignemos tareas según las habilidades de cada uno. Los abuelos pueden guiarnos con su sabiduría y los niños pueden ayudar con las plantaciones."
+          },
+          {
+            "question": "Al reflexionar sobre 'los cambios en la familia', buscas maneras de fortalecer los lazos. ¿Qué actividad propones?",
+            "options": [
+              "Los cambios siempre son parte de la vida familiar. ¿Qué les parece si fortalecemos nuestros lazos con una noche de juegos de mesa este fin de semana?",
+              "Hablemos de los cambios después, no es importante.",
+              "Los juegos de mesa son aburridos.",
+              "Nadie tiene tiempo para eso."
+            ],
+            "correctAnswer": "Los cambios siempre son parte de la vida familiar. ¿Qué les parece si fortalecemos nuestros lazos con una noche de juegos de mesa este fin de semana?"
+          },
+          {
+            "question": "En una discusión sobre 'mantenerse en contacto con familiares lejanos', propones una solución tecnológica. ¿Cuál es tu sugerencia?",
+            "options": [
+              "Para mantenernos en contacto con los familiares lejanos, podríamos organizar videollamadas grupales mensuales. Así, todos estamos al tanto de nuestras vidas.",
+              "Las videollamadas son demasiado complicadas.",
+              "No creo que a los abuelos les guste la idea.",
+              "La tecnología no es para mí."
+            ],
+            "correctAnswer": "Para mantenernos en contacto con los familiares lejanos, podríamos organizar videollamadas grupales mensuales. Así, todos estamos al tanto de nuestras vidas."
+          },
+          {
+            "question": "Ante la llegada de un 'nuevo miembro a la familia', buscas formas de darle la bienvenida. ¿Cómo expresas tu emoción y tus ideas para la bienvenida?",
+            "options": [
+              "La llegada de un nuevo miembro a la familia es un momento especial. Organicemos una bienvenida calurosa que muestre cuánto amor y apoyo tenemos para ofrecer.",
+              "Otro miembro más, ¿eh?",
+              "Espero que no cambie mucho la dinámica familiar.",
+              "Las bienvenidas siempre me parecen exageradas."
+            ],
+            "correctAnswer": "La llegada de un nuevo miembro a la familia es un momento especial. Organicemos una bienvenida calurosa que muestre cuánto amor y apoyo tenemos para ofrecer."
+          }
+        ]
+      }
+    ]
+  }

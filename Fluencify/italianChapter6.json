@@ -1,0 +1,210 @@
+{
+    "chapterTitle": "Days, Time, and Routine",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Monday morning' in Italian?",
+            "options": ["Lunedì mattina", "Martedì pomeriggio", "Mercoledì a mezzogiorno", "Giovedì sera"],
+            "correctAnswer": "Lunedì mattina"
+          },
+          {
+            "question": "Choose the Italian phrase for 'Tuesday afternoon'.",
+            "options": ["Martedì pomeriggio", "Venerdì all'alba", "Sabato al tramonto", "Domenica tutto il giorno"],
+            "correctAnswer": "Martedì pomeriggio"
+          },
+          {
+            "question": "Which translates to 'Wednesday at noon'?",
+            "options": ["Mercoledì a mezzogiorno", "Giovedì sera", "Lunedì mattina", "Ora di dormire"],
+            "correctAnswer": "Mercoledì a mezzogiorno"
+          },
+          {
+            "question": "How do you express 'Thursday evening' in Italian?",
+            "options": ["Giovedì sera", "Venerdì all'alba", "Sabato al tramonto", "Domenica tutto il giorno"],
+            "correctAnswer": "Giovedì sera"
+          },
+          {
+            "question": "Select the translation for 'Friday at dawn'.",
+            "options": ["Venerdì all'alba", "Lunedì mattina", "Martedì pomeriggio", "Ora di dormire"],
+            "correctAnswer": "Venerdì all'alba"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to 'Saturday at dusk'?",
+            "options": ["Sabato al tramonto", "Domenica tutto il giorno", "Mercoledì a mezzogiorno", "Giovedì sera"],
+            "correctAnswer": "Sabato al tramonto"
+          },
+          {
+            "question": "Find the Italian term for 'Sunday all day'.",
+            "options": ["Domenica tutto il giorno", "Lunedì mattina", "Ora di dormire", "Venerdì all'alba"],
+            "correctAnswer": "Domenica tutto il giorno"
+          },
+          {
+            "question": "How do you say 'Time to sleep' in Italian?",
+            "options": ["Ora di dormire", "Martedì pomeriggio", "Sabato al tramonto", "Mercoledì a mezzogiorno"],
+            "correctAnswer": "Ora di dormire"
+          },
+          {
+            "question": "Which phrase means 'What time do you get up?'",
+            "options": ["A che ora ti alzi?", "Mi alzo alle sette", "Lunedì mattina", "Ora di dormire"],
+            "correctAnswer": "A che ora ti alzi?"
+          },
+          {
+            "question": "Select the answer for 'I get up at seven.'",
+            "options": ["Mi alzo alle sette", "A che ora ti alzi?", "Sabato al tramonto", "Domenica tutto il giorno"],
+            "correctAnswer": "Mi alzo alle sette"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Lunedì mattina' to its English counterpart.",
+            "options": ["Monday morning", "Tuesday afternoon", "Wednesday at noon", "Thursday evening"],
+            "correctAnswer": "Monday morning"
+          },
+          {
+            "question": "Translate 'Martedì pomeriggio' into English.",
+            "options": ["Friday at dawn", "Saturday at dusk", "Tuesday afternoon", "Sunday all day"],
+            "correctAnswer": "Tuesday afternoon"
+          },
+          {
+            "question": "What does 'Mercoledì a mezzogiorno' mean?",
+            "options": ["Wednesday at noon", "Time to sleep", "Monday morning", "Thursday evening"],
+            "correctAnswer": "Wednesday at noon"
+          },
+          {
+            "question": "How to say 'Thursday evening' in Italian?",
+            "options": ["Giovedì sera", "Venerdì all'alba", "Sabato al tramonto", "Domenica tutto il giorno"],
+            "correctAnswer": "Giovedì sera"
+          },
+          {
+            "question": "Find the translation for 'Venerdì all'alba'.",
+            "options": ["Friday at dawn", "Saturday at dusk", "Time to sleep", "Sunday all day"],
+            "correctAnswer": "Friday at dawn"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Sabato al tramonto'.",
+            "options": ["Saturday at dusk", "Sunday all day", "Monday morning", "Time to sleep"],
+            "correctAnswer": "Saturday at dusk"
+          },
+          {
+            "question": "Which one means 'Domenica tutto il giorno'?",
+            "options": ["Sunday all day", "Tuesday afternoon", "Friday at dawn", "Time to sleep"],
+            "correctAnswer": "Sunday all day"
+          },
+          {
+            "question": "Translate 'What time do you get up?' into Italian.",
+            "options": ["A che ora ti alzi?", "Mi alzo alle sette", "Giovedì sera", "Ora di dormire"],
+            "correctAnswer": "A che ora ti alzi?"
+          },
+          {
+            "question": "What is the statement for 'I get up at seven' in Italian?",
+            "options": ["Mi alzo alle sette", "A che ora ti alzi?", "Lunedì mattina", "Sabato al tramonto"],
+            "correctAnswer": "Mi alzo alle sette"
+          },
+          {
+            "question": "Select the phrase that describes 'Time to sleep'.",
+            "options": ["Ora di dormire", "Venerdì all'alba", "Domenica tutto il giorno", "Martedì pomeriggio"],
+            "correctAnswer": "Ora di dormire"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing a routine, how do you say 'I get up at seven'?",
+            "options": ["Mi alzo alle sette", "A che ora ti alzi?", "Domenica tutto il giorno", "Ora di dormire"],
+            "correctAnswer": "Mi alzo alle sette"
+          },
+          {
+            "question": "If discussing your schedule, how would you say 'Monday morning' in Italian?",
+            "options": ["Lunedì mattina", "Martedì pomeriggio", "Mercoledì a mezzogiorno", "Giovedì sera"],
+            "correctAnswer": "Lunedì mattina"
+          },
+          {
+            "question": "Choosing between parts of the day, how is 'Tuesday afternoon' said in Italian?",
+            "options": ["Martedì pomeriggio", "Venerdì all'alba", "Sabato al tramonto", "Domenica tutto il giorno"],
+            "correctAnswer": "Martedì pomeriggio"
+          },
+          {
+            "question": "How would you state 'Wednesday at noon' in Italian?",
+            "options": ["Mercoledì a mezzogiorno", "Giovedì sera", "Lunedì mattina", "Venerdì all'alba"],
+            "correctAnswer": "Mercoledì a mezzogiorno"
+          },
+          {
+            "question": "Describing a part of the week, how do you say 'Thursday evening'?",
+            "options": ["Giovedì sera", "Sabato al tramonto", "Domenica tutto il giorno", "Martedì pomeriggio"],
+            "correctAnswer": "Giovedì sera"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Il lunedì mattina, decidendo cosa fare durante la settimana, chiedi al tuo amico, 'A che ora ti alzi?'",
+            "options": ["'Mi alzo alle sette.'", "'Preferisco il pane.'", "'Sono felice per te.'", "'Vado a dormire ora.'"],
+            "correctAnswer": "'Mi alzo alle sette.'"
+          },
+          {
+            "question": "Parlando dei piani per martedì pomeriggio, il tuo amico suggerisce di andare al ristorante italiano. Tu esprimi entusiasmo dicendo...",
+            "options": ["'Sarebbe eccitante!'", "'Sono arrabbiato per la situazione.'", "'Mi sento stanco dal lavoro.'", "'Ho paura del buio.'"],
+            "correctAnswer": "'Sarebbe eccitante!'"
+          },
+          {
+            "question": "Mercoledì a mezzogiorno, discutete dove mangiare. Avendo voglia di frutta, chiedi, 'Preferisci la mela rossa o l'arancia dolce?'",
+            "options": ["'Preferisco la mela rossa.'", "'Mi piace il pane fresco.'", "'Il formaggio stagionato è il mio preferito.'", "'Bevo sempre latte freddo.'"],
+            "correctAnswer": "'Preferisco la mela rossa.'"
+          },
+          {
+            "question": "Giovedì sera, mentre pianificate il fine settimana, ti chiede, 'Ti piacerebbe fare una passeggiata al parco bello sabato al tramonto?'",
+            "options": ["'Sì, amo il parco bello.'", "'No, preferisco stare a casa.'", "'Forse, se non sono troppo stanco dal lavoro.'", "'Dipende dal tempo.'"],
+            "correctAnswer": "'Sì, amo il parco bello.'"
+          },
+          {
+            "question": "Venerdì all'alba, parlando dei vostri hobby, scopri che entrambi amate la lettura. 'Dove si trova la libreria vicina?' chiedi, sperando di visitarla insieme.",
+            "options": ["'Accanto al museo interessante.'", "'Vicino alla scuola nuova.'", "'Dietro la chiesa antica.'", "'Nel centro della città.'"],
+            "correctAnswer": "'Nel centro della città.'"
+          },
+          {
+            "question": "Sabato al tramonto, riflettendo sulla settimana, discutete delle emozioni recenti. 'Come ti sei sentito con le notizie di lunedì?'",
+            "options": ["'Ero triste per la notizia.'", "'Mi sentivo felice per te.'", "'Ero confuso dalle istruzioni.'", "'Spaventato dal buio.'"],
+            "correctAnswer": "'Ero triste per la notizia.'"
+          },
+          {
+            "question": "Domenica tutto il giorno, pianificate un'escursione. Discutendo del pranzo al sacco, chiedi, 'Cosa preferisci, pane fresco o formaggio stagionato?'",
+            "options": ["'Il pane fresco, per favore.'", "'Amo il formaggio stagionato.'", "'Potremmo portare anche una mela rossa?'", "'E dell'uva verde?'"],
+            "correctAnswer": "'Il pane fresco, per favore.'"
+          },
+          {
+            "question": "Prima di separarvi domenica sera, l'amico ti chiede, 'A che ora ci vediamo lunedì mattina?'",
+            "options": ["'Alle sette, come al solito.'", "'Preferisco incontrarci martedì pomeriggio.'", "'Mercoledì a mezzogiorno va bene?'", "'Giovedì sera è meglio per me.'"],
+            "correctAnswer": "'Alle sette, come al solito.'"
+          },
+          {
+            "question": "Mentre programmi la sveglia per lunedì, pensi a quanto sia stata bella la settimana e ti senti...",
+            "options": ["'Felice per le esperienze condivise.'", "'Eccitato per le avventure future.'", "'Triste che la settimana sia finita.'", "'Grato per l'amicizia.'"],
+            "correctAnswer": "'Grato per l'amicizia.'"
+          },
+          {
+            "question": "Infine, riflettendo su come migliorare la tua routine, consideri, 'Dovrei alzarmi più presto per leggere o fare esercizio?' Questo pensiero ti fa sentire...",
+            "options": ["'Motivato per la nuova routine.'", "'Preoccupato di non riposare abbastanza.'", "'Entusiasta all'idea di cambiamenti positivi.'", "'Confuso su cosa sia meglio fare.'"],
+            "correctAnswer": "'Entusiasta all'idea di cambiamenti positivi.'"
+          }
+        ]
+      }
+    ]
+  }

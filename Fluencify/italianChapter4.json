@@ -1,0 +1,210 @@
+{
+    "chapterTitle": "Emotions and Reactions",
+    "levels": [
+      {
+        "level": 1,
+        "questions": [
+          {
+            "question": "How do you say 'Happy for you' in Italian?",
+            "options": ["Felice per te", "Triste per la notizia", "Arrabbiato per la situazione", "Eccitato per il viaggio"],
+            "correctAnswer": "Felice per te"
+          },
+          {
+            "question": "Choose the Italian phrase for 'Sad about the news'.",
+            "options": ["Triste per la notizia", "Stanco per il lavoro", "Spaventato dal buio", "Sorpreso dalla festa"],
+            "correctAnswer": "Triste per la notizia"
+          },
+          {
+            "question": "Which translates to 'Angry about the situation'?",
+            "options": ["Arrabbiato per la situazione", "Confuso dalle istruzioni", "Felice per te", "Eccitato per il viaggio"],
+            "correctAnswer": "Arrabbiato per la situazione"
+          },
+          {
+            "question": "How do you express 'Excited for the trip' in Italian?",
+            "options": ["Eccitato per il viaggio", "Triste per la notizia", "Spaventato dal buio", "Stanco per il lavoro"],
+            "correctAnswer": "Eccitato per il viaggio"
+          },
+          {
+            "question": "Select the translation for 'Tired from work'.",
+            "options": ["Stanco per il lavoro", "Sorpreso dalla festa", "Confuso dalle istruzioni", "Felice per te"],
+            "correctAnswer": "Stanco per il lavoro"
+          }
+        ]
+      },
+      {
+        "level": 2,
+        "questions": [
+          {
+            "question": "Which term refers to being 'Scared of the dark'?",
+            "options": ["Spaventato dal buio", "Arrabbiato per la situazione", "Eccitato per il viaggio", "Triste per la notizia"],
+            "correctAnswer": "Spaventato dal buio"
+          },
+          {
+            "question": "Find the Italian term for 'Surprised by the party'.",
+            "options": ["Sorpreso dalla festa", "Confuso dalle istruzioni", "Felice per te", "Stanco per il lavoro"],
+            "correctAnswer": "Sorpreso dalla festa"
+          },
+          {
+            "question": "How do you say 'Confused by the instructions' in Italian?",
+            "options": ["Confuso dalle istruzioni", "Spaventato dal buio", "Arrabbiato per la situazione", "Eccitato per il viaggio"],
+            "correctAnswer": "Confuso dalle istruzioni"
+          },
+          {
+            "question": "Which phrase means 'How do you feel today?'",
+            "options": ["Come ti senti oggi?", "Mi sento eccitato per il concerto", "Felice per te", "Stanco per il lavoro"],
+            "correctAnswer": "Come ti senti oggi?"
+          },
+          {
+            "question": "Select the answer for 'I feel excited about the concert.'",
+            "options": ["Mi sento eccitato per il concerto", "Come ti senti oggi?", "Sorpreso dalla festa", "Confuso dalle istruzioni"],
+            "correctAnswer": "Mi sento eccitato per il concerto"
+          }
+        ]
+      },
+      {
+        "level": 3,
+        "questions": [
+          {
+            "question": "Match 'Felice per te' to its English counterpart.",
+            "options": ["Happy for you", "Sad about the news", "Angry about the situation", "Tired from work"],
+            "correctAnswer": "Happy for you"
+          },
+          {
+            "question": "Translate 'Triste per la notizia' into English.",
+            "options": ["Scared of the dark", "Sad about the news", "Surprised by the party", "Excited for the trip"],
+            "correctAnswer": "Sad about the news"
+          },
+          {
+            "question": "What does 'Arrabbiato per la situazione' mean?",
+            "options": ["Angry about the situation", "Confused by the instructions", "Happy for you", "Tired from work"],
+            "correctAnswer": "Angry about the situation"
+          },
+          {
+            "question": "How to say 'Excited for the trip' in Italian?",
+            "options": ["Eccitato per il viaggio", "Triste per la notizia", "Spaventato dal buio", "Arrabbiato per la situazione"],
+            "correctAnswer": "Eccitato per il viaggio"
+          },
+          {
+            "question": "Find the translation for 'Stanco per il lavoro'.",
+            "options": ["Tired from work", "Surprised by the party", "Scared of the dark", "Confused by the instructions"],
+            "correctAnswer": "Tired from work"
+          }
+        ]
+      },
+      {
+        "level": 4,
+        "questions": [
+          {
+            "question": "Choose the correct translation for 'Spaventato dal buio'.",
+            "options": ["Scared of the dark", "Surprised by the party", "Confused by the instructions", "Happy for you"],
+            "correctAnswer": "Scared of the dark"
+          },
+          {
+            "question": "Which one means 'Sorpreso dalla festa'?",
+            "options": ["Surprised by the party", "Excited for the trip", "Sad about the news", "Angry about the situation"],
+            "correctAnswer": "Surprised by the party"
+          },
+          {
+            "question": "Translate 'How do you feel today?' into Italian.",
+            "options": ["Come ti senti oggi?", "Mi sento eccitato per il concerto", "Felice per te", "Confuso dalle istruzioni"],
+            "correctAnswer": "Come ti senti oggi?"
+          },
+          {
+            "question": "What is the statement for 'I feel excited about the concert' in Italian?",
+            "options": ["Mi sento eccitato per il concerto", "Come ti senti oggi?", "Eccitato per il viaggio", "Sorpreso dalla festa"],
+            "correctAnswer": "Mi sento eccitato per il concerto"
+          },
+          {
+            "question": "Select the phrase that describes feeling 'Confused by the instructions'.",
+            "options": ["Confuso dalle istruzioni", "Spaventato dal buio", "Arrabbiato per la situazione", "Stanco per il lavoro"],
+            "correctAnswer": "Confuso dalle istruzioni"
+          }
+        ]
+      },
+      {
+        "level": 5,
+        "questions": [
+          {
+            "question": "Expressing empathy, how do you say 'Happy for you'?",
+            "options": ["Felice per te", "Triste per la notizia", "Eccitato per il viaggio", "Confuso dalle istruzioni"],
+            "correctAnswer": "Felice per te"
+          },
+          {
+            "question": "If news was unfortunate, how would you express 'Sad about the news' in Italian?",
+            "options": ["Triste per la notizia", "Arrabbiato per la situazione", "Spaventato dal buio", "Sorpreso dalla festa"],
+            "correctAnswer": "Triste per la notizia"
+          },
+          {
+            "question": "Choosing to describe frustration, how is 'Angry about the situation' said in Italian?",
+            "options": ["Arrabbiato per la situazione", "Confuso dalle istruzioni", "Eccitato per il viaggio", "Stanco per il lavoro"],
+            "correctAnswer": "Arrabbiato per la situazione"
+          },
+          {
+            "question": "How would you state 'Excited for the trip' in Italian?",
+            "options": ["Eccitato per il viaggio", "Felice per te", "Triste per la notizia", "Spaventato dal buio"],
+            "correctAnswer": "Eccitato per il viaggio"
+          },
+          {
+            "question": "Describing a common reaction to overwork, how do you say 'Tired from work'?",
+            "options": ["Stanco per il lavoro", "Sorpreso dalla festa", "Confuso dalle istruzioni", "Spaventato dal buio"],
+            "correctAnswer": "Stanco per il lavoro"
+          }
+        ]
+      },
+      {
+        "level": 6,
+        "questions": [
+          {
+            "question": "Incontri un vecchio amico che sembra molto felice. Chiedi, 'Come ti senti oggi?'",
+            "options": ["'Mi sento eccitato per il concerto.'", "'Felice per te'", "'Stanco per il lavoro'", "'Sorpreso dalla festa'"],
+            "correctAnswer": "'Mi sento eccitato per il concerto.'"
+          },
+          {
+            "question": "L'amico menziona che stasera c'è una festa a sorpresa per un altro amico. Tu rispondi, 'Sono...'",
+            "options": ["'Sorpreso dalla festa'", "'Confuso dalle istruzioni'", "'Arrabbiato per la situazione'", "'Spaventato dal buio'"],
+            "correctAnswer": "'Sorpreso dalla festa'"
+          },
+          {
+            "question": "Poi ti racconta di un recente viaggio avventuroso. Tu esprimi, 'Sembra fantastico! Sono molto...'",
+            "options": ["'Eccitato per il viaggio'", "'Felice per te'", "'Triste per la notizia'", "'Arrabbiato per la situazione'"],
+            "correctAnswer": "'Eccitato per il viaggio'"
+          },
+          {
+            "question": "L'amico diventa serio e condivide alcune notizie personali non così positive. Tu mostri empatia dicendo, 'Sono...'",
+            "options": ["'Triste per la notizia'", "'Felice per te'", "'Stanco per il lavoro'", "'Confuso dalle istruzioni'"],
+            "correctAnswer": "'Triste per la notizia'"
+          },
+          {
+            "question": "Dopo la conversazione, decidete di andare insieme alla festa. Mentre camminate, notate che il parco è buio. L'amico dice, 'Non mi piace questo, sono un po'...'",
+            "options": ["'Spaventato dal buio'", "'Arrabbiato per la situazione'", "'Sorpreso dalla festa'", "'Eccitato per il viaggio'"],
+            "correctAnswer": "'Spaventato dal buio'"
+          },
+          {
+            "question": "Arrivati alla festa, tutto è perfetto e tu ti senti...",
+            "options": ["'Felice per te'", "'Stanco per il lavoro'", "'Arrabbiato per la situazione'", "'Confuso dalle istruzioni'"],
+            "correctAnswer": "'Felice per te'"
+          },
+          {
+            "question": "Durante la festa, un amico comune inizia a raccontare storie imbarazzanti su di te. Tu reagisci sentendoti...",
+            "options": ["'Arrabbiato per la situazione'", "'Sorpreso dalla festa'", "'Spaventato dal buio'", "'Triste per la notizia'"],
+            "correctAnswer": "'Arrabbiato per la situazione'"
+          },
+          {
+            "question": "Dopo un po', però, l'atmosfera si rilassa e tu inizi a divertirti, sentendoti meno...",
+            "options": ["'Confuso dalle istruzioni'", "'Stanco per il lavoro'", "'Spaventato dal buio'", "'Arrabbiato per la situazione'"],
+            "correctAnswer": "'Arrabbiato per la situazione'"
+          },
+          {
+            "question": "Verso la fine della serata, il tuo amico ti chiede se sei stanco. Tu rispondi sinceramente, 'Sì, sono molto...'",
+            "options": ["'Stanco per il lavoro'", "'Triste per la notizia'", "'Felice per te'", "'Eccitato per il viaggio'"],
+            "correctAnswer": "'Stanco per il lavoro'"
+          },
+          {
+            "question": "Prima di separarvi, il tuo amico ti ringrazia per essere venuto e tu rispondi, 'Di nulla, sono stato...'",
+            "options": ["'Felice per te'", "'Sorpreso dalla festa'", "'Eccitato per il viaggio'", "'Confuso dalle istruzioni'"],
+            "correctAnswer": "'Felice per te'"
+          }
+        ]
+      }
+    ]
+  }
